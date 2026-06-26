@@ -397,6 +397,11 @@ function renderCard(item) {{
 // ── Filter + sort ────────────────────────────────────────────────────────────
 function filtered() {{
   let items = state.items;
+  const today = new Date().toISOString().slice(0,10);
+  items = items.filter(i => {
+    const d = i.deadline || i.event_date;
+    return !d || d >= today;
+  });
   if (state.location !== 'all') items = items.filter(i => i.location === state.location);
   if (state.category !== 'all') items = items.filter(i => i.category === state.category);
   if (state.search) {{
