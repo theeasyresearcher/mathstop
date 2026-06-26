@@ -398,7 +398,7 @@ function renderCard(item) {{
 function filtered() {{
   let items = state.items;
   const today = new Date().toISOString().slice(0,10);
-  items = items.filter(i => {
+  items = items.filter(i => {{
     const d = i.deadline || i.event_date;
     return !d || d >= today;
   });
