@@ -1,0 +1,35 @@
+name: Daily Update
+
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Install Playwright Chromium
+        run: playwright install chromium --with-deps
+      - name: Run scraper
+        run: python scraper.py
+      - name: Run classifier
+        run: python classify.py
+      - name: Build site
+        run: python build_site.py
+      - name: Commit and push
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git add data/ index.html scraper_errors.log
+          git diff --staged --quiet || git commit -m "Auto update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
