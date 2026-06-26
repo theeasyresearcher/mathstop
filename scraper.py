@@ -28,6 +28,7 @@ log = logging.getLogger(__name__)
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; MathStatDSBot/1.0)"}
 TIMEOUT = 20
+MAX_ITEMS_PER_SOURCE = 50
 DATA_DIR = Path("data")
 DATA_DIR.mkdir(exist_ok=True)
 
@@ -129,7 +130,7 @@ def scrape_requests(source, session):
         desc = truncate(context)
         items.append(make_item(text, desc, href, deadline, event_date,
                                source["name"], url))
-    return items
+    return items[:MAX_ITEMS_PER_SOURCE]
 
 
 # ── Playwright scraper ────────────────────────────────────────────────────────
