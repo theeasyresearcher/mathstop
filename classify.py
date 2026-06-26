@@ -103,18 +103,25 @@ def is_expired(item: dict) -> bool:
 
 def dedup(raw_items: list[dict], seen_ids: dict, seen_titles: dict) -> list[dict]:
     kept = []
+    # Cap raw items to prevent O(n²) explosion
+    raw_items = raw_items[:3000]
+    
     for item in raw_items:
         uid = item["id"]
-        # Layer 1: URL hash
+        # Layer 1: URL hash (fast)
         if uid in seen_ids:
             continue
-        # Layer 2: title similarity
+        # Layer 2: title similarity (only against kept, not all seen_titles)
         title = item.get("title", "").lower().strip()
         duplicate = False
-        for existing_title, existing_id in seen_titles.items():
+        # Only check last 500 titles for speed
+        recent_titles = list(seen_titles.items())[-500:]
+        for existing_title, existing_id in recent_titles:
+            # Quick length pre-filter before expensive SequenceMatcher
+            if abs(len(title) - len(existing_title)) > 50:
+                continue
             ratio = difflib.SequenceMatcher(None, title, existing_title).ratio()
             if ratio > 0.85:
-                # Keep item with longer description
                 existing_items = [i for i in kept if i["id"] == existing_id]
                 if existing_items:
                     ex = existing_items[0]
@@ -130,7 +137,6 @@ def dedup(raw_items: list[dict], seen_ids: dict, seen_titles: dict) -> list[dict
             seen_titles[title] = uid
             kept.append(item)
     return kept
-
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
