@@ -1,0 +1,6 @@
+type,priority,keywords
+Exam Notification,1,"CSIR,NET,GATE,SET,KSET,TSET,JEST,JAM,UGC,admit card,hall ticket,result,syllabus,application form,last date,answer key,cut off,rank list,scorecard,registration open,exam date,notification,exam schedule,exam pattern,eligibility"
+Fellowship Award,2,"fellowship,award,prize,grant,scholarship,position,postdoc,JRF,SRF,PDF,research associate,stipend,funding,WIDUSHI,visiting fellow,junior research,senior research,project fellow"
+Workshop School,3,"workshop,FDP,STTP,ATM school,summer school,winter school,short course,training programme,instructional school,AIS,IST,TEW,AFS,refresher course,faculty development,staff training,hands-on,bootcamp,school on"
+Webinar Lecture,4,"webinar,online lecture,talk series,colloquium,seminar series,zoom,google meet,virtual talk,online session,live session,youtube live,online seminar,talk by,lecture by,invited talk"
+Conference,5,"conference,symposium,congress,meeting,ICMS,ICCM,proceedings,call for papers,CFP,abstract submission,international conference,national conference,submit paper,paper submission"

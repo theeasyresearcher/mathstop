@@ -1,0 +1,121 @@
+id,name,url,region,domain,category,subcategory,description,india_focus,world_focus,scrape_method,priority,source
+1,ATM Schools NCM,https://www.atmschools.org/,India,Math,India Research Institutes,Top Priority,National Centre for Mathematics (IIT Bombay+TIFR): ATM Schools/AIS/NCMW workshops India,Yes,No,requests,1,both
+2,Delhi Univ Maths,https://maths.du.ac.in/news-events-outsidedu/,India,Math,Hand-Curated India Lists,Top Priority,Delhi University Maths: month-wise curated list of India+world maths events,Yes,Yes,requests,1,both
+3,ICTS Bengaluru,https://www.icts.res.in/current-and-upcoming-events,India,Math+Phys,,,,Yes,No,requests,1,uploaded_only
+4,Indian Mathematical Society,https://indianmathsoc.org/,India,Math,,,,Yes,No,requests,1,uploaded_only
+5,Mathseon Notifications,https://mathseon.in/notifications/,India,Math+Stat,,,,Yes,No,playwright,1,uploaded_only
+6,P Kalika,https://pkalika.in/webinars-workshop-conference/,India,Math+Stat,Hand-Curated India Lists,Top Priority,Regularly updated FDPs/SSTPs/workshops/conferences India; reliable curated source,Yes,No,requests,1,both
+7,TIFR Math,https://mathweb.tifr.res.in/conferences.html,India,Math,India Research Institutes,Top Priority,TIFR School of Mathematics: upcoming + archived intl colloquia and workshops,Yes,No,requests,1,both
+8,AIM Workshops,https://aimath.org/workshops/upcoming/,World,Math,,,,No,Yes,requests,1,uploaded_only
+9,AMS Math Calendar,https://www.ams.org/calendar/mathcalendar.pl,World,Math,,,,No,Yes,requests,1,uploaded_only
+10,ASA Meetings,https://www.amstat.org/meetings,World,Stat,,,,No,Yes,requests,1,uploaded_only
+11,COMS Calendar,https://conference-service.com/conferences/mathematics.html,World,Math,,,,No,Yes,requests,1,uploaded_only
+12,DataEvents.co ML,https://dataevents.co/ml,World,DS,,,,No,Yes,requests,1,uploaded_only
+13,ICLR,https://iclr.cc/,World,DS,,,,No,Yes,requests,1,uploaded_only
+14,ICML,https://icml.cc/,World,DS,Data Science Conferences,Global,International Conference on Machine Learning,No,Yes,requests,1,both
+15,IMS Meetings Calendar,https://imstat.org/meetings-calendar/,World,Stat,,,,No,Yes,requests,1,uploaded_only
+16,ISI World Calendar,https://isi-web.org/calendar,World,Stat,,,,No,Yes,requests,1,uploaded_only
+17,KDD,https://www.kdd.org/,World,DS,,,,No,Yes,requests,1,uploaded_only
+18,KDnuggets Meetings,https://www.kdnuggets.com/meetings.html,World,DS,,,,No,Yes,requests,1,uploaded_only
+19,LMS Events,https://www.lms.ac.uk/events/calendar,World,Math,,,,No,Yes,requests,1,uploaded_only
+20,MathMeetings.net,https://mathmeetings.net/,World,Math,,,,No,Yes,requests,1,uploaded_only
+21,NeurIPS,https://neurips.cc/,World,DS,Data Science Conferences,Global,Neural Information Processing Systems: premier ML/AI research conference,No,Yes,requests,1,both
+22,ResearchSeminars.org,https://researchseminars.org/,World,Math+Stat,,,,No,Yes,requests,1,uploaded_only
+23,RSS Events,https://rss.org.uk/training-events/,World,Stat,,,,No,Yes,requests,1,uploaded_only
+24,SIAM Conferences,https://www.siam.org/conferences/,World,Math+DS,,,,No,Yes,requests,1,uploaded_only
+25,WikiCFP Data Science,http://www.wikicfp.com/cfp/call?conference=data+science,World,DS,,,,No,Yes,requests,1,uploaded_only
+26,WikiCFP Mathematics,http://www.wikicfp.com/cfp/call?conference=mathematics,World,Math,,,,No,Yes,requests,1,uploaded_only
+27,WikiCFP Statistics,http://www.wikicfp.com/cfp/call?conference=statistics,World,Stat,,,,No,Yes,requests,1,uploaded_only
+28,AllConferenceAlert India Math,https://www.allconferencealert.com/india/mathematics.html,India,Math,,,,Yes,No,requests,2,uploaded_only
+29,AllConferenceAlert India Stat,https://www.allconferencealert.com/india/mathematics-and-statistics.html,India,Stat,,,,Yes,No,requests,2,uploaded_only
+30,CMI Chennai,https://www.cmi.ac.in/events/,India,Math,,,,Yes,No,requests,2,uploaded_only
+31,Conference Alerts India Math,https://www.conferencealerts.in/india/mathematics,India,Math,Conference Aggregators,General,India-focused verified maths & statistics listings,Yes,No,requests,2,both
+32,Conference Alerts India Stat,https://www.conferencealerts.in/india/statistics,India,Stat,,,,Yes,No,requests,2,uploaded_only
+33,HRI Prayagraj,https://www.hri.res.in/,India,Math+Phys,,,,Yes,No,requests,2,uploaded_only
+34,IISER Pune Events,https://www.iiserpune.ac.in/,India,Math+Sci,,,,Yes,No,requests,2,uploaded_only
+35,IIT Bombay Math,https://www.math.iitb.ac.in/,India,Math,,,,Yes,No,requests,2,uploaded_only
+36,IMSA India,https://www.imsaindia.org/,India,Math+Sci,,,,Yes,No,requests,2,uploaded_only
+37,ISI Kolkata Events,https://www.isical.ac.in/,India,Math+Stat,,,,Yes,No,requests,2,uploaded_only
+38,Ramanujan Math Society,https://www.ramanujanmathsociety.org/,India,Math,Official Maths Bodies,India,RMS events and conferences India,Yes,No,requests,2,both
+39,10times Math,https://10times.com/mathematics/conferences,World,Math,,,,No,Yes,playwright,2,uploaded_only
+40,ACM Conferences,https://www.acm.org/conferences,World,DS+CS,,,,No,Yes,requests,2,uploaded_only
+41,AllConferenceAlert World Math,https://www.allconferencealert.com/mathematics.html,World,Math,,,,No,Yes,requests,2,uploaded_only
+42,AllConferenceAlert World Stat,https://www.allconferencealert.com/statistics.html,World,Stat,,,,No,Yes,requests,2,uploaded_only
+43,Bernoulli Society Events,https://www.bernoulli-society.org/events,World,Stat,,,,No,Yes,requests,2,uploaded_only
+44,CFP Wiki,https://cfp.wiki/,World,Multi,,,,No,Yes,requests,2,uploaded_only
+45,Conference Index Math,https://conferenceindex.org/conferences/mathematics,World,Math,,,,No,Yes,requests,2,uploaded_only
+46,Conference Index Stat,https://conferenceindex.org/conferences/statistics,World,Stat,,,,No,Yes,requests,2,uploaded_only
+47,Conference Wiki,https://conferencewiki.com/,World,Multi,,,,No,Yes,requests,2,uploaded_only
+48,EMS Events,https://euro-math-soc.eu/events,World,Math,,,,No,Yes,requests,2,uploaded_only
+49,IASC-ISI,https://iasc-isi.org/,World,Stat+DS,,,,No,Yes,requests,2,uploaded_only
+50,MDPI Sciforum,https://sciforum.net/,World,Multi,,,,No,Yes,requests,2,uploaded_only
+51,ODSC,https://odsc.com/,World,DS,Data Science Conferences,Global,Open Data Science Conference: East/West USA + virtual,No,Yes,requests,2,both
+52,Stanford Vakil Conf List,https://math.stanford.edu/~vakil/conferences.html,World,Math,,,,No,Yes,requests,2,uploaded_only
+53,Tryolabs AI Conf,https://tryolabs.com/blog/machine-learning-deep-learning-conferences,World,DS,,,,No,Yes,requests,2,uploaded_only
+54,WikiCFP Data Mining,http://www.wikicfp.com/cfp/call?conference=data+mining,World,DS,,,,No,Yes,requests,2,uploaded_only
+55,WikiCFP Machine Learning,http://www.wikicfp.com/cfp/call?conference=machine+learning,World,DS,,,,No,Yes,requests,2,uploaded_only
+56,AllConferenceAlert.net India,https://www.allconferencealert.net/india/mathematics.php,India,Math,Conference Aggregators,General,Scopus-indexed India maths conferences; free alert subscription,Yes,No,requests,3,both
+57,ALLEN Olympiad,https://allen.in/olympiad/maths-olympiad,India,Math,School Olympiads India,General,Prep info and answer keys for IOQM/RMO/NMTC/IMO,Yes,No,requests,3,our_list_only
+58,AMTI / NMTC,https://www.amtionline.com,India,Math,School Olympiads India,General,National Mathematics Talent Contest by AMTI,Yes,No,requests,3,our_list_only
+59,Conference Index India,https://conferenceindex.org/conferences/mathematics/india,India,Math,,,,Yes,No,requests,3,uploaded_only
+60,ConferenceAlerts.co.in India,https://conferencealerts.co.in/india/mathematics,India,Math,Conference Aggregators,General,India-specific conference alerts variant,Yes,No,requests,3,both
+61,ConferenceNext,https://conferencenext.com/conferences/india/mathematics,India,Math+Stat,Conference Aggregators,General,India events by city (Chennai/Pune/Trivandrum/Palakkad etc.),Yes,No,requests,3,our_list_only
+62,CSIR HRDG,https://csirhrdg.res.in,India,Math,Maths Exams India,Official,CSIR HRDG: syllabus/model papers for Mathematical Sciences,Yes,No,requests,3,our_list_only
+63,CSIR-NET Official,https://csirnet.nta.nic.in,India,Math,Maths Exams India,Official,CSIR-UGC NET official portal: registration/admit card/results (Jul 2026),Yes,No,requests,3,our_list_only
+64,GATE,https://gate2026.iitr.ac.in,India,Math,Maths Exams India,Official,GATE official: Mathematics (MA) stream,Yes,No,requests,3,our_list_only
+65,HBCSE Olympiads,https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/,India,Math,Maths Exams India,Official,HBCSE: IOQM→RMO→INMO→IMOTC full pathway + past papers,Yes,No,requests,3,our_list_only
+66,ICTS Bengaluru,https://www.icts.res.in,India,Math,India Research Institutes,Top Priority,ICTS-TIFR: programs/discussion meetings/summer schools in maths and stats,Yes,No,requests,3,our_list_only
+67,IIT Bombay Maths,https://www.math.iitb.ac.in/NewsEvents/events.php,India,Math,India Research Institutes,Top Priority,IIT Bombay Maths: seminars/conferences/olympiad events/workshops,Yes,No,requests,3,our_list_only
+68,IIT JAM,https://jam.iitd.ac.in,India,Math,Maths Exams India,Official,IIT JAM official: Mathematics and Statistics streams,Yes,No,requests,3,our_list_only
+69,IMS India Region,https://www.imsindianregion.org,India,Stat,Statistics Bodies,India,Institute of Mathematical Statistics India region,Yes,No,requests,3,our_list_only
+70,IMSc Chennai Seminars,https://www.imsc.res.in/seminar-list,India,Math,India Research Institutes,General,Institute of Mathematical Sciences Chennai: seminar listings,Yes,No,requests,3,our_list_only
+71,Indian Mathematical Society,https://www.indianmathsoc.org.in,India,Math,Official Maths Bodies,India,IMS annual national conferences,Yes,No,requests,3,our_list_only
+72,IntlConferenceAlerts India,https://internationalconferencealerts.com/india/mathematics,India,Math,Conference Aggregators,General,India maths and stats conference focus,Yes,Yes,requests,3,both
+73,IOQM Portal,https://ioqm.mtai.org.in,India,Math,Maths Exams India,Official,Official IOQM registration portal (exam Sep 2026); MTA India,Yes,No,requests,3,our_list_only
+74,ISI Bangalore,https://www.isibang.ac.in,India,Math,India Research Institutes,General,Indian Statistical Institute Bangalore: stats/maths events,Yes,No,requests,3,our_list_only
+75,ISI Delhi,https://www.isid.ac.in,India,Math,India Research Institutes,General,ISI Delhi: workshops and seminars,Yes,No,requests,3,our_list_only
+76,MTA India IOQM,https://www.mtai.org.in/ioqm-2026/,India,Math,Maths Exams India,Official,Mathematics Teachers Association India: IOQM organizer page,Yes,No,requests,3,our_list_only
+77,NBHM,https://nbhm.dae.gov.in,India,Math,India Research Institutes,General,National Board for Higher Mathematics: funds workshops; PhD scholarships,Yes,No,requests,3,our_list_only
+78,NBHM Scholarships,https://www.imsc.res.in/~nbhm,India,Math,Maths Exams India,Official,NBHM MSc/PhD scholarship portal (hosted at IMSc),Yes,No,requests,3,our_list_only
+79,P Kalika Main Site,https://pkalika.in,India,Math+Stat,Hand-Curated India Lists,Top Priority,CSIR-NET/GATE/JAM/SET study materials + PYQs + handwritten notes + conference alerts,Yes,No,requests,3,our_list_only
+80,ScienceDZ,https://www.sciencedz.net/en/events.php?countryid=IN&topicid=1,India,Math+Stat,Conference Aggregators,General,Maths/stats conferences and seminars India,Yes,No,requests,3,our_list_only
+81,Silverzone iOM,https://www.silverzone.org,India,Math,School Olympiads India,General,Silverzone International Olympiad of Mathematics,Yes,No,requests,3,our_list_only
+82,SOF IMO,https://www.sofworld.org,India,Math,School Olympiads India,General,Science Olympiad Foundation International Mathematics Olympiad (school-level),Yes,No,requests,3,our_list_only
+83,TIFR Admissions,https://www.tifr.res.in/~gscft/,India,Math,Maths Exams India,Official,TIFR GS: PhD/Integrated PhD admissions in Mathematics,Yes,No,requests,3,our_list_only
+84,Unified Council,https://www.unifiedcouncil.com,India,Math,School Olympiads India,General,NSTSE and UIEO competitions,Yes,No,requests,3,our_list_only
+85,10times,https://10times.com/data-science,Both,Math+Stat,Conference Aggregators,General,Vast global event directory; filter by country/city/date,Yes,Yes,requests,3,our_list_only
+86,AllConferenceAlert Com,https://www.allconferencealert.com/applied-mathematics.html,Both,Math+Stat,Conference Aggregators,General,100k+ subscribers; applied maths and stats alerts worldwide,Yes,Yes,requests,3,our_list_only
+87,AMS,https://www.ams.org,World,Math,Official Maths Bodies,Global,American Mathematical Society: Joint Math Meetings/MRC/ICM2026,No,Yes,requests,3,our_list_only
+88,AMS Mathematics Calendar,https://www.ams.org/meetings/math-calendar,World,Math,Official Maths Bodies,Global,AMS global maths conference calendar,No,Yes,requests,3,our_list_only
+89,APMO,https://www.apmo-official.org,World,Math,Olympiads International,Official,Asian Pacific Mathematics Olympiad official,No,Yes,requests,3,our_list_only
+90,arXiv,https://arxiv.org,World,Math+Stat,Global Seminar Listings,General,Preprints; conference paper drops; math/stat/cs sections,No,Yes,requests,3,our_list_only
+91,ASA,https://www.amstat.org/meetings/symposium-on-data-science-amp-statistics,World,Stat,Statistics Bodies,Global,American Statistical Association: Symposium on DS+Stats; Women in Stats,No,Yes,requests,3,our_list_only
+92,BigEvent,https://bigevent.io/events/category/data-science/,World,Math+Stat,Conference Aggregators,General,Curated data science and stats conference calendar,No,Yes,requests,3,our_list_only
+93,ConferenceAlert,https://www.conferencealerts.com/mathematics,Both,Math+Stat,Conference Aggregators,General,1800+ intl maths conferences; filter by country/city/month,Yes,Yes,requests,3,our_list_only
+94,ConferenceDatabase,https://www.conferencedatabase.com/blog/data-science-conferences,World,Math+Stat,Conference Aggregators,General,Conference analytics and listings with sponsorship data,No,Yes,requests,3,our_list_only
+95,ConferenceIndex,https://conferenceindex.org/conferences/applied-mathematics/india,Both,Math+Stat,Conference Aggregators,General,Chronological India listings: applied maths/computational/stats,Yes,Yes,requests,3,our_list_only
+96,DataCamp Blog,https://www.datacamp.com/blog/top-data-science-conferences-for-2022,World,DS,Data Science Conferences,Global,Curated top DS conferences: Big Data+AI World/Gartner Summit/Data+AI Summit,No,Yes,requests,3,our_list_only
+97,DataScience Week,https://datascience.thepeopleevents.com/,World,DS,Data Science Conferences,Global,World Conference on Data Science & Statistics: global series,No,Yes,requests,3,our_list_only
+98,EasyChair CFP,https://easychair.org/cfp/,World,Multi,,,,No,Yes,requests,3,uploaded_only
+99,EGMO,https://www.egmo.org,World,Math,Olympiads International,Official,European Girls Mathematical Olympiad,No,Yes,requests,3,our_list_only
+100,EMS,https://www.euro-math-soc.eu,World,Math,Official Maths Bodies,Global,European Mathematical Society conferences,No,Yes,requests,3,our_list_only
+101,ICM 2026,https://www.mathunion.org/icm/icm-2026,World,Math,Official Maths Bodies,Global,International Congress of Mathematicians 2026 Philadelphia,No,Yes,requests,3,our_list_only
+102,IEEE Conferences,https://conferences.ieee.org/conferences_events/conferences/browse/search?q=mathematics,World,DS+CS,,,,No,Yes,requests,3,uploaded_only
+103,IMO Foundation,https://imof.co,World,Math,Olympiads International,Official,IMO Foundation: governance and host country info,No,Yes,requests,3,our_list_only
+104,IMO Official,https://www.imo-official.org,World,Math,Olympiads International,Official,International Mathematical Olympiad: results/problems archive,No,Yes,requests,3,our_list_only
+105,IMU,https://www.mathunion.org,World,Math,Official Maths Bodies,Global,International Mathematical Union: ICM organizer/global governance,No,Yes,requests,3,our_list_only
+106,ISI,https://www.isi-web.org,World,Stat,Statistics Bodies,Global,International Statistical Institute: World Statistics Congress,No,Yes,requests,3,our_list_only
+107,KDnuggets Meetings,https://www.kdnuggets.com/meetings/index.html,Both,Math+Stat,Conference Aggregators,General,Comprehensive global AI/analytics/big data/DS/ML calendar,Yes,Yes,requests,3,our_list_only
+108,LMS,https://www.lms.ac.uk,World,Math,Official Maths Bodies,Global,London Mathematical Society events,No,Yes,requests,3,our_list_only
+109,MathJobs,https://www.mathjobs.org/jobs,World,Math+Stat,Stay Updated,Community,AMS job board: also surfaces conference-linked positions,No,Yes,requests,3,our_list_only
+110,MathSeminars.org,https://mathseminars.org,World,Math+Stat,Global Seminar Listings,Top Priority,Crowd-sourced global research seminars + conferences; timezone-aware; calendar export,No,Yes,requests,3,our_list_only
+111,MathStodon,https://mathstodon.xyz,World,Math+Stat,Stay Updated,Community,Mathematics community on Mastodon: event announcements,No,Yes,requests,3,our_list_only
+112,ResearchBib,https://researchbib.com/,World,Multi,,,,No,Yes,requests,3,uploaded_only
+113,ResearchGate,https://www.researchgate.net,Both,Math+Stat,Global Seminar Listings,General,CFP alerts and conference announcements by field,Yes,Yes,requests,3,our_list_only
+114,RSS,https://www.rss.org.uk,World,Stat,Statistics Bodies,Global,Royal Statistical Society conferences,No,Yes,requests,3,our_list_only
+115,SIAM,https://www.siam.org,World,Math,Official Maths Bodies,Global,Society for Industrial and Applied Mathematics conferences,No,Yes,requests,3,our_list_only
+116,Terence Tao Blog,https://terrytao.wordpress.com,World,Math+Stat,Stay Updated,Community,Fields Medallist blog: seminar and event announcements,No,Yes,requests,3,our_list_only
+117,UN Stats Calendar,https://unstats.un.org/capacity-development/calendar/all-events/,World,Stat,Statistics Bodies,Global,UN global calendar of statistical events; data science/official stats/surveys,No,Yes,requests,3,our_list_only
+118,WASET DS,https://waset.org/data-science-conferences,World,DS,,,,No,Yes,requests,3,uploaded_only
+119,WASET Math,https://waset.org/mathematics-conferences,World,Math,,,,No,Yes,requests,3,uploaded_only
+120,WASET Stat,https://waset.org/statistics-conferences,World,Stat,,,,No,Yes,requests,3,uploaded_only
