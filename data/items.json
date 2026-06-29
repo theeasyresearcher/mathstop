@@ -11,7 +11,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-06-28T04:59:17.090968+00:00"
+    "scraped_at": "2026-06-29T05:08:51.859695+00:00"
   },
   {
     "id": "ceda61484e2b3e073cb8a9b15c2e55f8",
@@ -25,7 +25,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-06-28T04:59:17.089812+00:00"
+    "scraped_at": "2026-06-29T05:08:51.858927+00:00"
   },
   {
     "id": "52904ed4a5ceb9e8190cf67b4a2a5adf",
@@ -39,7 +39,7 @@
     "source_name": "Ramanujan Math Society",
     "source_url": "https://www.ramanujanmathsociety.org/",
     "is_new": true,
-    "scraped_at": "2026-06-28T05:00:48.516760+00:00"
+    "scraped_at": "2026-06-29T05:10:26.206794+00:00"
   },
   {
     "id": "e84b6044d31bd9547e11888b7fc4d589",
@@ -53,7 +53,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-06-28T04:59:17.089253+00:00"
+    "scraped_at": "2026-06-29T05:08:51.858532+00:00"
   },
   {
     "id": "1523253950c8e057da8dc68a613e7909",
@@ -67,7 +67,7 @@
     "source_name": "DataCamp Blog",
     "source_url": "https://www.datacamp.com/blog/top-data-science-conferences-for-2022",
     "is_new": true,
-    "scraped_at": "2026-06-28T05:01:57.609240+00:00"
+    "scraped_at": "2026-06-29T05:11:49.472848+00:00"
   },
   {
     "id": "5d2dd1a5e5b8311b99703d7317ff85d8",
@@ -81,7 +81,21 @@
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
     "is_new": true,
-    "scraped_at": "2026-06-28T05:01:34.645011+00:00"
+    "scraped_at": "2026-06-29T05:11:21.682026+00:00"
+  },
+  {
+    "id": "e73a1957db15f62b18a6431800eed87a",
+    "title": "**📢 Notice:** Application update/correction window is open on **20 & 21 March 2026** only. Candidates must update their details within this period. No changes will be allowed after the deadline.",
+    "description": "**📢 Notice:** Application update/correction window is open on **20 & 21 March 2026** only. Candidates must update their details within this period. No changes will be allowed after the deadline. |",
+    "url": "https://www.imsaindia.org/Upload/20260319_130048.pdf",
+    "deadline": "2026-03-21",
+    "event_date": "2026-03-21",
+    "location": "India",
+    "category": "Conference",
+    "source_name": "IMSA India",
+    "source_url": "https://www.imsaindia.org/",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:09:45.773511+00:00"
   },
   {
     "id": "ba2a038dd8cf3b7cfc5b797ea8c1dbfd",
@@ -95,7 +109,7 @@
     "source_name": "ICLR",
     "source_url": "https://iclr.cc/",
     "is_new": true,
-    "scraped_at": "2026-06-28T04:59:19.965781+00:00"
+    "scraped_at": "2026-06-29T05:08:55.110566+00:00"
   },
   {
     "id": "540990b5464d8763cb8354334ce03ea6",
@@ -109,7 +123,7 @@
     "source_name": "IMU",
     "source_url": "https://www.mathunion.org",
     "is_new": true,
-    "scraped_at": "2026-06-28T05:02:22.618971+00:00"
+    "scraped_at": "2026-06-29T05:12:14.078678+00:00"
   },
   {
     "id": "4f528ef689ae64f998aefde5d107d37a",
@@ -123,7 +137,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-06-28T04:59:25.752994+00:00"
+    "scraped_at": "2026-06-29T05:09:00.826616+00:00"
   },
   {
     "id": "33c7279ed636bd37eadb90bd3bd06b2a",
@@ -137,7 +151,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-06-28T04:59:25.753211+00:00"
+    "scraped_at": "2026-06-29T05:09:00.826770+00:00"
   },
   {
     "id": "70f1fa1d17c75f55aafcc25f2af580d4",
@@ -151,7 +165,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-06-28T04:59:25.753407+00:00"
+    "scraped_at": "2026-06-29T05:09:00.826904+00:00"
   },
   {
     "id": "e31fbfb5f51e0f6635dbb8e755cfa158",
@@ -165,7 +179,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-06-28T04:59:25.753593+00:00"
+    "scraped_at": "2026-06-29T05:09:00.827031+00:00"
   },
   {
     "id": "8482ceba49439bb8289a5cb12dbd79c5",
@@ -179,7 +193,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-06-28T04:59:25.753781+00:00"
+    "scraped_at": "2026-06-29T05:09:00.827154+00:00"
   },
   {
     "id": "25b59b8ba5a437c53f36c5461b0c41d3",
@@ -193,7 +207,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-06-28T05:01:22.209110+00:00"
+    "scraped_at": "2026-06-29T05:11:05.929121+00:00"
   },
   {
     "id": "d913b7dac4a4956a3eaa072e2c492deb",
@@ -207,7 +221,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-06-28T05:01:22.207962+00:00"
+    "scraped_at": "2026-06-29T05:11:05.928290+00:00"
   },
   {
     "id": "cc5ed18412883471fba0c087326e978d",
@@ -221,7 +235,7 @@
     "source_name": "ISI Bangalore",
     "source_url": "https://www.isibang.ac.in",
     "is_new": true,
-    "scraped_at": "2026-06-28T05:01:44.036704+00:00"
+    "scraped_at": "2026-06-29T05:11:33.906820+00:00"
   },
   {
     "id": "cb128183bda3fcef627c26ccc6a39d59",
@@ -235,7 +249,7 @@
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
     "is_new": true,
-    "scraped_at": "2026-06-28T04:59:16.042137+00:00"
+    "scraped_at": "2026-06-29T05:08:50.740068+00:00"
   },
   {
     "id": "d74e3e3c2f004b22bd4b2393ccd4c19e",
@@ -249,7 +263,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-06-28T05:02:22.480147+00:00"
+    "scraped_at": "2026-06-29T05:12:13.934743+00:00"
   },
   {
     "id": "6baa1b13cad2c05480bfade8d37f5afd",
@@ -263,7 +277,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-06-28T05:02:22.480301+00:00"
+    "scraped_at": "2026-06-29T05:12:13.934840+00:00"
   },
   {
     "id": "ee5496d82d93615c6de347c236d0ab3a",
@@ -278,6 +292,20 @@
     "source_url": "https://www.isibang.ac.in",
     "is_new": false,
     "scraped_at": "2026-06-26T02:37:32.572563+00:00"
+  },
+  {
+    "id": "a68fc9eb7cfbb72c3741a33590106306",
+    "title": "Skip to main content",
+    "description": "Skip to main content Toggle navigation Home Contact Us Sign up to our Mailing List Sign In Search Main menu About us LMS Mission and Objectives What We Do LMS Strategy 2023-2028 Equity, Diversity and Inclusion Global Governance Council Committees Nominating Committee Annual Reports LMS Elections Royal Charter History LMS timeline Staff LMS Privacy Notice Membership Paying your Subscription How to…",
+    "url": "https://www.lms.ac.uk#main-content",
+    "deadline": "2026-06-29",
+    "event_date": "2026-06-29",
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "LMS",
+    "source_url": "https://www.lms.ac.uk",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:12:16.358887+00:00"
   },
   {
     "id": "967b00b2c4b3c2d7c92e1a7eb4a918bc",
@@ -21178,7 +21206,7 @@
     "category": "Conference",
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T04:59:16.044129+00:00"
   },
   {
@@ -21192,7 +21220,7 @@
     "category": "Conference",
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T04:59:16.044211+00:00"
   },
   {
@@ -21206,7 +21234,7 @@
     "category": "Conference",
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T04:59:17.089932+00:00"
   },
   {
@@ -21220,7 +21248,7 @@
     "category": "Conference",
     "source_name": "DataEvents.co ML",
     "source_url": "https://dataevents.co/ml",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T04:59:19.388294+00:00"
   },
   {
@@ -21234,7 +21262,7 @@
     "category": "Conference",
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T04:59:25.751534+00:00"
   },
   {
@@ -21248,7 +21276,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:00:55.494185+00:00"
   },
   {
@@ -21262,7 +21290,7 @@
     "category": "Conference",
     "source_name": "IASC-ISI",
     "source_url": "https://iasc-isi.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:21.777840+00:00"
   },
   {
@@ -21276,7 +21304,7 @@
     "category": "Fellowship / Award",
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:34.645333+00:00"
   },
   {
@@ -21290,7 +21318,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.519836+00:00"
   },
   {
@@ -21304,7 +21332,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.519954+00:00"
   },
   {
@@ -21318,7 +21346,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.520068+00:00"
   },
   {
@@ -21332,7 +21360,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.520201+00:00"
   },
   {
@@ -21346,7 +21374,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.520433+00:00"
   },
   {
@@ -21360,7 +21388,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.520753+00:00"
   },
   {
@@ -21374,7 +21402,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.520867+00:00"
   },
   {
@@ -21388,7 +21416,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.520980+00:00"
   },
   {
@@ -21402,7 +21430,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.521974+00:00"
   },
   {
@@ -21416,7 +21444,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.522987+00:00"
   },
   {
@@ -21430,7 +21458,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.523497+00:00"
   },
   {
@@ -21444,7 +21472,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.523987+00:00"
   },
   {
@@ -21458,7 +21486,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.524496+00:00"
   },
   {
@@ -21472,7 +21500,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.524986+00:00"
   },
   {
@@ -21486,7 +21514,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.525527+00:00"
   },
   {
@@ -21500,7 +21528,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.526021+00:00"
   },
   {
@@ -21514,7 +21542,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.526543+00:00"
   },
   {
@@ -21528,7 +21556,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.527545+00:00"
   },
   {
@@ -21542,7 +21570,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.528032+00:00"
   },
   {
@@ -21556,7 +21584,7 @@
     "category": "Exam / Notification",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.529024+00:00"
   },
   {
@@ -21570,7 +21598,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.529520+00:00"
   },
   {
@@ -21584,7 +21612,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.529999+00:00"
   },
   {
@@ -21598,7 +21626,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.530489+00:00"
   },
   {
@@ -21612,7 +21640,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:41.531957+00:00"
   },
   {
@@ -21626,7 +21654,7 @@
     "category": "Conference",
     "source_name": "ISI Bangalore",
     "source_url": "https://www.isibang.ac.in",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:44.036170+00:00"
   },
   {
@@ -21640,7 +21668,7 @@
     "category": "Exam / Notification",
     "source_name": "SOF IMO",
     "source_url": "https://www.sofworld.org",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:50.994967+00:00"
   },
   {
@@ -21654,7 +21682,7 @@
     "category": "Exam / Notification",
     "source_name": "SOF IMO",
     "source_url": "https://www.sofworld.org",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:50.995868+00:00"
   },
   {
@@ -21668,7 +21696,7 @@
     "category": "Conference",
     "source_name": "SOF IMO",
     "source_url": "https://www.sofworld.org",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:50.995902+00:00"
   },
   {
@@ -21682,7 +21710,7 @@
     "category": "Conference",
     "source_name": "SOF IMO",
     "source_url": "https://www.sofworld.org",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:50.995937+00:00"
   },
   {
@@ -21696,7 +21724,7 @@
     "category": "Exam / Notification",
     "source_name": "SOF IMO",
     "source_url": "https://www.sofworld.org",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:50.995968+00:00"
   },
   {
@@ -21710,7 +21738,7 @@
     "category": "Conference",
     "source_name": "SOF IMO",
     "source_url": "https://www.sofworld.org",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:50.996426+00:00"
   },
   {
@@ -21724,7 +21752,7 @@
     "category": "Conference",
     "source_name": "Unified Council",
     "source_url": "https://www.unifiedcouncil.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:53.089599+00:00"
   },
   {
@@ -21738,7 +21766,7 @@
     "category": "Conference",
     "source_name": "DataScience Week",
     "source_url": "https://datascience.thepeopleevents.com/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:58.108746+00:00"
   },
   {
@@ -21752,7 +21780,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.343680+00:00"
   },
   {
@@ -21766,7 +21794,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.343725+00:00"
   },
   {
@@ -21780,7 +21808,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.343769+00:00"
   },
   {
@@ -21794,7 +21822,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.343813+00:00"
   },
   {
@@ -21808,7 +21836,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.343878+00:00"
   },
   {
@@ -21822,7 +21850,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.343913+00:00"
   },
   {
@@ -21836,7 +21864,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344021+00:00"
   },
   {
@@ -21850,7 +21878,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344059+00:00"
   },
   {
@@ -21864,7 +21892,7 @@
     "category": "Exam / Notification",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344139+00:00"
   },
   {
@@ -21878,7 +21906,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344275+00:00"
   },
   {
@@ -21892,7 +21920,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344341+00:00"
   },
   {
@@ -21906,7 +21934,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344382+00:00"
   },
   {
@@ -21920,7 +21948,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344423+00:00"
   },
   {
@@ -21934,7 +21962,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344464+00:00"
   },
   {
@@ -21948,7 +21976,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344548+00:00"
   },
   {
@@ -21962,7 +21990,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344626+00:00"
   },
   {
@@ -21976,7 +22004,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344695+00:00"
   },
   {
@@ -21990,7 +22018,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344735+00:00"
   },
   {
@@ -22004,7 +22032,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344774+00:00"
   },
   {
@@ -22018,7 +22046,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344814+00:00"
   },
   {
@@ -22032,7 +22060,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344883+00:00"
   },
   {
@@ -22046,7 +22074,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344922+00:00"
   },
   {
@@ -22060,7 +22088,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344961+00:00"
   },
   {
@@ -22074,7 +22102,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.344999+00:00"
   },
   {
@@ -22088,7 +22116,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.345064+00:00"
   },
   {
@@ -22102,7 +22130,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.345101+00:00"
   },
   {
@@ -22116,7 +22144,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.345202+00:00"
   },
   {
@@ -22130,7 +22158,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.345281+00:00"
   },
   {
@@ -22144,7 +22172,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.345319+00:00"
   },
   {
@@ -22158,7 +22186,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.345349+00:00"
   },
   {
@@ -22172,7 +22200,7 @@
     "category": "Workshop / School",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.345396+00:00"
   },
   {
@@ -22186,7 +22214,7 @@
     "category": "Workshop / School",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:01:59.345481+00:00"
   },
   {
@@ -22200,7 +22228,7 @@
     "category": "Conference",
     "source_name": "IMO Foundation",
     "source_url": "https://imof.co",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:02:22.164792+00:00"
   },
   {
@@ -22214,7 +22242,7 @@
     "category": "Conference",
     "source_name": "KDnuggets Meetings",
     "source_url": "https://www.kdnuggets.com/meetings/index.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:02:22.960625+00:00"
   },
   {
@@ -22228,7 +22256,469 @@
     "category": "Conference",
     "source_name": "KDnuggets Meetings",
     "source_url": "https://www.kdnuggets.com/meetings/index.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-06-28T05:02:22.960667+00:00"
+  },
+  {
+    "id": "fc68c989618541730875c265aabe9d03",
+    "title": "Current Council",
+    "description": "Current Council",
+    "url": "https://indianmathsoc.org/Current-Council.html",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Indian Mathematical Society",
+    "source_url": "https://indianmathsoc.org/",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:08:45.417020+00:00"
+  },
+  {
+    "id": "e143b0948f3cc8653542556697ad2425",
+    "title": "Volume Vol. 95 Part (1-2) - 2026",
+    "description": "Volume Vol. 95 Part (1-2) - 2026",
+    "url": "https://indianmathsoc.org/pdf/Mathstudent-V95-part1-2-2026.pdf",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Indian Mathematical Society",
+    "source_url": "https://indianmathsoc.org/",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:08:45.417505+00:00"
+  },
+  {
+    "id": "66ead681c7cee2f0d7a75f37a5001492",
+    "title": "JIMS Vol. 92 (1), 2025",
+    "description": "JIMS Vol. 92 (1), 2025",
+    "url": "https://informaticsjournals.co.in/index.php/jims/issue/view/3377",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Indian Mathematical Society",
+    "source_url": "https://indianmathsoc.org/",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:08:45.417672+00:00"
+  },
+  {
+    "id": "a860b3468c48b6221b8f667a388ca577",
+    "title": "[email protected]",
+    "description": "contact us at [email protected]",
+    "url": "https://dataevents.co/cdn-cgi/l/email-protection#adcec2c3d9ccced9edc9ccd9ccc8dbc8c3d9de83cec2",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "DataEvents.co ML",
+    "source_url": "https://dataevents.co/ml",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:08:54.614573+00:00"
+  },
+  {
+    "id": "ee5ed06054f5b6a6da56b6bdb7b81009",
+    "title": "Best Paper Award",
+    "description": "Best Paper Award",
+    "url": "https://kdd.org/awards/sigkdd-best-research-paper-awards",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Fellowship / Award",
+    "source_name": "KDD",
+    "source_url": "https://www.kdd.org/",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:08:57.084097+00:00"
+  },
+  {
+    "id": "f66bffe5963a1967ddf0b7a8ea78f0d1",
+    "title": "2025 SIGKDD Rising Star Award",
+    "description": "2025 SIGKDD Rising Star Award",
+    "url": "https://kdd.org/awards/view/2025-sigkdd-rising-star-award",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "KDD",
+    "source_url": "https://www.kdd.org/",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:08:57.084517+00:00"
+  },
+  {
+    "id": "2e50c2526f0486964b3f61c8e86f20a8",
+    "title": "Skip to main content",
+    "description": "Skip to main content Toggle navigation Home Contact Us Sign up to our Mailing List Sign In Search Main menu About us LMS Mission and Objectives What We Do LMS Strategy 2023-2028 Equity, Diversity and Inclusion Global Governance Council Committees Nominating Committee Annual Reports LMS Elections Royal Charter History LMS timeline Staff LMS Privacy Notice Membership Paying your Subscription How to…",
+    "url": "https://www.lms.ac.uk/events/calendar#main-content",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "LMS Events",
+    "source_url": "https://www.lms.ac.uk/events/calendar",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:09:00.001853+00:00"
+  },
+  {
+    "id": "1ea27a3177964605968c861b48cf8dbb",
+    "title": "Equity, Diversity and Inclusion",
+    "description": "Equity, Diversity and Inclusion",
+    "url": "https://www.lms.ac.uk/about-us/Equity-Diversity-and-Inclusion",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "LMS Events",
+    "source_url": "https://www.lms.ac.uk/events/calendar",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:09:00.002043+00:00"
+  },
+  {
+    "id": "1e4ca79053fc95eb6585acef58b214bb",
+    "title": "Immobilien Insights 2026",
+    "description": "Immobilien Insights 2026",
+    "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=199615&copyownerid=198964",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "WikiCFP Data Science",
+    "source_url": "http://www.wikicfp.com/cfp/call?conference=data+science",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:09:06.293632+00:00"
+  },
+  {
+    "id": "d98fc95890bd8269a2eb097a30385d7f",
+    "title": "ICDM Demos 2026",
+    "description": "ICDM Demos 2026",
+    "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194744&copyownerid=198327",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "WikiCFP Data Science",
+    "source_url": "http://www.wikicfp.com/cfp/call?conference=data+science",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:09:06.293678+00:00"
+  },
+  {
+    "id": "68ccb00543ae1f150588c0c7843add0d",
+    "title": "IEEE BigData 2026",
+    "description": "IEEE BigData 2026",
+    "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195392&copyownerid=13149",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "WikiCFP Data Science",
+    "source_url": "http://www.wikicfp.com/cfp/call?conference=data+science",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:09:06.293695+00:00"
+  },
+  {
+    "id": "fe6412e282891c103d825fa244381ff6",
+    "title": "Ei/Scopus-CDSSC 2026",
+    "description": "Ei/Scopus-CDSSC 2026",
+    "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=185173&copyownerid=165700",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "WikiCFP Data Science",
+    "source_url": "http://www.wikicfp.com/cfp/call?conference=data+science",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:09:06.293714+00:00"
+  },
+  {
+    "id": "4af862794cfdfa3e2321a79881b266cc",
+    "title": "International Conference on Mathematical Sciences and Statistics (ICMSS)",
+    "description": "Jun 29 International Conference on Mathematical Sciences and Statistics (ICMSS) - Nicosia, Cyprus",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematical-sciences-and-statistics-icmss-2026-june-nicosia-cy",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:10:33.371222+00:00"
+  },
+  {
+    "id": "50ad21e8e5e75ea7f19391de9ae5e01d",
+    "title": "International Conference on Mathematics (ICM)",
+    "description": "Jul 10 International Conference on Mathematics (ICM) - New York, United States",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-icm-2026-july-new-york-us",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:10:33.372421+00:00"
+  },
+  {
+    "id": "c887b046fc59ae61a27aedaada54f9d0",
+    "title": "International Conference on Statistical Sciences (ICSS)",
+    "description": "Jul 15 International Conference on Statistical Sciences (ICSS) - Bali, Indonesia",
+    "url": "https://conferenceindex.org/event/international-conference-on-statistical-sciences-icss-2026-july-bali-id",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:10:34.981974+00:00"
+  },
+  {
+    "id": "89633497c80458e51eea771112b811eb",
+    "title": "ICoMS--ESCI 2026",
+    "description": "ICoMS--ESCI 2026",
+    "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191722&copyownerid=13881",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "WikiCFP Data Mining",
+    "source_url": "http://www.wikicfp.com/cfp/call?conference=data+mining",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:06.891025+00:00"
+  },
+  {
+    "id": "3f4e6aa017b7d315a2c8d83bead9dd5b",
+    "title": "AI4Society 2026",
+    "description": "AI4Society 2026",
+    "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189951&copyownerid=182680",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "WikiCFP Data Mining",
+    "source_url": "http://www.wikicfp.com/cfp/call?conference=data+mining",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:06.891108+00:00"
+  },
+  {
+    "id": "4191c972add4b713f2595c02fe16f77c",
+    "title": "IEEE-ARAEML 2026",
+    "description": "IEEE-ARAEML 2026",
+    "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192874&copyownerid=165700",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "WikiCFP Machine Learning",
+    "source_url": "http://www.wikicfp.com/cfp/call?conference=machine+learning",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:08.362227+00:00"
+  },
+  {
+    "id": "ac2cd0aed893cfb052dd9d056e4ad14c",
+    "title": "Infosys Award Function 2024",
+    "description": "Infosys Award Function 2024",
+    "url": "https://olympiads.hbcse.tifr.res.in/about-olympiads/infosys-award-function/infosys-award-function-2024/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:21.682274+00:00"
+  },
+  {
+    "id": "3f11c85f6579f88dbf8f98490ea049eb",
+    "title": "ConferenceMathematics & StatisticsInternational Conference on Error-Controlled Numerical ModelingSat, Jul 18, 2026Delhi, IndiaView Details",
+    "description": "ConferenceMathematics & StatisticsInternational Conference on Data-Driven Statistical Modeling and AnalysisSat, Jul 18, 2026Visakhapatnam, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Error-Controlled Numerical ModelingSat, Jul 18, 2026Delhi, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Nonlinear Dynamics and Chaos TheorySat, Jul…",
+    "url": "https://internationalconferencealerts.com/event-icecnm-delhi-in-202607-101268452",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "IntlConferenceAlerts India",
+    "source_url": "https://internationalconferencealerts.com/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:31.329780+00:00"
+  },
+  {
+    "id": "68faf8ea5a3dfc3e0e570d0052a66aec",
+    "title": "ConferenceMathematics & StatisticsInternational Conference on Computational Finance and Risk ModelingSat, Jul 18, 2026Goa, IndiaView Details",
+    "description": "ConferenceMathematics & StatisticsInternational Conference on Computational Mechanics and Numerical AnalysisSat, Jul 18, 2026Bhopal, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Computational Finance and Risk ModelingSat, Jul 18, 2026Goa, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Advanced Probability Models for Risk Assessment…",
+    "url": "https://internationalconferencealerts.com/event-iccfrm-goa-in-202607-101268597",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "IntlConferenceAlerts India",
+    "source_url": "https://internationalconferencealerts.com/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:31.331275+00:00"
+  },
+  {
+    "id": "7d51db99dad15da4d072de9a83a62912",
+    "title": "ConferenceMathematics & StatisticsInternational Conference on Mathematical Modeling in Epidemiology and Public HealthSat, Jul 18, 2026Pondicherry, IndiaView Details",
+    "description": "ConferenceMathematics & StatisticsInternational Conference on Computational Mechanics and Numerical AnalysisSat, Jul 18, 2026Bhopal, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Computational Finance and Risk ModelingSat, Jul 18, 2026Goa, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Advanced Probability Models for Risk Assessment…",
+    "url": "https://internationalconferencealerts.com/event-icmmeph-pondicherry-in-202607-101275077",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "IntlConferenceAlerts India",
+    "source_url": "https://internationalconferencealerts.com/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:31.334593+00:00"
+  },
+  {
+    "id": "d2629ff933f8059c5dd5a0fd4ea4cb91",
+    "title": "ConferenceMathematics & StatisticsInternational Conference on Visualization, Data Representation, and AnalyticsSat, Jul 18, 2026Visakhapatnam, IndiaView Details",
+    "description": "ConferenceMathematics & StatisticsInternational Conference on Computational Mechanics and Numerical AnalysisSat, Jul 18, 2026Bhopal, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Computational Finance and Risk ModelingSat, Jul 18, 2026Goa, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Advanced Probability Models for Risk Assessment…",
+    "url": "https://internationalconferencealerts.com/event-icvdra-visakhapatnam-in-202607-101275509",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "IntlConferenceAlerts India",
+    "source_url": "https://internationalconferencealerts.com/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:31.335714+00:00"
+  },
+  {
+    "id": "873b7d9bb64025b0cf7604d91d5a86aa",
+    "title": "ConferenceMathematics & StatisticsInternational Conference on Statistical Computing and Data Science ApplicationsSun, Jul 19, 2026Goa, IndiaView Details",
+    "description": "ConferenceMathematics & StatisticsInternational Conference on Computational Mechanics and Numerical AnalysisSat, Jul 18, 2026Bhopal, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Computational Finance and Risk ModelingSat, Jul 18, 2026Goa, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Advanced Probability Models for Risk Assessment…",
+    "url": "https://internationalconferencealerts.com/event-icscdsa-goa-in-202607-101271340",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "IntlConferenceAlerts India",
+    "source_url": "https://internationalconferencealerts.com/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:31.337540+00:00"
+  },
+  {
+    "id": "1f1cefe229cc7095592bd205047aadc7",
+    "title": "ConferenceMathematics & StatisticsInternational Conference on Cryptography in Cloud Computing and Big DataSun, Jul 19, 2026Chandigarh, IndiaView Details",
+    "description": "ConferenceMathematics & StatisticsInternational Conference on Computational Mechanics and Numerical AnalysisSat, Jul 18, 2026Bhopal, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Computational Finance and Risk ModelingSat, Jul 18, 2026Goa, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Advanced Probability Models for Risk Assessment…",
+    "url": "https://internationalconferencealerts.com/event-icccbd-chandigarh-in-202607-101268028",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "IntlConferenceAlerts India",
+    "source_url": "https://internationalconferencealerts.com/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:31.337910+00:00"
+  },
+  {
+    "id": "e03e8ebd1703ee6df53b7b40e027b552",
+    "title": "Bengaluru, Karnataka 2",
+    "description": "Popular locations in this country : Goa 3 Hyderabad, Telangana 2 Mumbai, Maharashtra 2 Bengaluru, Karnataka 2 Port Blair-SriVijayaPuram, Andaman and Nicobar Is 1 Dubai, Dubia 1 Manipal 1 Indore 1 Ghaziabad, Uttar Pradesh 1 Sambalpur, Odisha 1",
+    "url": "https://www.sciencedz.net/en/conferences/l/IN/Bengaluru%2C++Karnataka",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ScienceDZ",
+    "source_url": "https://www.sciencedz.net/en/events.php?countryid=IN&topicid=1",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:39.626115+00:00"
+  },
+  {
+    "id": "ab0c5c037292949dd2c8a6d01e0b6748",
+    "title": "About SOF IEO Exam",
+    "description": "About SOF IEO Exam How to Participate in SOF IEO How to Prepare for the Sof IEO Exam SOF IEO Exam Dates SOF IEO Awards SOF IEO FAQs",
+    "url": "https://www.sofworld.org/ieo/about-ieo-exam",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "SOF IMO",
+    "source_url": "https://www.sofworld.org",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:42.473010+00:00"
+  },
+  {
+    "id": "a723940bc4d6c6bc4dec2f9219e81915",
+    "title": "How to Participate in SOF IEO",
+    "description": "How to Participate in SOF IEO",
+    "url": "https://www.sofworld.org/ieo/about-ieo-exam/how-to-participate",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "SOF IMO",
+    "source_url": "https://www.sofworld.org",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:42.473030+00:00"
+  },
+  {
+    "id": "7e780da2c953dcb8af2cd4c7e065e317",
+    "title": "How to Prepare for the Sof IEO Exam",
+    "description": "How to Prepare for the Sof IEO Exam",
+    "url": "https://www.sofworld.org/ieo/about-sof-international-english-olympiad-ieo-exam/how-prepare-sof-ieo-exam",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "SOF IMO",
+    "source_url": "https://www.sofworld.org",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:42.473053+00:00"
+  },
+  {
+    "id": "93b2c63ad418515a971a6ef0a8c0cdd9",
+    "title": "SOF IEO Exam Dates",
+    "description": "SOF IEO Exam Dates",
+    "url": "https://www.sofworld.org/ieo/about-sof-international-english-olympiad-ieo-exam/sof-international-english-olympiad-ieo-exam",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "SOF IMO",
+    "source_url": "https://www.sofworld.org",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:42.473072+00:00"
+  },
+  {
+    "id": "e8917fbc6a28ad525073cbdd799bb0c1",
+    "title": "About UIMO-Online",
+    "description": "About UIMO-Online",
+    "url": "https://www.unifiedcouncil.com/about-uimo-online.html",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Unified Council",
+    "source_url": "https://www.unifiedcouncil.com",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:44.614453+00:00"
+  },
+  {
+    "id": "34d7de2a42e43319b751e589232f31c3",
+    "title": "Post Event Report 2023",
+    "description": "Post Event Report 2023",
+    "url": "https://datascience.thepeopleevents.com/assets/img/pdf/POST-EVENT-REPORT_DSW_2023.pdf",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "DataScience Week",
+    "source_url": "https://datascience.thepeopleevents.com/",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:11:49.798507+00:00"
+  },
+  {
+    "id": "76c02dbcee0d48431b5a80efd53e23f9",
+    "title": "IMO Alumni Reunion 2026",
+    "description": "IMO Alumni Reunion 2026",
+    "url": "https://imof.co/imo-alumni-reunion-2026/2026/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "IMO Foundation",
+    "source_url": "https://imof.co",
+    "is_new": true,
+    "scraped_at": "2026-06-29T05:12:13.636470+00:00"
   }
 ]
