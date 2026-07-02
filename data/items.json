@@ -11,7 +11,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:00:42.974310+00:00"
+    "scraped_at": "2026-07-02T04:37:35.959369+00:00"
   },
   {
     "id": "ceda61484e2b3e073cb8a9b15c2e55f8",
@@ -25,7 +25,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:00:42.973153+00:00"
+    "scraped_at": "2026-07-02T04:37:35.958199+00:00"
   },
   {
     "id": "52904ed4a5ceb9e8190cf67b4a2a5adf",
@@ -39,7 +39,7 @@
     "source_name": "Ramanujan Math Society",
     "source_url": "https://www.ramanujanmathsociety.org/",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:02:31.670122+00:00"
+    "scraped_at": "2026-07-02T04:38:58.810546+00:00"
   },
   {
     "id": "e84b6044d31bd9547e11888b7fc4d589",
@@ -53,7 +53,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:00:42.972575+00:00"
+    "scraped_at": "2026-07-02T04:37:35.957612+00:00"
   },
   {
     "id": "1523253950c8e057da8dc68a613e7909",
@@ -67,7 +67,7 @@
     "source_name": "DataCamp Blog",
     "source_url": "https://www.datacamp.com/blog/top-data-science-conferences-for-2022",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:03:45.679344+00:00"
+    "scraped_at": "2026-07-02T04:40:11.668770+00:00"
   },
   {
     "id": "5d2dd1a5e5b8311b99703d7317ff85d8",
@@ -81,7 +81,7 @@
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:03:21.579796+00:00"
+    "scraped_at": "2026-07-02T04:39:50.389846+00:00"
   },
   {
     "id": "e73a1957db15f62b18a6431800eed87a",
@@ -95,7 +95,7 @@
     "source_name": "IMSA India",
     "source_url": "https://www.imsaindia.org/",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:01:49.036952+00:00"
+    "scraped_at": "2026-07-02T04:38:18.167297+00:00"
   },
   {
     "id": "ba2a038dd8cf3b7cfc5b797ea8c1dbfd",
@@ -109,7 +109,7 @@
     "source_name": "ICLR",
     "source_url": "https://iclr.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:00:46.386687+00:00"
+    "scraped_at": "2026-07-02T04:37:39.909442+00:00"
   },
   {
     "id": "540990b5464d8763cb8354334ce03ea6",
@@ -123,7 +123,7 @@
     "source_name": "IMU",
     "source_url": "https://www.mathunion.org",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:04:09.968097+00:00"
+    "scraped_at": "2026-07-02T04:40:37.389038+00:00"
   },
   {
     "id": "4f528ef689ae64f998aefde5d107d37a",
@@ -137,7 +137,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:00:52.590954+00:00"
+    "scraped_at": "2026-07-02T04:37:45.691908+00:00"
   },
   {
     "id": "33c7279ed636bd37eadb90bd3bd06b2a",
@@ -151,7 +151,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:00:52.591147+00:00"
+    "scraped_at": "2026-07-02T04:37:45.692102+00:00"
   },
   {
     "id": "70f1fa1d17c75f55aafcc25f2af580d4",
@@ -165,7 +165,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:00:52.591332+00:00"
+    "scraped_at": "2026-07-02T04:37:45.692292+00:00"
   },
   {
     "id": "e31fbfb5f51e0f6635dbb8e755cfa158",
@@ -179,7 +179,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:00:52.591512+00:00"
+    "scraped_at": "2026-07-02T04:37:45.692477+00:00"
   },
   {
     "id": "8482ceba49439bb8289a5cb12dbd79c5",
@@ -193,35 +193,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:00:52.591692+00:00"
-  },
-  {
-    "id": "25b59b8ba5a437c53f36c5461b0c41d3",
-    "title": "Advances in Computer Algebra - A conference in memory of Hans Schonemann",
-    "description": "June 10, 2026, Kaiserslautern, Germany: Advances in Computer Algebra - A conference in memory of Hans Schonemann, at RPTU Kaiserslautern.",
-    "url": "https://www.singular.uni-kl.de/singalg2026/",
-    "deadline": "2026-06-10",
-    "event_date": "2026-06-10",
-    "location": "World",
-    "category": "Workshop / School",
-    "source_name": "Stanford Vakil Conf List",
-    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
-    "scraped_at": "2026-07-01T05:03:08.082039+00:00"
-  },
-  {
-    "id": "d913b7dac4a4956a3eaa072e2c492deb",
-    "title": "Thematic Semester \"Arithmetic of Global Function Fields 2026\"",
-    "description": "March 23-June 12, 2026, Madrid, Spain: Thematic Semester \"Arithmetic of Global Function Fields 2026\", at the ICMAT. This includes four workshops: March 23-27: Iwasawa theory over function fields April 13-17: Drinfeld modular forms and related topics June 1-5: Arithmetic and applications of Anderson motives June 8-12: Zeta, multizeta and L-values in positive characteristic",
-    "url": "https://www.icmat.es/RT/2026/AGFF/program.php",
-    "deadline": "2026-06-12",
-    "event_date": "2026-06-12",
-    "location": "World",
-    "category": "Workshop / School",
-    "source_name": "Stanford Vakil Conf List",
-    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
-    "scraped_at": "2026-07-01T05:03:08.080872+00:00"
+    "scraped_at": "2026-07-02T04:37:45.692695+00:00"
   },
   {
     "id": "cc5ed18412883471fba0c087326e978d",
@@ -235,7 +207,7 @@
     "source_name": "ISI Bangalore",
     "source_url": "https://www.isibang.ac.in",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:03:29.190709+00:00"
+    "scraped_at": "2026-07-02T04:39:57.778072+00:00"
   },
   {
     "id": "d74e3e3c2f004b22bd4b2393ccd4c19e",
@@ -249,7 +221,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:04:09.830680+00:00"
+    "scraped_at": "2026-07-02T04:40:37.192347+00:00"
   },
   {
     "id": "6baa1b13cad2c05480bfade8d37f5afd",
@@ -263,7 +235,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:04:09.830834+00:00"
+    "scraped_at": "2026-07-02T04:40:37.192482+00:00"
   },
   {
     "id": "ee5496d82d93615c6de347c236d0ab3a",
@@ -277,35 +249,7 @@
     "source_name": "ISI Bangalore",
     "source_url": "https://www.isibang.ac.in",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:03:29.190512+00:00"
-  },
-  {
-    "id": "967b00b2c4b3c2d7c92e1a7eb4a918bc",
-    "title": "(Deadline extended: June 30, 2026) WSC 2027, Invited Paper Sessions – Open for Proposals!",
-    "description": "(Deadline extended: June 30, 2026) WSC 2027, Invited Paper Sessions – Open for Proposals!",
-    "url": "https://iasc-isi.org/2026/06/19/wsc-2027-invited-paper-sessions-open-for-proposals/",
-    "deadline": "2026-06-30",
-    "event_date": "2026-06-30",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "IASC-ISI",
-    "source_url": "https://iasc-isi.org/",
-    "is_new": false,
-    "scraped_at": "2026-06-26T02:37:10.484575+00:00"
-  },
-  {
-    "id": "205867537c38035581b2a5ee5f6a7ec7",
-    "title": "Deadline Extended to June 30, 2026. LACSC-TIES-EnviBayes-EnvrASA 2026",
-    "description": "Deadline Extended to June 30, 2026. LACSC-TIES-EnviBayes-EnvrASA 2026",
-    "url": "https://iasc-isi.org/2026/06/03/deadline-extended-to-june-30-2026-lacsc-ties-envibayes-envrasa-2026/",
-    "deadline": "2026-06-30",
-    "event_date": "2026-06-30",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "IASC-ISI",
-    "source_url": "https://iasc-isi.org/",
-    "is_new": false,
-    "scraped_at": "2026-06-26T02:37:10.484739+00:00"
+    "scraped_at": "2026-07-02T04:39:57.777874+00:00"
   },
   {
     "id": "cb128183bda3fcef627c26ccc6a39d59",
@@ -319,7 +263,35 @@
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
     "is_new": true,
-    "scraped_at": "2026-07-01T05:00:41.884071+00:00"
+    "scraped_at": "2026-07-02T04:37:34.783446+00:00"
+  },
+  {
+    "id": "967b00b2c4b3c2d7c92e1a7eb4a918bc",
+    "title": "(Deadline extended: June 30, 2026) WSC 2027, Invited Paper Sessions – Open for Proposals!",
+    "description": "(Deadline extended: June 30, 2026) WSC 2027, Invited Paper Sessions – Open for Proposals!",
+    "url": "https://iasc-isi.org/2026/06/19/wsc-2027-invited-paper-sessions-open-for-proposals/",
+    "deadline": "2026-06-30",
+    "event_date": "2026-06-30",
+    "location": "India",
+    "category": "Conference",
+    "source_name": "IASC-ISI",
+    "source_url": "https://iasc-isi.org/",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.139252+00:00"
+  },
+  {
+    "id": "205867537c38035581b2a5ee5f6a7ec7",
+    "title": "Deadline Extended to June 30, 2026. LACSC-TIES-EnviBayes-EnvrASA 2026",
+    "description": "Deadline Extended to June 30, 2026. LACSC-TIES-EnviBayes-EnvrASA 2026",
+    "url": "https://iasc-isi.org/2026/06/03/deadline-extended-to-june-30-2026-lacsc-ties-envibayes-envrasa-2026/",
+    "deadline": "2026-06-30",
+    "event_date": "2026-06-30",
+    "location": "India",
+    "category": "Conference",
+    "source_name": "IASC-ISI",
+    "source_url": "https://iasc-isi.org/",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.139451+00:00"
   },
   {
     "id": "09db2fe64ccfdd954c367ec208fe9873",
@@ -504,6 +476,90 @@
     "scraped_at": "2026-06-26T02:34:40.837919+00:00"
   },
   {
+    "id": "ad3acc0f33337ff653d023523aaa1e8c",
+    "title": "Summer School on \"Recent Developments in Arithmetic and Algebraic Geometry in Positive Characteristic\"",
+    "description": "August 31-September 4, 2026, Wuppertal, Germany: Summer School on \"Recent Developments in Arithmetic and Algebraic Geometry in Positive Characteristic\", at the University of Wuppertal.",
+    "url": "https://sites.google.com/view/grksummerschool2026/home",
+    "deadline": "2026-09-04",
+    "event_date": "2026-09-04",
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.468924+00:00"
+  },
+  {
+    "id": "71f3cf3edeabaaa1a2894ae112281bb7",
+    "title": "10th Japanese-European Symposium on Symplectic Varieties and Moduli Spaces",
+    "description": "August 31-September 4, 2026, Sapporo, Japan: 10th Japanese-European Symposium on Symplectic Varieties and Moduli Spaces, at Hokkaido University.",
+    "url": "https://sites.unimi.it/jes/",
+    "deadline": "2026-09-04",
+    "event_date": "2026-09-04",
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.469048+00:00"
+  },
+  {
+    "id": "75d50e5275eecd0398e9cd9704e4452a",
+    "title": "Clay Mathematics Institute workshop: \"Trends in Differential and Complex Geometry\"",
+    "description": "August 31-September 4, 2026, Oxford, United Kingdom: Clay Mathematics Institute workshop: \"Trends in Differential and Complex Geometry\", celebrating Nigel Hitchin's 80th birthday, at the University of Oxford.",
+    "url": "https://www.claymath.org/events/trends-in-differential-and-complex-geometry-a-celebration-of-nigel-hitchins-80th-birthday-2/",
+    "deadline": "2026-09-04",
+    "event_date": "2026-09-04",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.469178+00:00"
+  },
+  {
+    "id": "c563e844281761a6a25367a864f34dab",
+    "title": "16th ALGA Meeting (Commutative Algebra and Algebraic Geometry)",
+    "description": "August 31-September 4, 2026, Rio de Janeiro, Brazil: 16th ALGA Meeting (Commutative Algebra and Algebraic Geometry), at IMPA, celebrating the 60th birthday of Eduardo Esteves.",
+    "url": "https://impa.br/evento/16th-alga-meeting-commutative-algebra-and-algebraic-geometry-2/?lang=en",
+    "deadline": "2026-09-04",
+    "event_date": "2026-09-04",
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.469303+00:00"
+  },
+  {
+    "id": "f399c1aad07598210d4d09288455b425",
+    "title": "INABAG 2026: 3rd Major Event of the Italian Network for Applied and Birational Algebraic Geometry",
+    "description": "August 31-September 4, 2026, Siena, Italy: INABAG 2026: 3rd Major Event of the Italian Network for Applied and Birational Algebraic Geometry, at the University of Siena. This event comprises a 3-day summer school (Aug 31-Sept 2) followed by a 2-day conference (Sept 3-4).",
+    "url": "https://sites.google.com/unitn.it/inabag/home",
+    "deadline": "2026-09-04",
+    "event_date": "2026-09-04",
+    "location": "India",
+    "category": "Exam / Notification",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.469448+00:00"
+  },
+  {
+    "id": "c29e9912d91b02baeb028bdcef07efee",
+    "title": "\"Cremona Conference 2026\" (Summer School and Conference)",
+    "description": "August 31-September 11, 2026, Basel and Neuchatel, Switzerland: \"Cremona Conference 2026\" (Summer School and Conference), at the University of Basel and the University of Neuchatel.",
+    "url": "https://www.cremonaconference.ch/",
+    "deadline": "2026-09-11",
+    "event_date": "2026-09-11",
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.469581+00:00"
+  },
+  {
     "id": "a68fc9eb7cfbb72c3741a33590106306",
     "title": "Skip to main content",
     "description": "Skip to main content Toggle navigation Home Contact Us Sign up to our Mailing List Sign In Search Main menu About us LMS Mission and Objectives What We Do LMS Strategy 2023-2028 Equity, Diversity and Inclusion Global Governance Council Committees Nominating Committee Annual Reports LMS Elections Royal Charter History LMS timeline Staff LMS Privacy Notice Membership Paying your Subscription How to…",
@@ -514,7 +570,7 @@
     "category": "Workshop / School",
     "source_name": "LMS",
     "source_url": "https://www.lms.ac.uk",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:04:11.182587+00:00"
   },
   {
@@ -23096,7 +23152,7 @@
     "category": "Conference",
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:00:41.885330+00:00"
   },
   {
@@ -23110,7 +23166,7 @@
     "category": "Conference",
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:00:41.885378+00:00"
   },
   {
@@ -23124,7 +23180,7 @@
     "category": "Conference",
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:00:41.885422+00:00"
   },
   {
@@ -23138,7 +23194,7 @@
     "category": "Conference",
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:00:41.885721+00:00"
   },
   {
@@ -23152,7 +23208,7 @@
     "category": "Conference",
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:00:41.885776+00:00"
   },
   {
@@ -23166,7 +23222,7 @@
     "category": "Conference",
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:00:41.885826+00:00"
   },
   {
@@ -23180,7 +23236,7 @@
     "category": "Conference",
     "source_name": "DataEvents.co ML",
     "source_url": "https://dataevents.co/ml",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:00:45.176654+00:00"
   },
   {
@@ -23194,7 +23250,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:00:55.279533+00:00"
   },
   {
@@ -23208,7 +23264,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:00:55.279569+00:00"
   },
   {
@@ -23222,7 +23278,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:00:55.279673+00:00"
   },
   {
@@ -23236,7 +23292,7 @@
     "category": "Conference",
     "source_name": "WikiCFP Data Science",
     "source_url": "http://www.wikicfp.com/cfp/call?conference=data+science",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:00:58.262177+00:00"
   },
   {
@@ -23250,7 +23306,7 @@
     "category": "Conference",
     "source_name": "CFP Wiki",
     "source_url": "https://cfp.wiki/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:38.899498+00:00"
   },
   {
@@ -23264,7 +23320,7 @@
     "category": "Conference",
     "source_name": "CFP Wiki",
     "source_url": "https://cfp.wiki/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:38.899541+00:00"
   },
   {
@@ -23278,7 +23334,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:39.338933+00:00"
   },
   {
@@ -23292,7 +23348,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:39.338976+00:00"
   },
   {
@@ -23306,7 +23362,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:39.339214+00:00"
   },
   {
@@ -23320,7 +23376,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:39.339495+00:00"
   },
   {
@@ -23334,7 +23390,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:39.339798+00:00"
   },
   {
@@ -23348,7 +23404,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:39.339891+00:00"
   },
   {
@@ -23362,7 +23418,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:39.340223+00:00"
   },
   {
@@ -23376,7 +23432,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:39.340657+00:00"
   },
   {
@@ -23390,7 +23446,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:39.340701+00:00"
   },
   {
@@ -23404,7 +23460,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:39.340960+00:00"
   },
   {
@@ -23418,7 +23474,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:41.090051+00:00"
   },
   {
@@ -23432,7 +23488,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:41.090190+00:00"
   },
   {
@@ -23446,7 +23502,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:41.090235+00:00"
   },
   {
@@ -23460,7 +23516,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:41.090382+00:00"
   },
   {
@@ -23474,7 +23530,7 @@
     "category": "Conference",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:02:41.090571+00:00"
   },
   {
@@ -23488,7 +23544,7 @@
     "category": "Fellowship / Award",
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:03:21.580163+00:00"
   },
   {
@@ -23502,7 +23558,7 @@
     "category": "Conference",
     "source_name": "ScienceDZ",
     "source_url": "https://www.sciencedz.net/en/events.php?countryid=IN&topicid=1",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:03:33.939921+00:00"
   },
   {
@@ -23516,7 +23572,7 @@
     "category": "Conference",
     "source_name": "Unified Council",
     "source_url": "https://www.unifiedcouncil.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:03:39.636768+00:00"
   },
   {
@@ -23530,7 +23586,7 @@
     "category": "Workshop / School",
     "source_name": "arXiv",
     "source_url": "https://arxiv.org",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:03:42.274064+00:00"
   },
   {
@@ -23544,7 +23600,7 @@
     "category": "Workshop / School",
     "source_name": "arXiv",
     "source_url": "https://arxiv.org",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:03:42.274171+00:00"
   },
   {
@@ -23558,7 +23614,7 @@
     "category": "Conference",
     "source_name": "KDnuggets Meetings",
     "source_url": "https://www.kdnuggets.com/meetings/index.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:04:10.314584+00:00"
   },
   {
@@ -23572,7 +23628,7 @@
     "category": "Conference",
     "source_name": "KDnuggets Meetings",
     "source_url": "https://www.kdnuggets.com/meetings/index.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:04:10.314630+00:00"
   },
   {
@@ -23586,7 +23642,7 @@
     "category": "Conference",
     "source_name": "KDnuggets Meetings",
     "source_url": "https://www.kdnuggets.com/meetings/index.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:04:10.314678+00:00"
   },
   {
@@ -23600,7 +23656,7 @@
     "category": "Conference",
     "source_name": "KDnuggets Meetings",
     "source_url": "https://www.kdnuggets.com/meetings/index.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:04:10.314721+00:00"
   },
   {
@@ -23614,7 +23670,7 @@
     "category": "Conference",
     "source_name": "KDnuggets Meetings",
     "source_url": "https://www.kdnuggets.com/meetings/index.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:04:10.315171+00:00"
   },
   {
@@ -23628,7 +23684,469 @@
     "category": "Conference",
     "source_name": "KDnuggets Meetings",
     "source_url": "https://www.kdnuggets.com/meetings/index.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-01T05:04:10.315212+00:00"
+  },
+  {
+    "id": "0d70bd8d23d80ad5079a8f82184405a8",
+    "title": "[email protected]",
+    "description": "contact us at [email protected]",
+    "url": "https://dataevents.co/cdn-cgi/l/email-protection#f99a96978d989a8db99d988d989c8f9c978d8ad79a96",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "DataEvents.co ML",
+    "source_url": "https://dataevents.co/ml",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:37:39.552182+00:00"
+  },
+  {
+    "id": "eca8b33143f54733bf68cbb675bd3732",
+    "title": "Google calendar",
+    "description": "Google calendar iCalendar .ics",
+    "url": "https://www.google.com/calendar/event?action=TEMPLATE&text=Bridging+Lean+and+the+LMFDB&dates=20260629/20260704&details=https://multramate.github.io/lean-lmfdb&location=Norwich%3B+United+Kingdom",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:37:45.306468+00:00"
+  },
+  {
+    "id": "a0690cbac58fb15d852b076b24b5a97b",
+    "title": "Geometry and topology online",
+    "description": "Geometry and topology online",
+    "url": "https://researchseminars.org/seminar/GaTO",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:37:48.582120+00:00"
+  },
+  {
+    "id": "caf1c37e2ab994f904780ee3d8cb45d2",
+    "title": "Quantum reading book",
+    "description": "Quantum reading book",
+    "url": "https://researchseminars.org/seminar/QRB",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:37:48.583630+00:00"
+  },
+  {
+    "id": "2f17820916c57ac1dcf1f5d8a5646336",
+    "title": "Carleton-Ottawa Number Theory seminar",
+    "description": "Carleton-Ottawa Number Theory seminar",
+    "url": "https://researchseminars.org/seminar/CarletonOttawaNT",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:37:48.583778+00:00"
+  },
+  {
+    "id": "6e83562f2be6dc5ff15310a792294e4d",
+    "title": "\"Perverse Sheaves and their Categorification in Geometry and Representation Theory\"",
+    "description": "July 13-17, 2026, Venice, Italy: summer school on \"Perverse Sheaves and their Categorification in Geometry and Representation Theory\", at Venice International University (VIU).",
+    "url": "https://www.univiu.org/study/summer-schools/perverse-sheaves-geometry-representation-theory",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.467326+00:00"
+  },
+  {
+    "id": "0342b6dec9bacf8cc670a3d2c548fa2b",
+    "title": "\"Computational Methods for Tensors in Mathematics and Quantum Physics\"",
+    "description": "July 13-17, 2026, Trento, Italy: workshop on \"Computational Methods for Tensors in Mathematics and Quantum Physics\", at the University of Trento.",
+    "url": "https://sites.google.com/unitn.it/tenors-trento-2026/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.467387+00:00"
+  },
+  {
+    "id": "42695e4281069274145649814228dcdd",
+    "title": "Session \"Mathematics in Lean\" at ICMS 2026 (International Congress on Mathematical Software)",
+    "description": "July 20-23, 2026, Waterloo, Canada: Session \"Mathematics in Lean\" at ICMS 2026 (International Congress on Mathematical Software), at the University of Waterloo.",
+    "url": "https://icms-conference.org/2026/session5.html",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.467450+00:00"
+  },
+  {
+    "id": "d26995bd48efd79eca75eed9b5e04ad0",
+    "title": "Session \"Biological Applications of Computer Algebra\" at ICMS 2026",
+    "description": "July 20-23, 2026, Waterloo, Canada: Session \"Biological Applications of Computer Algebra\" at ICMS 2026, at Wilfrid Laurier University and the University of Waterloo.",
+    "url": "https://sites.google.com/view/bio-apps-of-comp-alg-icms-26/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.467512+00:00"
+  },
+  {
+    "id": "0bb07965114dbda854b4d4410a9051ed",
+    "title": "\"Women in Commutative Algebra IV - ICMS\"",
+    "description": "July 20-24, 2026, Edinburgh, Scotland: workshop \"Women in Commutative Algebra IV - ICMS\", at the International Centre for Mathematical Sciences (ICMS).",
+    "url": "https://www.icms.org.uk/women-in-commutative-algebra-IV-ICMS",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.467571+00:00"
+  },
+  {
+    "id": "e585ca8ae73dfbf4efd085a943769b99",
+    "title": "conference \"Regensburg GAP days 2\"",
+    "description": "July 27-29, 2026, Regensburg, Germany: conference \"Regensburg GAP days 2\", at the University of Regensburg.",
+    "url": "https://www.uni-regensburg.de/mathematik/fakultaet/termine/index.html",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.467719+00:00"
+  },
+  {
+    "id": "e4e372f5431bd8aa901f377c0a80ecfb",
+    "title": "\"Simons Semester in Algebraic Geometry\"",
+    "description": "August-December, 2026, Budapest, Hungary: semester program \"Simons Semester in Algebraic Geometry\", at the Erdos Center.",
+    "url": "https://erdoscenter.renyi.hu/articles/simons-semester-algebraic-geometry-2026-fall-august-december",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.467775+00:00"
+  },
+  {
+    "id": "92fc47f9e98f8c424058bad5b754d553",
+    "title": "\"The Gross-Zagier Formula, 40 Years Later\"",
+    "description": "August 3-7, 2026, Boston, MA: conference on \"The Gross-Zagier Formula, 40 Years Later\", at MIT.",
+    "url": "https://math.mit.edu/events/gross-zagier/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.467827+00:00"
+  },
+  {
+    "id": "dec9263c06b12977ff50dbf8ce45e9e7",
+    "title": "conference \"Singularities in Topology and Physics\"",
+    "description": "August 3-7, 2026, Notre Dame, Indiana: conference \"Singularities in Topology and Physics\", celebrating Julius Shaneson's 80th birthday, at the University of Notre Dame.",
+    "url": "https://people.math.wisc.edu/~lmaxim/SingTopPhy.html",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.467889+00:00"
+  },
+  {
+    "id": "9d5cda72aa65928e6eb436c0dfdb1bfc",
+    "title": "Workshop: \"The Geometry of Hitchin's Moduli Space\"",
+    "description": "August 10-14, 2026, Lausanne, Switzerland: Workshop: \"The Geometry of Hitchin's Moduli Space\", at the Bernoulli Center (EPFL).",
+    "url": "https://sites.google.com/view/ugphms/home",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.467943+00:00"
+  },
+  {
+    "id": "8e0b7cc45daddab208f37586e97cab4e",
+    "title": "Complex Geometry Session",
+    "description": "August 10-14, 2026, Lima, Peru: Complex Geometry Session at the XXV Coloquio Latinoamericano de Algebra (XXV CLA 2026), hosted by the Pontificia Universidad Catolica del Peru (PUCP).",
+    "url": "https://sites.google.com/view/complexgeometryatxxvcla2026/home",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.468008+00:00"
+  },
+  {
+    "id": "b03516183fc17ee4b5570419c86e66d4",
+    "title": "XXV Coloquio Latinoamericano de Algebra (XXV CLA 2026)",
+    "description": "August 10-14, 2026, Lima, Peru: Complex Geometry Session at the XXV Coloquio Latinoamericano de Algebra (XXV CLA 2026), hosted by the Pontificia Universidad Catolica del Peru (PUCP).",
+    "url": "https://sites.google.com/pucp.edu.pe/xxvcla2026",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.468072+00:00"
+  },
+  {
+    "id": "5fedeab74566d7eda98e4493279d12c6",
+    "title": "minisymposium on \"Symbolic and Numerical Methods in (Nonlinear) Algebra\"",
+    "description": "August 10-15, 2026, Mainz, Germany: minisymposium on \"Symbolic and Numerical Methods in (Nonlinear) Algebra\", at JuliaCon Global 2026.",
+    "url": "https://pretalx.com/juliacon-2026/cfp",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.468129+00:00"
+  },
+  {
+    "id": "63576c0147362c4485394f067a30de99",
+    "title": "Building Bridges: 7th EU/US Summer School and Workshop on Automorphic Forms and Related Topics",
+    "description": "August 10-21, 2026, Bedlewo, Poland: Building Bridges: 7th EU/US Summer School and Workshop on Automorphic Forms and Related Topics, at the Bedlewo Palace (Banach Center).",
+    "url": "https://bb7.wmi.amu.edu.pl",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.468193+00:00"
+  },
+  {
+    "id": "be68a7b806eef6a6a440a9d071d38391",
+    "title": "Mini-course: \"Anisotropy and Lefschetz Properties in Combinatorics\"",
+    "description": "August 17-21, 2026, Berlin, Germany: Mini-course: \"Anisotropy and Lefschetz Properties in Combinatorics\", by Alan Stapledon (Sydney) at Freie Universitat Berlin.",
+    "url": "http://ehrhart.math.fu-berlin.de/spp/minicourse/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.468251+00:00"
+  },
+  {
+    "id": "65b2196d4eac57179fa34dedfc2132f9",
+    "title": "Summer School on \"Algebraic, Analytic and Arithmetic Geometry\"",
+    "description": "August 24-28, 2026, Montreal, Canada: Summer School on \"Algebraic, Analytic and Arithmetic Geometry\", at the Institut des Sciences Mathematiques (ISM).",
+    "url": "https://ism.uqam.ca/Kahler/en/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.468358+00:00"
+  },
+  {
+    "id": "0bc389d02b81b3bb7a8046a91997b5ce",
+    "title": "Algebraic Geometry in the Daylight",
+    "description": "August 29-31, 2026, Stavanger, Norway: Algebraic Geometry in the Daylight, at the University of Stavanger.",
+    "url": "https://indico2.uis.no/event/63/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.468464+00:00"
+  },
+  {
+    "id": "4da7a13a7e93fe02046332d21bae419a",
+    "title": "ALBATROSS 2026: Algebraic Methods for Polynomial System Solving",
+    "description": "September 1-4, 2026, Paris, France: ALBATROSS 2026: Algebraic Methods for Polynomial System Solving, at Sorbonne Universite (Campus Pierre-et-Marie-Curie).",
+    "url": "https://albatross-2026.sciencesconf.org/?lang=en",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.469678+00:00"
+  },
+  {
+    "id": "3b4708a776ed1534e3c1beb7a5bfcaf6",
+    "title": "Young Researchers in Number Theory (Y-RANT VIII)",
+    "description": "September 2-4, 2026, Bristol, United Kingdom: Young Researchers in Number Theory (Y-RANT VIII), at the University of Bristol (Fry Building).",
+    "url": "https://y-rant.github.io/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.469761+00:00"
+  },
+  {
+    "id": "2cc13817b09ada0fac0518362dfc409c",
+    "title": "6th \"Ricercatori in Algebra e Geometria\"",
+    "description": "September 2-5, 2026, Padova, Italy: 6th \"Ricercatori in Algebra e Geometria\", hosted at the University of Padova. This event includes a \"Giornata Unita INdAM Padova - Verona\" on September 2nd, followed by the main conference on September 3rd-4th.",
+    "url": "https://sites.google.com/view/ricercatorialgebrageometria/home",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.469841+00:00"
+  },
+  {
+    "id": "2e0d878fe63dd2f92b293c17cbfa1867",
+    "title": "\"Two centuries of moduli\"",
+    "description": "September 7-11, 2026, Berlin, Germany: conference \"Two centuries of moduli\", at the Humboldt University and the Berlin-Brandenburg Academy of Sciences.",
+    "url": "https://www.math.hu-berlin.de/~www-ag/Website_TwoCenturiesOfModuli/TwoCenturiesOfModuli.html",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Stanford Vakil Conf List",
+    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:34.469900+00:00"
+  },
+  {
+    "id": "01a3a603f28dbf3d999f7e9db1e675fe",
+    "title": "Infosys Award Function 2022",
+    "description": "Infosys Award Function 2022",
+    "url": "https://olympiads.hbcse.tifr.res.in/about-olympiads/infosys-award-function/infosys-award-function-2022/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:39:50.390260+00:00"
+  },
+  {
+    "id": "3df94ac804b70d8311126364b74548c3",
+    "title": "About UIEO-Online",
+    "description": "About UIEO-Online",
+    "url": "https://www.unifiedcouncil.com/about-uieo-online.html",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Unified Council",
+    "source_url": "https://www.unifiedcouncil.com",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:40:07.342429+00:00"
+  },
+  {
+    "id": "eea2440b6a0bfe3dfbeb40f3dd37a99e",
+    "title": "distributed computing",
+    "description": "intelligent systems deep learning deep learning based computer vision distributed computing",
+    "url": "https://easychair.org/cfp/topic?tid=8376",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:40:13.510344+00:00"
+  },
+  {
+    "id": "aa0ddc1c29e08dc72a55b6cdb1f66bc5",
+    "title": "educational robots",
+    "description": "educational robots robotics artificial intelligence (ai) teaching and learning",
+    "url": "https://easychair.org/cfp/topic?tid=1439122",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:40:13.510418+00:00"
+  },
+  {
+    "id": "ad41d9374a034c55e1036a1500057182",
+    "title": "artificial intelligence (ai)",
+    "description": "educational robots robotics artificial intelligence (ai) teaching and learning",
+    "url": "https://easychair.org/cfp/topic?tid=25086",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:40:13.510463+00:00"
+  },
+  {
+    "id": "25afdc567a73e44ba1b15fcdf1f45757",
+    "title": "teaching and learning",
+    "description": "educational robots robotics artificial intelligence (ai) teaching and learning",
+    "url": "https://easychair.org/cfp/topic?tid=108370",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:40:13.510504+00:00"
+  },
+  {
+    "id": "137ba0dc606eecc8f2d07e4839025deb",
+    "title": "5 AI Coding Platforms to Build Apps Without the Headache",
+    "description": "5 AI Coding Platforms to Build Apps Without the Headache",
+    "url": "https://www.kdnuggets.com/5-ai-coding-platforms-to-build-apps-without-the-headache",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "KDnuggets Meetings",
+    "source_url": "https://www.kdnuggets.com/meetings/index.html",
+    "is_new": true,
+    "scraped_at": "2026-07-02T04:40:38.854197+00:00"
   }
 ]
