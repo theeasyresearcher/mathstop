@@ -11,7 +11,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:37:35.959369+00:00"
+    "scraped_at": "2026-07-03T04:15:44.403997+00:00"
   },
   {
     "id": "ceda61484e2b3e073cb8a9b15c2e55f8",
@@ -25,7 +25,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:37:35.958199+00:00"
+    "scraped_at": "2026-07-03T04:15:44.403427+00:00"
   },
   {
     "id": "52904ed4a5ceb9e8190cf67b4a2a5adf",
@@ -39,7 +39,7 @@
     "source_name": "Ramanujan Math Society",
     "source_url": "https://www.ramanujanmathsociety.org/",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:38:58.810546+00:00"
+    "scraped_at": "2026-07-03T04:17:50.147441+00:00"
   },
   {
     "id": "e84b6044d31bd9547e11888b7fc4d589",
@@ -53,7 +53,21 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:37:35.957612+00:00"
+    "scraped_at": "2026-07-03T04:15:44.403150+00:00"
+  },
+  {
+    "id": "e7776d8698cfd2c600c8caa054f6b810",
+    "title": "application form",
+    "description": "This is a workshop to bridge the Lean theorem prover and the L-functions and modular forms database. It will feature tutorials to navigate the number theory interface in mathlib as well as research talks in relevant areas. There will also be ample working time dedicated to projects, including formalisation of definitions in the LMFDB as in the blueprint. Registration will be mandatory through our…",
+    "url": "https://tinyurl.com/lean-lmfdb",
+    "deadline": "2026-02-28",
+    "event_date": "2026-02-28",
+    "location": "India",
+    "category": "Exam / Notification",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:15:53.598703+00:00"
   },
   {
     "id": "1523253950c8e057da8dc68a613e7909",
@@ -67,7 +81,7 @@
     "source_name": "DataCamp Blog",
     "source_url": "https://www.datacamp.com/blog/top-data-science-conferences-for-2022",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:40:11.668770+00:00"
+    "scraped_at": "2026-07-03T04:19:03.163644+00:00"
   },
   {
     "id": "5d2dd1a5e5b8311b99703d7317ff85d8",
@@ -81,7 +95,7 @@
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:39:50.389846+00:00"
+    "scraped_at": "2026-07-03T04:18:38.799819+00:00"
   },
   {
     "id": "e73a1957db15f62b18a6431800eed87a",
@@ -95,7 +109,7 @@
     "source_name": "IMSA India",
     "source_url": "https://www.imsaindia.org/",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:38:18.167297+00:00"
+    "scraped_at": "2026-07-03T04:17:05.306521+00:00"
   },
   {
     "id": "ba2a038dd8cf3b7cfc5b797ea8c1dbfd",
@@ -109,7 +123,7 @@
     "source_name": "ICLR",
     "source_url": "https://iclr.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:37:39.909442+00:00"
+    "scraped_at": "2026-07-03T04:15:47.328486+00:00"
   },
   {
     "id": "540990b5464d8763cb8354334ce03ea6",
@@ -123,7 +137,7 @@
     "source_name": "IMU",
     "source_url": "https://www.mathunion.org",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:40:37.389038+00:00"
+    "scraped_at": "2026-07-03T04:19:28.576892+00:00"
   },
   {
     "id": "4f528ef689ae64f998aefde5d107d37a",
@@ -137,7 +151,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:37:45.691908+00:00"
+    "scraped_at": "2026-07-03T04:15:54.039660+00:00"
   },
   {
     "id": "33c7279ed636bd37eadb90bd3bd06b2a",
@@ -151,7 +165,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:37:45.692102+00:00"
+    "scraped_at": "2026-07-03T04:15:54.039760+00:00"
   },
   {
     "id": "70f1fa1d17c75f55aafcc25f2af580d4",
@@ -165,7 +179,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:37:45.692292+00:00"
+    "scraped_at": "2026-07-03T04:15:54.039848+00:00"
   },
   {
     "id": "e31fbfb5f51e0f6635dbb8e755cfa158",
@@ -179,7 +193,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:37:45.692477+00:00"
+    "scraped_at": "2026-07-03T04:15:54.039939+00:00"
   },
   {
     "id": "8482ceba49439bb8289a5cb12dbd79c5",
@@ -193,7 +207,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:37:45.692695+00:00"
+    "scraped_at": "2026-07-03T04:15:54.040025+00:00"
   },
   {
     "id": "cc5ed18412883471fba0c087326e978d",
@@ -207,7 +221,7 @@
     "source_name": "ISI Bangalore",
     "source_url": "https://www.isibang.ac.in",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:39:57.778072+00:00"
+    "scraped_at": "2026-07-03T04:18:48.346382+00:00"
   },
   {
     "id": "d74e3e3c2f004b22bd4b2393ccd4c19e",
@@ -221,7 +235,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:40:37.192347+00:00"
+    "scraped_at": "2026-07-03T04:19:28.348042+00:00"
   },
   {
     "id": "6baa1b13cad2c05480bfade8d37f5afd",
@@ -235,7 +249,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:40:37.192482+00:00"
+    "scraped_at": "2026-07-03T04:19:28.348110+00:00"
   },
   {
     "id": "ee5496d82d93615c6de347c236d0ab3a",
@@ -249,7 +263,7 @@
     "source_name": "ISI Bangalore",
     "source_url": "https://www.isibang.ac.in",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:39:57.777874+00:00"
+    "scraped_at": "2026-07-03T04:18:48.346285+00:00"
   },
   {
     "id": "cb128183bda3fcef627c26ccc6a39d59",
@@ -263,7 +277,7 @@
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:37:34.783446+00:00"
+    "scraped_at": "2026-07-03T04:15:43.147513+00:00"
   },
   {
     "id": "967b00b2c4b3c2d7c92e1a7eb4a918bc",
@@ -277,7 +291,7 @@
     "source_name": "IASC-ISI",
     "source_url": "https://iasc-isi.org/",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:39:34.139252+00:00"
+    "scraped_at": "2026-07-03T04:18:23.865208+00:00"
   },
   {
     "id": "205867537c38035581b2a5ee5f6a7ec7",
@@ -291,21 +305,7 @@
     "source_name": "IASC-ISI",
     "source_url": "https://iasc-isi.org/",
     "is_new": true,
-    "scraped_at": "2026-07-02T04:39:34.139451+00:00"
-  },
-  {
-    "id": "09db2fe64ccfdd954c367ec208fe9873",
-    "title": "Workshop on Geometric Representation Theory",
-    "description": "June 29-July 1, 2026, Amiens, France: Workshop on Geometric Representation Theory, at the Universite de Picardie Jules Verne.",
-    "url": "https://grt-workshop.sciencesconf.org/?lang=en",
-    "deadline": "2026-07-01",
-    "event_date": "2026-07-01",
-    "location": "World",
-    "category": "Workshop / School",
-    "source_name": "Stanford Vakil Conf List",
-    "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": false,
-    "scraped_at": "2026-06-26T02:37:11.008203+00:00"
+    "scraped_at": "2026-07-03T04:18:23.865305+00:00"
   },
   {
     "id": "d39730eb9967bf84138a12f7ccfce468",
@@ -486,7 +486,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.468924+00:00"
   },
   {
@@ -500,7 +500,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.469048+00:00"
   },
   {
@@ -514,7 +514,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.469178+00:00"
   },
   {
@@ -528,7 +528,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.469303+00:00"
   },
   {
@@ -542,7 +542,7 @@
     "category": "Exam / Notification",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.469448+00:00"
   },
   {
@@ -556,7 +556,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.469581+00:00"
   },
   {
@@ -23698,7 +23698,7 @@
     "category": "Conference",
     "source_name": "DataEvents.co ML",
     "source_url": "https://dataevents.co/ml",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:37:39.552182+00:00"
   },
   {
@@ -23712,7 +23712,7 @@
     "category": "Conference",
     "source_name": "MathMeetings.net",
     "source_url": "https://mathmeetings.net/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:37:45.306468+00:00"
   },
   {
@@ -23726,7 +23726,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:37:48.582120+00:00"
   },
   {
@@ -23740,7 +23740,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:37:48.583630+00:00"
   },
   {
@@ -23754,7 +23754,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:37:48.583778+00:00"
   },
   {
@@ -23768,7 +23768,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.467326+00:00"
   },
   {
@@ -23782,7 +23782,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.467387+00:00"
   },
   {
@@ -23796,7 +23796,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.467450+00:00"
   },
   {
@@ -23810,7 +23810,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.467512+00:00"
   },
   {
@@ -23824,7 +23824,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.467571+00:00"
   },
   {
@@ -23838,7 +23838,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.467719+00:00"
   },
   {
@@ -23852,7 +23852,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.467775+00:00"
   },
   {
@@ -23866,7 +23866,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.467827+00:00"
   },
   {
@@ -23880,7 +23880,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.467889+00:00"
   },
   {
@@ -23894,7 +23894,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.467943+00:00"
   },
   {
@@ -23908,7 +23908,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.468008+00:00"
   },
   {
@@ -23922,7 +23922,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.468072+00:00"
   },
   {
@@ -23936,7 +23936,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.468129+00:00"
   },
   {
@@ -23950,7 +23950,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.468193+00:00"
   },
   {
@@ -23964,7 +23964,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.468251+00:00"
   },
   {
@@ -23978,7 +23978,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.468358+00:00"
   },
   {
@@ -23992,7 +23992,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.468464+00:00"
   },
   {
@@ -24006,7 +24006,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.469678+00:00"
   },
   {
@@ -24020,7 +24020,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.469761+00:00"
   },
   {
@@ -24034,7 +24034,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.469841+00:00"
   },
   {
@@ -24048,7 +24048,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:34.469900+00:00"
   },
   {
@@ -24062,7 +24062,7 @@
     "category": "Fellowship / Award",
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:39:50.390260+00:00"
   },
   {
@@ -24076,7 +24076,7 @@
     "category": "Conference",
     "source_name": "Unified Council",
     "source_url": "https://www.unifiedcouncil.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:40:07.342429+00:00"
   },
   {
@@ -24090,7 +24090,7 @@
     "category": "Workshop / School",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:40:13.510344+00:00"
   },
   {
@@ -24104,7 +24104,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:40:13.510418+00:00"
   },
   {
@@ -24118,7 +24118,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:40:13.510463+00:00"
   },
   {
@@ -24132,7 +24132,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:40:13.510504+00:00"
   },
   {
@@ -24146,7 +24146,553 @@
     "category": "Conference",
     "source_name": "KDnuggets Meetings",
     "source_url": "https://www.kdnuggets.com/meetings/index.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-02T04:40:38.854197+00:00"
+  },
+  {
+    "id": "ec5874ab703886e98396da7e83faf2e1",
+    "title": "[email protected]",
+    "description": "contact us at [email protected]",
+    "url": "https://dataevents.co/cdn-cgi/l/email-protection#2c4f4342584d4f586c484d584d495a4942585f024f43",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "DataEvents.co ML",
+    "source_url": "https://dataevents.co/ml",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:15:46.932682+00:00"
+  },
+  {
+    "id": "8bc51c102459c13643333a05d7084591",
+    "title": "IMA Mathematics Anxiety International conference",
+    "description": "IMA Mathematics Anxiety International conference",
+    "url": "https://ima.org.uk/24021/ima-mathematics-anxiety-international-conference/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:15:53.598804+00:00"
+  },
+  {
+    "id": "c6af3094e0494cc327b61b949f73dba7",
+    "title": "Google calendar",
+    "description": "Google calendar iCalendar .ics",
+    "url": "https://www.google.com/calendar/event?action=TEMPLATE&text=IMA+Mathematics+Anxiety+International+conference&dates=20260630/20260703&details=https://ima.org.uk/24021/ima-mathematics-anxiety-international-conference/&location=Cambridge%3B+United+Kingdom",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:15:53.598825+00:00"
+  },
+  {
+    "id": "1e05de48a5ac45e3bcab1409c32f7554",
+    "title": "Google calendar",
+    "description": "Google calendar iCalendar .ics",
+    "url": "https://www.google.com/calendar/event?action=TEMPLATE&text=Theorems+of+the+21st+Century+Seminar+-+Prof.+Oleg+Pikhurko&dates=20260701/20260702&details=https://th21.le.ac.uk/&location=Leicester%3B+United+Kingdom",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:15:53.598942+00:00"
+  },
+  {
+    "id": "54a301b7a7a552b3b6968f1aa86d060c",
+    "title": "INFORMS-DSW 2026",
+    "description": "INFORMS-DSW 2026",
+    "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200290&copyownerid=199334",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "WikiCFP Data Science",
+    "source_url": "http://www.wikicfp.com/cfp/call?conference=data+science",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:16:16.926891+00:00"
+  },
+  {
+    "id": "b30773e8583d9ac5cc1bd86c1f82f610",
+    "title": "Ei/Scopus-CVCM 2026",
+    "description": "Ei/Scopus-CVCM 2026",
+    "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187727&copyownerid=165700",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "WikiCFP Data Science",
+    "source_url": "http://www.wikicfp.com/cfp/call?conference=data+science",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:16:16.926946+00:00"
+  },
+  {
+    "id": "5ab3bc311a3cb4df9fbfc5b8cb8b9ef4",
+    "title": "3rd Edition of International Cancer & Immuno-Oncology Conference 2027",
+    "description": "3rd Edition of International Cancer & Immuno-Oncology Conference 2027",
+    "url": "https://cfp.wiki/conferences/cioc-2027",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "CFP Wiki",
+    "source_url": "https://cfp.wiki/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:17:56.968168+00:00"
+  },
+  {
+    "id": "33410ecc097935a1d9cf6e9dd55d3bae",
+    "title": "International Conference on Mathematics (ICM)",
+    "description": "Jul 17 International Conference on Mathematics (ICM) - Washington, United States",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-icm-2026-july-washington-us",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:17:57.762809+00:00"
+  },
+  {
+    "id": "912a542808bf448a3bc97c643f89b02d",
+    "title": "Meet the Forward Deployed Engineer. ->",
+    "description": "Deployed doesn't mean adopted. Meet the Forward Deployed Engineer. ->",
+    "url": "https://tryolabs.com/blog/forward-deployed-engineers-enterprise-ai",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Tryolabs AI Conf",
+    "source_url": "https://tryolabs.com/blog/machine-learning-deep-learning-conferences",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:18:24.898327+00:00"
+  },
+  {
+    "id": "e0e225631fb09fcecc23b3f76158be09",
+    "title": "Kurnool, Andhra Pradesh 1",
+    "description": "Popular locations in this country : Bangalore 5 Goa 3 Bengaluru, Karnataka 3 Mumbai, Maharashtra 2 Chennai 2 LUCKNOW, Uttar Pradesh 2 Port Blair-SriVijayaPuram, Andaman and Nicobar Is 1 Dubai, Dubia 1 Manipal 1 Kurnool, Andhra Pradesh 1",
+    "url": "https://www.sciencedz.net/en/conferences/l/IN/Kurnool%2C++Andhra+Pradesh",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ScienceDZ",
+    "source_url": "https://www.sciencedz.net/en/events.php?countryid=IN&topicid=1",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:18:54.147488+00:00"
+  },
+  {
+    "id": "806b625aa53b795280b717974df01b16",
+    "title": "causal discovery",
+    "description": "causal discovery causal reasoning graphical models",
+    "url": "https://easychair.org/cfp/topic?tid=143743",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884205+00:00"
+  },
+  {
+    "id": "13d095d6e4ad0d20fc7db88e93528716",
+    "title": "causal reasoning",
+    "description": "causal discovery causal reasoning graphical models",
+    "url": "https://easychair.org/cfp/topic?tid=138",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884226+00:00"
+  },
+  {
+    "id": "6d428581ffc52121e04602833bb126de",
+    "title": "graphical models",
+    "description": "causal discovery causal reasoning graphical models",
+    "url": "https://easychair.org/cfp/topic?tid=23101",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884245+00:00"
+  },
+  {
+    "id": "576ea5eccd5b8ac193e92e0649ada333",
+    "title": "model driven engineering",
+    "description": "knowledge graphs model driven engineering conceptual modeling ontologies",
+    "url": "https://easychair.org/cfp/topic?tid=996",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884311+00:00"
+  },
+  {
+    "id": "b6d96bd53c5524a24e3d42d485db59f9",
+    "title": "conceptual modeling",
+    "description": "knowledge graphs model driven engineering conceptual modeling ontologies",
+    "url": "https://easychair.org/cfp/topic?tid=24628",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884331+00:00"
+  },
+  {
+    "id": "21669446095526ec3c8b4f6ad0615f68",
+    "title": "IBERSENSOR 2026",
+    "description": "IBERSENSOR 2026",
+    "url": "https://easychair.org/cfp/ibersensor2026",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884368+00:00"
+  },
+  {
+    "id": "97b230a024d503e082421966842adc31",
+    "title": "sensors biosensors",
+    "description": "sensors biosensors design and technology of sensors applications to sensors new materials for sensors",
+    "url": "https://easychair.org/cfp/topic?tid=43131813",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884400+00:00"
+  },
+  {
+    "id": "29b7b945e26988cec397a822795c49a2",
+    "title": "design and technology of sensors",
+    "description": "sensors biosensors design and technology of sensors applications to sensors new materials for sensors",
+    "url": "https://easychair.org/cfp/topic?tid=43131814",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884425+00:00"
+  },
+  {
+    "id": "4cca85eea5bcd59fee2da66d066cde85",
+    "title": "applications to sensors",
+    "description": "sensors biosensors design and technology of sensors applications to sensors new materials for sensors",
+    "url": "https://easychair.org/cfp/topic?tid=43131815",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884448+00:00"
+  },
+  {
+    "id": "9dca556155ed07d175cc50fb88dc0c8a",
+    "title": "new materials for sensors",
+    "description": "sensors biosensors design and technology of sensors applications to sensors new materials for sensors",
+    "url": "https://easychair.org/cfp/topic?tid=43131816",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884472+00:00"
+  },
+  {
+    "id": "42a5cd75ad2b70352a817bb9c6ee6262",
+    "title": "high performance computing",
+    "description": "artificial intelligence (ai) agentic ai high performance computing industry applications",
+    "url": "https://easychair.org/cfp/topic?tid=9307",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884562+00:00"
+  },
+  {
+    "id": "8449ffa5f9174943fbd2da5bcabc4056",
+    "title": "industry applications",
+    "description": "artificial intelligence (ai) agentic ai high performance computing industry applications",
+    "url": "https://easychair.org/cfp/topic?tid=721654",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884584+00:00"
+  },
+  {
+    "id": "7d6d4da99c2abee45004238df839f378",
+    "title": "social responsibility",
+    "description": "private sector social responsibility sustainable economy economic stability",
+    "url": "https://easychair.org/cfp/topic?tid=26197",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884649+00:00"
+  },
+  {
+    "id": "99afffa8310dee64f17da891d9224737",
+    "title": "sustainable economy",
+    "description": "private sector social responsibility sustainable economy economic stability",
+    "url": "https://easychair.org/cfp/topic?tid=1830206",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884671+00:00"
+  },
+  {
+    "id": "b1d1ddb430a0ad1b65186bd4ac213871",
+    "title": "economic stability",
+    "description": "private sector social responsibility sustainable economy economic stability",
+    "url": "https://easychair.org/cfp/topic?tid=1558249",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884692+00:00"
+  },
+  {
+    "id": "30ec8d5726133d0cb99a3197c7f7c770",
+    "title": "content moderation",
+    "description": "content moderation platform governance human computer interaction artificial intelligence",
+    "url": "https://easychair.org/cfp/topic?tid=13075904",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884736+00:00"
+  },
+  {
+    "id": "b904db2f773ee1f40517e056527bbbe7",
+    "title": "platform governance",
+    "description": "content moderation platform governance human computer interaction artificial intelligence",
+    "url": "https://easychair.org/cfp/topic?tid=5684462",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884761+00:00"
+  },
+  {
+    "id": "85cc3a209df8d4c59aa0c84448869139",
+    "title": "human computer interaction",
+    "description": "content moderation platform governance human computer interaction artificial intelligence",
+    "url": "https://easychair.org/cfp/topic?tid=752",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884783+00:00"
+  },
+  {
+    "id": "fb36de9a4b98704f60cca84faa1a3043",
+    "title": "information retrieval",
+    "description": "information retrieval search and ranking multi modal information retrieval humans and interfaces",
+    "url": "https://easychair.org/cfp/topic?tid=2886",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884848+00:00"
+  },
+  {
+    "id": "26f9761919cd302fe2d678b3264dbeb4",
+    "title": "search and ranking",
+    "description": "information retrieval search and ranking multi modal information retrieval humans and interfaces",
+    "url": "https://easychair.org/cfp/topic?tid=32054",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884872+00:00"
+  },
+  {
+    "id": "a0bb42c3f485b4074a52e6175eda01db",
+    "title": "multi modal information retrieval",
+    "description": "information retrieval search and ranking multi modal information retrieval humans and interfaces",
+    "url": "https://easychair.org/cfp/topic?tid=1518274",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884895+00:00"
+  },
+  {
+    "id": "a3436ecde5afec792e31574482fd0e14",
+    "title": "humans and interfaces",
+    "description": "information retrieval search and ranking multi modal information retrieval humans and interfaces",
+    "url": "https://easychair.org/cfp/topic?tid=27054723",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884917+00:00"
+  },
+  {
+    "id": "4464ca404ec3b97d49573ba3fe95aba8",
+    "title": "travel behaviour",
+    "description": "travel behaviour urban mobility sustainability logistics",
+    "url": "https://easychair.org/cfp/topic?tid=113892",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.884956+00:00"
+  },
+  {
+    "id": "0358310a337bd9c976152e6665429b52",
+    "title": "evolutionary game theory",
+    "description": "evolutionary game theory artificial intelligence cognitive neuroscience",
+    "url": "https://easychair.org/cfp/topic?tid=149882",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.885021+00:00"
+  },
+  {
+    "id": "2e8ea5901df9ab623d4819645199e7b4",
+    "title": "cognitive neuroscience",
+    "description": "evolutionary game theory artificial intelligence cognitive neuroscience",
+    "url": "https://easychair.org/cfp/topic?tid=98023",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.885059+00:00"
+  },
+  {
+    "id": "e19ce10ccaf8db70c198d275b0563cc0",
+    "title": "IHM '26 - XAI4U",
+    "description": "IHM '26 - XAI4U",
+    "url": "https://easychair.org/cfp/ihm26xai4u",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.885092+00:00"
+  },
+  {
+    "id": "98a7f54bd89e409683b2c3e53aefee18",
+    "title": "haptic technologies",
+    "description": "xr gamification haptic technologies 3d graphics",
+    "url": "https://easychair.org/cfp/topic?tid=4151743",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:04.885161+00:00"
+  },
+  {
+    "id": "f6efe28262575b9501e5a49d164241f8",
+    "title": "10 Agentic AI Frameworks You Should Know in 2026",
+    "description": "10 Agentic AI Frameworks You Should Know in 2026",
+    "url": "https://www.kdnuggets.com/10-agentic-ai-frameworks-you-should-know-in-2026",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "KDnuggets Meetings",
+    "source_url": "https://www.kdnuggets.com/meetings/index.html",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:28.818462+00:00"
+  },
+  {
+    "id": "7976080cfdd81d96e967fd998dc756de",
+    "title": "Humanity’s Last Exam is a Distraction",
+    "description": "Humanity’s Last Exam is a Distraction",
+    "url": "https://www.kdnuggets.com/humanitys-last-exam-is-a-distraction",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "KDnuggets Meetings",
+    "source_url": "https://www.kdnuggets.com/meetings/index.html",
+    "is_new": true,
+    "scraped_at": "2026-07-03T04:19:28.818481+00:00"
   }
 ]
