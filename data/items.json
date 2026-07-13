@@ -11,7 +11,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:05:49.479425+00:00"
+    "scraped_at": "2026-07-13T04:07:49.021889+00:00"
   },
   {
     "id": "ceda61484e2b3e073cb8a9b15c2e55f8",
@@ -25,7 +25,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:05:49.478276+00:00"
+    "scraped_at": "2026-07-13T04:07:49.020730+00:00"
   },
   {
     "id": "52904ed4a5ceb9e8190cf67b4a2a5adf",
@@ -39,7 +39,7 @@
     "source_name": "Ramanujan Math Society",
     "source_url": "https://www.ramanujanmathsociety.org/",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:07:01.139804+00:00"
+    "scraped_at": "2026-07-13T04:09:54.703525+00:00"
   },
   {
     "id": "e84b6044d31bd9547e11888b7fc4d589",
@@ -53,7 +53,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:05:49.477700+00:00"
+    "scraped_at": "2026-07-13T04:07:49.020188+00:00"
   },
   {
     "id": "1523253950c8e057da8dc68a613e7909",
@@ -67,7 +67,7 @@
     "source_name": "DataCamp Blog",
     "source_url": "https://www.datacamp.com/blog/top-data-science-conferences-for-2022",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:08:18.275776+00:00"
+    "scraped_at": "2026-07-13T04:11:39.376103+00:00"
   },
   {
     "id": "5d2dd1a5e5b8311b99703d7317ff85d8",
@@ -81,7 +81,7 @@
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:07:56.710030+00:00"
+    "scraped_at": "2026-07-13T04:11:14.804649+00:00"
   },
   {
     "id": "e73a1957db15f62b18a6431800eed87a",
@@ -95,7 +95,7 @@
     "source_name": "IMSA India",
     "source_url": "https://www.imsaindia.org/",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:06:20.587264+00:00"
+    "scraped_at": "2026-07-13T04:09:10.647327+00:00"
   },
   {
     "id": "ba2a038dd8cf3b7cfc5b797ea8c1dbfd",
@@ -109,7 +109,7 @@
     "source_name": "ICLR",
     "source_url": "https://iclr.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:05:52.631539+00:00"
+    "scraped_at": "2026-07-13T04:07:52.871113+00:00"
   },
   {
     "id": "ee5496d82d93615c6de347c236d0ab3a",
@@ -123,7 +123,7 @@
     "source_name": "ISI Bangalore",
     "source_url": "https://www.isibang.ac.in",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:08:05.174284+00:00"
+    "scraped_at": "2026-07-13T04:11:23.169434+00:00"
   },
   {
     "id": "cb128183bda3fcef627c26ccc6a39d59",
@@ -137,35 +137,7 @@
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:05:48.117519+00:00"
-  },
-  {
-    "id": "967b00b2c4b3c2d7c92e1a7eb4a918bc",
-    "title": "(Deadline extended: June 30, 2026) WSC 2027, Invited Paper Sessions – Open for Proposals!",
-    "description": "(Deadline extended: June 30, 2026) WSC 2027, Invited Paper Sessions – Open for Proposals!",
-    "url": "https://iasc-isi.org/2026/06/19/wsc-2027-invited-paper-sessions-open-for-proposals/",
-    "deadline": "2026-06-30",
-    "event_date": "2026-06-30",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "IASC-ISI",
-    "source_url": "https://iasc-isi.org/",
-    "is_new": true,
-    "scraped_at": "2026-07-12T04:07:36.447792+00:00"
-  },
-  {
-    "id": "205867537c38035581b2a5ee5f6a7ec7",
-    "title": "Deadline Extended to June 30, 2026. LACSC-TIES-EnviBayes-EnvrASA 2026",
-    "description": "Deadline Extended to June 30, 2026. LACSC-TIES-EnviBayes-EnvrASA 2026",
-    "url": "https://iasc-isi.org/2026/06/03/deadline-extended-to-june-30-2026-lacsc-ties-envibayes-envrasa-2026/",
-    "deadline": "2026-06-30",
-    "event_date": "2026-06-30",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "IASC-ISI",
-    "source_url": "https://iasc-isi.org/",
-    "is_new": true,
-    "scraped_at": "2026-07-12T04:07:36.447986+00:00"
+    "scraped_at": "2026-07-13T04:07:47.796354+00:00"
   },
   {
     "id": "d39730eb9967bf84138a12f7ccfce468",
@@ -179,7 +151,7 @@
     "source_name": "ISI Bangalore",
     "source_url": "https://www.isibang.ac.in",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:08:05.174390+00:00"
+    "scraped_at": "2026-07-13T04:11:23.169538+00:00"
   },
   {
     "id": "ec7a577a701ed1480a8068a2fda2c5d1",
@@ -193,7 +165,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:07:36.703961+00:00"
+    "scraped_at": "2026-07-13T04:10:49.790800+00:00"
   },
   {
     "id": "264d844b2cc3f78a75c4e84d583eaeb4",
@@ -207,7 +179,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:07:36.704111+00:00"
+    "scraped_at": "2026-07-13T04:10:49.790939+00:00"
   },
   {
     "id": "6e1690b137b62777a4f48eb1d1710792",
@@ -221,7 +193,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:07:36.704381+00:00"
+    "scraped_at": "2026-07-13T04:10:49.791207+00:00"
   },
   {
     "id": "54a7c67891a20634c875387b4adf9fa8",
@@ -235,7 +207,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:07:36.704493+00:00"
+    "scraped_at": "2026-07-13T04:10:49.791320+00:00"
   },
   {
     "id": "38b62e91fb5a9464677f7ab2292feffc",
@@ -249,7 +221,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:07:36.704612+00:00"
+    "scraped_at": "2026-07-13T04:10:49.791440+00:00"
   },
   {
     "id": "ba4953d7b947ca27179f7ee761361c70",
@@ -263,7 +235,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:07:36.704733+00:00"
+    "scraped_at": "2026-07-13T04:10:49.791561+00:00"
   },
   {
     "id": "a7d20bac19fc0f2e37e12c2ee43f8617",
@@ -277,7 +249,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:05:58.904127+00:00"
+    "scraped_at": "2026-07-13T04:07:59.056551+00:00"
   },
   {
     "id": "4f528ef689ae64f998aefde5d107d37a",
@@ -291,7 +263,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:05:58.904330+00:00"
+    "scraped_at": "2026-07-13T04:07:59.056744+00:00"
   },
   {
     "id": "33c7279ed636bd37eadb90bd3bd06b2a",
@@ -305,7 +277,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:05:58.904530+00:00"
+    "scraped_at": "2026-07-13T04:07:59.056928+00:00"
   },
   {
     "id": "70f1fa1d17c75f55aafcc25f2af580d4",
@@ -319,7 +291,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:05:58.904713+00:00"
+    "scraped_at": "2026-07-13T04:07:59.057147+00:00"
   },
   {
     "id": "e31fbfb5f51e0f6635dbb8e755cfa158",
@@ -333,7 +305,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:05:58.904891+00:00"
+    "scraped_at": "2026-07-13T04:07:59.057337+00:00"
   },
   {
     "id": "8482ceba49439bb8289a5cb12dbd79c5",
@@ -347,7 +319,7 @@
     "source_name": "NeurIPS",
     "source_url": "https://neurips.cc/",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:05:58.905091+00:00"
+    "scraped_at": "2026-07-13T04:07:59.057520+00:00"
   },
   {
     "id": "aee7a8df8a20275d65bf69dd8b88395a",
@@ -361,7 +333,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:08:43.478557+00:00"
+    "scraped_at": "2026-07-13T04:12:05.089515+00:00"
   },
   {
     "id": "d74e3e3c2f004b22bd4b2393ccd4c19e",
@@ -375,7 +347,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:08:43.478690+00:00"
+    "scraped_at": "2026-07-13T04:12:05.089652+00:00"
   },
   {
     "id": "bb89c7ec6b9fb207f6fd560a05e23842",
@@ -389,7 +361,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-12T04:07:36.704855+00:00"
+    "scraped_at": "2026-07-13T04:10:49.791684+00:00"
   },
   {
     "id": "d4292263e0cae5da04a9cf9e45ec21c9",
@@ -29368,7 +29340,7 @@
     "category": "Conference",
     "source_name": "DataEvents.co ML",
     "source_url": "https://dataevents.co/ml",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:05:52.283979+00:00"
   },
   {
@@ -29382,7 +29354,7 @@
     "category": "Conference",
     "source_name": "10times Math",
     "source_url": "https://10times.com/mathematics/conferences",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:06.589180+00:00"
   },
   {
@@ -29396,7 +29368,7 @@
     "category": "Conference",
     "source_name": "10times Math",
     "source_url": "https://10times.com/mathematics/conferences",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:06.589467+00:00"
   },
   {
@@ -29410,7 +29382,7 @@
     "category": "Conference",
     "source_name": "10times Math",
     "source_url": "https://10times.com/mathematics/conferences",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:06.589605+00:00"
   },
   {
@@ -29424,7 +29396,7 @@
     "category": "Conference",
     "source_name": "10times Math",
     "source_url": "https://10times.com/mathematics/conferences",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:06.589999+00:00"
   },
   {
@@ -29438,7 +29410,7 @@
     "category": "Workshop / School",
     "source_name": "10times Math",
     "source_url": "https://10times.com/mathematics/conferences",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:06.595465+00:00"
   },
   {
@@ -29452,7 +29424,7 @@
     "category": "Workshop / School",
     "source_name": "ConferenceAlerts.co.in India",
     "source_url": "https://conferencealerts.co.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:44.221552+00:00"
   },
   {
@@ -29466,7 +29438,7 @@
     "category": "Workshop / School",
     "source_name": "ConferenceAlerts.co.in India",
     "source_url": "https://conferencealerts.co.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:44.221880+00:00"
   },
   {
@@ -29480,7 +29452,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.605299+00:00"
   },
   {
@@ -29494,7 +29466,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.610507+00:00"
   },
   {
@@ -29508,7 +29480,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.615711+00:00"
   },
   {
@@ -29522,7 +29494,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.621159+00:00"
   },
   {
@@ -29536,7 +29508,7 @@
     "category": "Exam / Notification",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.626389+00:00"
   },
   {
@@ -29550,7 +29522,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.631444+00:00"
   },
   {
@@ -29564,7 +29536,7 @@
     "category": "Workshop / School",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.636495+00:00"
   },
   {
@@ -29578,7 +29550,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.646576+00:00"
   },
   {
@@ -29592,7 +29564,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.651669+00:00"
   },
   {
@@ -29606,7 +29578,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.656755+00:00"
   },
   {
@@ -29620,7 +29592,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.682225+00:00"
   },
   {
@@ -29634,7 +29606,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.687302+00:00"
   },
   {
@@ -29648,7 +29620,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.692418+00:00"
   },
   {
@@ -29662,7 +29634,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.697456+00:00"
   },
   {
@@ -29676,7 +29648,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.702687+00:00"
   },
   {
@@ -29690,7 +29662,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.707910+00:00"
   },
   {
@@ -29704,7 +29676,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.718086+00:00"
   },
   {
@@ -29718,7 +29690,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.723297+00:00"
   },
   {
@@ -29732,7 +29704,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.728446+00:00"
   },
   {
@@ -29746,7 +29718,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:07:45.733674+00:00"
   },
   {
@@ -29760,7 +29732,7 @@
     "category": "Exam / Notification",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.312187+00:00"
   },
   {
@@ -29774,7 +29746,7 @@
     "category": "Exam / Notification",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.312308+00:00"
   },
   {
@@ -29788,7 +29760,7 @@
     "category": "Exam / Notification",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.312425+00:00"
   },
   {
@@ -29802,7 +29774,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.312583+00:00"
   },
   {
@@ -29816,7 +29788,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.312697+00:00"
   },
   {
@@ -29830,7 +29802,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.312811+00:00"
   },
   {
@@ -29844,7 +29816,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.312924+00:00"
   },
   {
@@ -29858,7 +29830,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.313034+00:00"
   },
   {
@@ -29872,7 +29844,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.313167+00:00"
   },
   {
@@ -29886,7 +29858,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.313418+00:00"
   },
   {
@@ -29900,7 +29872,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.313536+00:00"
   },
   {
@@ -29914,7 +29886,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.313652+00:00"
   },
   {
@@ -29928,7 +29900,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.314572+00:00"
   },
   {
@@ -29942,7 +29914,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.314999+00:00"
   },
   {
@@ -29956,7 +29928,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.315437+00:00"
   },
   {
@@ -29970,7 +29942,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.315860+00:00"
   },
   {
@@ -29984,7 +29956,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.316310+00:00"
   },
   {
@@ -29998,7 +29970,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.316734+00:00"
   },
   {
@@ -30012,7 +29984,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.317174+00:00"
   },
   {
@@ -30026,7 +29998,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.317664+00:00"
   },
   {
@@ -30040,7 +30012,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.318195+00:00"
   },
   {
@@ -30054,7 +30026,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.319562+00:00"
   },
   {
@@ -30068,7 +30040,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.319982+00:00"
   },
   {
@@ -30082,7 +30054,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.320418+00:00"
   },
   {
@@ -30096,7 +30068,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.320841+00:00"
   },
   {
@@ -30110,7 +30082,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.321279+00:00"
   },
   {
@@ -30124,7 +30096,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.321703+00:00"
   },
   {
@@ -30138,7 +30110,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:02.322138+00:00"
   },
   {
@@ -30152,7 +30124,7 @@
     "category": "Conference",
     "source_name": "IOQM Portal",
     "source_url": "https://ioqm.mtai.org.in",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:03.940678+00:00"
   },
   {
@@ -30166,7 +30138,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.986923+00:00"
   },
   {
@@ -30180,7 +30152,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.987003+00:00"
   },
   {
@@ -30194,7 +30166,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.987133+00:00"
   },
   {
@@ -30208,7 +30180,7 @@
     "category": "Exam / Notification",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.987485+00:00"
   },
   {
@@ -30222,7 +30194,7 @@
     "category": "Exam / Notification",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.987538+00:00"
   },
   {
@@ -30236,7 +30208,7 @@
     "category": "Exam / Notification",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.987590+00:00"
   },
   {
@@ -30250,7 +30222,7 @@
     "category": "Exam / Notification",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.987642+00:00"
   },
   {
@@ -30264,7 +30236,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.987672+00:00"
   },
   {
@@ -30278,7 +30250,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.987781+00:00"
   },
   {
@@ -30292,7 +30264,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.987820+00:00"
   },
   {
@@ -30306,7 +30278,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.987859+00:00"
   },
   {
@@ -30320,7 +30292,7 @@
     "category": "Workshop / School",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.987920+00:00"
   },
   {
@@ -30334,7 +30306,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.987949+00:00"
   },
   {
@@ -30348,7 +30320,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.987991+00:00"
   },
   {
@@ -30362,7 +30334,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.988031+00:00"
   },
   {
@@ -30376,7 +30348,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.988134+00:00"
   },
   {
@@ -30390,7 +30362,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.988215+00:00"
   },
   {
@@ -30404,7 +30376,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.988252+00:00"
   },
   {
@@ -30418,7 +30390,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.988369+00:00"
   },
   {
@@ -30432,7 +30404,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.988408+00:00"
   },
   {
@@ -30446,7 +30418,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.988573+00:00"
   },
   {
@@ -30460,7 +30432,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:19.988610+00:00"
   },
   {
@@ -30474,7 +30446,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.567393+00:00"
   },
   {
@@ -30488,7 +30460,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.567564+00:00"
   },
   {
@@ -30502,7 +30474,7 @@
     "category": "Exam / Notification",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.567788+00:00"
   },
   {
@@ -30516,7 +30488,7 @@
     "category": "Exam / Notification",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.567900+00:00"
   },
   {
@@ -30530,7 +30502,7 @@
     "category": "Workshop / School",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.568043+00:00"
   },
   {
@@ -30544,7 +30516,7 @@
     "category": "Workshop / School",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.568204+00:00"
   },
   {
@@ -30558,7 +30530,7 @@
     "category": "Exam / Notification",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.568349+00:00"
   },
   {
@@ -30572,7 +30544,7 @@
     "category": "Workshop / School",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.568622+00:00"
   },
   {
@@ -30586,7 +30558,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.568855+00:00"
   },
   {
@@ -30600,7 +30572,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.569065+00:00"
   },
   {
@@ -30614,7 +30586,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.569434+00:00"
   },
   {
@@ -30628,7 +30600,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.569566+00:00"
   },
   {
@@ -30642,7 +30614,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.569689+00:00"
   },
   {
@@ -30656,7 +30628,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.569974+00:00"
   },
   {
@@ -30670,7 +30642,7 @@
     "category": "Workshop / School",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.570333+00:00"
   },
   {
@@ -30684,7 +30656,7 @@
     "category": "Workshop / School",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.570442+00:00"
   },
   {
@@ -30698,7 +30670,7 @@
     "category": "Workshop / School",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.570811+00:00"
   },
   {
@@ -30712,7 +30684,595 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-12T04:08:49.572490+00:00"
+  },
+  {
+    "id": "6ea3a1046aa7b26a1fe1f50a25dfc8c5",
+    "title": "[email protected]",
+    "description": "contact us at [email protected]",
+    "url": "https://dataevents.co/cdn-cgi/l/email-protection#f4979b9a80959780b4909580959182919a8087da979b",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "DataEvents.co ML",
+    "source_url": "https://dataevents.co/ml",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:07:52.460269+00:00"
+  },
+  {
+    "id": "ccd7c946b01f8d1eaec6a3c317e12032",
+    "title": "Call for Social Evets",
+    "description": "Call for Social Evets",
+    "url": "https://neurips.cc/Conferences/2026/CallforSocials",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "NeurIPS",
+    "source_url": "https://neurips.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:07:59.055983+00:00"
+  },
+  {
+    "id": "3e7c44ba52813c544750b5aa88ca8bd6",
+    "title": "Banking & Finance",
+    "description": "Banking & Finance",
+    "url": "https://10times.com/area-v-krklareli-tr/finance/conferences",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "10times Math",
+    "source_url": "https://10times.com/mathematics/conferences",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:10:00.120487+00:00"
+  },
+  {
+    "id": "c7d6f87bf8972d38504ea716d44f3d57",
+    "title": "10th Edition of International Conference on Materials Science and Engineering 2027",
+    "description": "10th Edition of International Conference on Materials Science and Engineering 2027",
+    "url": "https://cfp.wiki/conferences/materials-2027",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "CFP Wiki",
+    "source_url": "https://cfp.wiki/",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:10:04.021529+00:00"
+  },
+  {
+    "id": "d7b6cfe4c757ebb8a84acb876bb29bff",
+    "title": "The 2nd International Symposium on Intelligent Technologies for Smart Agriculture 2026",
+    "description": "The 2nd International Symposium on Intelligent Technologies for Smart Agriculture 2026",
+    "url": "https://cfp.wiki/conferences/itsa-2026",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "CFP Wiki",
+    "source_url": "https://cfp.wiki/",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:10:04.021573+00:00"
+  },
+  {
+    "id": "3d66e8cf6c5b25245c27c715eb484f74",
+    "title": "The 2nd International Conference on Optical and Terahertz Communications and Future Networks 2027",
+    "description": "The 2nd International Conference on Optical and Terahertz Communications and Future Networks 2027",
+    "url": "https://cfp.wiki/conferences/otcn-2026-2027",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "CFP Wiki",
+    "source_url": "https://cfp.wiki/",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:10:04.021620+00:00"
+  },
+  {
+    "id": "7ab5448afab6538e25a5063cea537d74",
+    "title": "International Conference on Mathematics (ICM)",
+    "description": "Jul 19 International Conference on Mathematics (ICM) - Helsinki, Finland",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-icm-2026-july-helsinki-fi",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:10:04.525391+00:00"
+  },
+  {
+    "id": "f720b09e44477eb49a5c64065aa2cd67",
+    "title": "International Conference on Advances in Mathematical Education (ICAME)",
+    "description": "Jul 24 International Conference on Advances in Mathematical Education (ICAME) - Rhodes, Greece",
+    "url": "https://conferenceindex.org/event/international-conference-on-advances-in-mathematical-education-icame-2026-july-rhodes-gr",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:10:05.489800+00:00"
+  },
+  {
+    "id": "803601f1ebd45b5afcf086426ae32ddf",
+    "title": "International Conference on Cryptography, Coding and Information Security (ICCCIS)",
+    "description": "Jul 26 International Conference on Cryptography, Coding and Information Security (ICCCIS) - London, United Kingdom",
+    "url": "https://conferenceindex.org/event/international-conference-on-cryptography-coding-and-information-security-icccis-2026-july-london-gb",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:10:05.489846+00:00"
+  },
+  {
+    "id": "be075846477722210386ea2258b4a277",
+    "title": "International Conference on Statistics, Econometrics and Mathematics (ICSEM)",
+    "description": "Jul 26 International Conference on Statistics, Econometrics and Mathematics (ICSEM) - London, United Kingdom",
+    "url": "https://conferenceindex.org/event/international-conference-on-statistics-econometrics-and-mathematics-icsem-2026-july-london-gb",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:10:05.489891+00:00"
+  },
+  {
+    "id": "961538919ab6d6496e84dd06303729e7",
+    "title": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101275077",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.382854+00:00"
+  },
+  {
+    "id": "eb8818bcc4fd83aae4333cd504c0fb02",
+    "title": "International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101271044",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.388384+00:00"
+  },
+  {
+    "id": "2bb3dbff98069be5264b84c0aad82c6d",
+    "title": "International Conference on Artificial Intelligence and Data-Driven Modeling Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101273781",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.393766+00:00"
+  },
+  {
+    "id": "21f236a4dfb923ac944ed91128d218fe",
+    "title": "International Conference on Differential Geometry and Topological Applications Chandigarh, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101270757",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.399214+00:00"
+  },
+  {
+    "id": "478808cf1aedf7911324922351e437fe",
+    "title": "International Conference on Predictive Analytics and Decision Support Systems Lucknow, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101269317",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.409742+00:00"
+  },
+  {
+    "id": "ed782134fc569bdde683169dbbd94c9b",
+    "title": "International Conference on Statistical Learning and Computational Intelligence Bhubaneswar, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101273349",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.415007+00:00"
+  },
+  {
+    "id": "7cc8631efa190fa273288c38c35c511f",
+    "title": "International Conference on Stochastic Processes and Probabilistic Modeling Ahmedabad, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101272917",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.420325+00:00"
+  },
+  {
+    "id": "807c76fa83fff94f877eb77076233aea",
+    "title": "International Conference on Nonlinear Dynamics and Chaos Theory Guwahati, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101274213",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.425541+00:00"
+  },
+  {
+    "id": "2e1fc90c084e1e4ef538cb27fedbfa2b",
+    "title": "International Conference on Predictive Analytics and Machine Learning Models Bangalore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101270325",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.430784+00:00"
+  },
+  {
+    "id": "b635bd99fa34766ed5be93c001d04e5a",
+    "title": "International Conference on Error-Controlled Numerical Modeling Delhi, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101268452",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.436051+00:00"
+  },
+  {
+    "id": "1d1b07da105ee2488bd5819c9f6b584f",
+    "title": "International Conference on Visualization, Data Representation, and Analytics Visakhapatnam, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101275509",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.441298+00:00"
+  },
+  {
+    "id": "a31e44fc42a8f1e8c585465ee33c78f5",
+    "title": "International Conference on Applied Linear and Nonlinear Analysis in Engineering Hyderabad, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101268884",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.446513+00:00"
+  },
+  {
+    "id": "b264757c15c2f83629fb49a278f65a4c",
+    "title": "International Conference on Applied Probability in Industrial Systems Ahmedabad, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101267445",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.451737+00:00"
+  },
+  {
+    "id": "4aac9c02dcf8351e391cfd1f58d13c9c",
+    "title": "International Conference on Numerical Optimization and Computational Techniques Kolkata, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101274645",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.456957+00:00"
+  },
+  {
+    "id": "5e024654c88fbf1b1c4097f4dd3274d2",
+    "title": "International Conference on Applied Statistics, Probability, and Data Analytics Chennai, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101268165",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.462192+00:00"
+  },
+  {
+    "id": "6208da7a082f986e2b07bdfe8befc93f",
+    "title": "International Conference on Advanced Probability Models for Risk Assessment Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101269604",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.467406+00:00"
+  },
+  {
+    "id": "cc981fba4ecdb104d0f1ce1ea1cfe8b6",
+    "title": "National Conference on Applied Physics and Mathematics Bhubaneswar, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101273350",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.477878+00:00"
+  },
+  {
+    "id": "94327a24364d063fecdb84f7bd21aa4d",
+    "title": "International Conference on Statistical Computing for Data Science Applications Jaipur, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101271764",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.483101+00:00"
+  },
+  {
+    "id": "0c94c3a38c9aac4e4a64848e9ebd8c3f",
+    "title": "International Conference on Probabilistic and Monte Carlo Numerical Methods Trivandrum, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101272628",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.498906+00:00"
+  },
+  {
+    "id": "63ab4c64e1e417e614c867ca72619999",
+    "title": "International Conference on Mathematical Modeling of Complex Networks Guwahati, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101271477",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Exam / Notification",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.504153+00:00"
+  },
+  {
+    "id": "5f7f40eb5fdc7fb8cd37826447028259",
+    "title": "International Conference on Computational Mechanics and Numerical Analysis Bhopal, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101267732",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.509366+00:00"
+  },
+  {
+    "id": "ce497be618daaceac908d33baf6d866e",
+    "title": "International Conference on Randomized Algorithms and Stochastic Modeling Kolkata, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101271909",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.519845+00:00"
+  },
+  {
+    "id": "79d9ab711c597fd0b1df5653b0f0fdf5",
+    "title": "International Conference on Digital Currency and Cryptography Security Mumbai, India 19 Jul 19 Jul https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Epidemiology and Public Health Pondicherry, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Statistical Quality Control and Reliability Engineering Coimbatore, India 18 Jul 18 Jul https://conferencenext.com/event/{{$event->event_id}} International Conference on Artificial Intelligence and Da…",
+    "url": "https://conferencenext.com/event/101272204",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:02.530323+00:00"
+  },
+  {
+    "id": "da4fab36d827101a914d03ca060165ae",
+    "title": "ConferenceMathematics & StatisticsInternational Conference on Mathematical Modeling of Energy SystemsSat, Aug 1, 2026Goa, IndiaView Details",
+    "description": "ConferenceMathematics & StatisticsInternational Conference on Machine Learning for Image Processing and Computer VisionSat, Aug 1, 2026Pune, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Data Science for Smart Cities and IoTSat, Aug 1, 2026Mumbai, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Algebraic Structures and ApplicationsSa…",
+    "url": "https://internationalconferencealerts.com/event-icmmesys-goa-in-202608-101274101",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "IntlConferenceAlerts India",
+    "source_url": "https://internationalconferencealerts.com/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:20.084899+00:00"
+  },
+  {
+    "id": "a5c2fb55b2fda7964de75c341d0d0f9e",
+    "title": "ConferenceMathematics & StatisticsInternational Conference on Probabilistic and Monte Carlo Numerical MethodsSat, Aug 1, 2026Chennai, IndiaView Details",
+    "description": "ConferenceMathematics & StatisticsInternational Conference on Machine Learning for Image Processing and Computer VisionSat, Aug 1, 2026Pune, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Data Science for Smart Cities and IoTSat, Aug 1, 2026Mumbai, IndiaView DetailsConferenceMathematics & StatisticsInternational Conference on Algebraic Structures and ApplicationsSa…",
+    "url": "https://internationalconferencealerts.com/event-icpmcnm-chennai-in-202608-101273669",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "IntlConferenceAlerts India",
+    "source_url": "https://internationalconferencealerts.com/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:11:20.085349+00:00"
+  },
+  {
+    "id": "e3c5cf188536c23824ce166b9c75507d",
+    "title": "A random variable visualizer",
+    "description": "A random variable visualizer",
+    "url": "https://terrytao.wordpress.com/2026/07/12/a-random-variable-visualizer/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:12:31.256011+00:00"
+  },
+  {
+    "id": "307f2e322c422b2a5ce34a816c671cda",
+    "title": "random variables",
+    "description": "12 July, 2026 in advertising, math.PR | Tags: applets, conditioning, random variables | by Terence Tao | 2 comments",
+    "url": "https://terrytao.wordpress.com/tag/random-variables/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:12:31.256201+00:00"
+  },
+  {
+    "id": "7d9f0780020dcbfbc0971a6bc9879789",
+    "title": "this 2016 blog post",
+    "description": "With the advent of modern coding agents, many visualization projects that I had proposed in the past, but dropped due to the time and complexity of the coding portion of the task, have now become relatively feasible, in that a reasonable quality prototype (suitable for non-mission-critical tasks such as providing secondary visual aids, where it is not absolutely necessary that the product is 100%…",
+    "url": "https://terrytao.wordpress.com/2016/05/13/visualising-random-variables/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:12:31.256508+00:00"
+  },
+  {
+    "id": "ed25cc37b88d95a0e5f9b6fce993d124",
+    "title": "back and forth with the coding agent",
+    "description": "With the advent of modern coding agents, many visualization projects that I had proposed in the past, but dropped due to the time and complexity of the coding portion of the task, have now become relatively feasible, in that a reasonable quality prototype (suitable for non-mission-critical tasks such as providing secondary visual aids, where it is not absolutely necessary that the product is 100%…",
+    "url": "https://teorth.github.io/tao-web/apps/random-variables-making-of.html",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:12:31.256705+00:00"
+  },
+  {
+    "id": "18857decdd856e45b7db76cd6def62f9",
+    "title": "Berkson’s paradox",
+    "description": "With the advent of modern coding agents, many visualization projects that I had proposed in the past, but dropped due to the time and complexity of the coding portion of the task, have now become relatively feasible, in that a reasonable quality prototype (suitable for non-mission-critical tasks such as providing secondary visual aids, where it is not absolutely necessary that the product is 100%…",
+    "url": "https://en.wikipedia.org/wiki/Berkson%27s_paradox",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:12:31.257107+00:00"
+  },
+  {
+    "id": "a342d3ceb17a3452e352c1328eb47f1f",
+    "title": "can be found here",
+    "description": "The process was painless enough that I decided to also try coding some new apps, in addition to porting the old ones. Back in 1999 I had an ambitious idea for a visualization tool for special relativity; this was before the release of the software tool Inkscape, but the idea I had in mind was basically “Inkscape, but in Minkowski space”. I had even started writing Java code for this app, but the …",
+    "url": "https://teorth.github.io/tao-web/apps/spacetime-diagram-making-of.html",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:12:31.258980+00:00"
+  },
+  {
+    "id": "68fc0eb431cb33d93176d9437ce71978",
+    "title": "Gilbreath’s conjecture: a Cramér random model and a deterministic analysis",
+    "description": "Gilbreath’s conjecture: a Cramér random model and a deterministic analysis",
+    "url": "https://terrytao.wordpress.com/2026/07/11/gilbreaths-conjecture-a-cramer-random-model-and-a-deterministic-analysis/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-07-13T04:12:31.259318+00:00"
   }
 ]
