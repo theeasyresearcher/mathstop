@@ -11,7 +11,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:44:36.295606+00:00"
+    "scraped_at": "2026-07-29T03:48:08.745200+00:00"
   },
   {
     "id": "ceda61484e2b3e073cb8a9b15c2e55f8",
@@ -25,7 +25,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:44:36.294445+00:00"
+    "scraped_at": "2026-07-29T03:48:08.744062+00:00"
   },
   {
     "id": "52904ed4a5ceb9e8190cf67b4a2a5adf",
@@ -39,7 +39,7 @@
     "source_name": "Ramanujan Math Society",
     "source_url": "https://www.ramanujanmathsociety.org/",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:46:09.795051+00:00"
+    "scraped_at": "2026-07-29T03:50:00.881919+00:00"
   },
   {
     "id": "e84b6044d31bd9547e11888b7fc4d589",
@@ -53,7 +53,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:44:36.293898+00:00"
+    "scraped_at": "2026-07-29T03:48:08.743489+00:00"
   },
   {
     "id": "1523253950c8e057da8dc68a613e7909",
@@ -67,7 +67,7 @@
     "source_name": "DataCamp Blog",
     "source_url": "https://www.datacamp.com/blog/top-data-science-conferences-for-2022",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:48:46.005964+00:00"
+    "scraped_at": "2026-07-29T03:51:23.735871+00:00"
   },
   {
     "id": "5d2dd1a5e5b8311b99703d7317ff85d8",
@@ -81,49 +81,7 @@
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:48:04.285107+00:00"
-  },
-  {
-    "id": "e73a1957db15f62b18a6431800eed87a",
-    "title": "**📢 Notice:** Application update/correction window is open on **20 & 21 March 2026** only. Candidates must update their details within this period. No changes will be allowed after the deadline.",
-    "description": "**📢 Notice:** Application update/correction window is open on **20 & 21 March 2026** only. Candidates must update their details within this period. No changes will be allowed after the deadline. |",
-    "url": "https://www.imsaindia.org/Upload/20260319_130048.pdf",
-    "deadline": "2026-03-21",
-    "event_date": "2026-03-21",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "IMSA India",
-    "source_url": "https://www.imsaindia.org/",
-    "is_new": true,
-    "scraped_at": "2026-07-28T03:45:29.177792+00:00"
-  },
-  {
-    "id": "ba2a038dd8cf3b7cfc5b797ea8c1dbfd",
-    "title": "Announcing the ICLR 2026 Outstanding Papers Apr 23, 2026",
-    "description": "Announcing the ICLR 2026 Outstanding Papers Apr 23, 2026 Announcing the Test of Time Awards from ICLR 2016 Apr 23, 2026 Announcing the ICLR 2026 keynotes Apr 17, 2026 A Retrospective on the ICLR 2026 Review Process Mar 31, 2026 Workshops at ICLR 2026 Jan 13, 2026 ICLR’s Commitment to OpenReview Dec 17, 2025",
-    "url": "https://blog.iclr.cc/2026/04/23/announcing-the-iclr-2026-outstanding-papers/",
-    "deadline": "2026-04-23",
-    "event_date": "2026-04-23",
-    "location": "World",
-    "category": "Fellowship / Award",
-    "source_name": "ICLR",
-    "source_url": "https://iclr.cc/",
-    "is_new": true,
-    "scraped_at": "2026-07-28T03:44:39.423453+00:00"
-  },
-  {
-    "id": "faa54414acb211e7d078e58d46d61af4",
-    "title": "Announcing the Test of Time Awards from ICLR 2016 Apr 23, 2026",
-    "description": "Announcing the ICLR 2026 Outstanding Papers Apr 23, 2026 Announcing the Test of Time Awards from ICLR 2016 Apr 23, 2026 Announcing the ICLR 2026 keynotes Apr 17, 2026 A Retrospective on the ICLR 2026 Review Process Mar 31, 2026 Workshops at ICLR 2026 Jan 13, 2026 ICLR’s Commitment to OpenReview Dec 17, 2025",
-    "url": "https://blog.iclr.cc/2026/04/22/announcing-the-test-of-time-awards-from-iclr-2016/",
-    "deadline": "2026-04-23",
-    "event_date": "2026-04-23",
-    "location": "World",
-    "category": "Fellowship / Award",
-    "source_name": "ICLR",
-    "source_url": "https://iclr.cc/",
-    "is_new": true,
-    "scraped_at": "2026-07-28T03:44:39.423636+00:00"
+    "scraped_at": "2026-07-29T03:50:59.504762+00:00"
   },
   {
     "id": "540990b5464d8763cb8354334ce03ea6",
@@ -137,7 +95,7 @@
     "source_name": "IMU",
     "source_url": "https://www.mathunion.org",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:49:11.155926+00:00"
+    "scraped_at": "2026-07-29T03:51:50.262563+00:00"
   },
   {
     "id": "ee5496d82d93615c6de347c236d0ab3a",
@@ -151,7 +109,7 @@
     "source_name": "ISI Bangalore",
     "source_url": "https://www.isibang.ac.in",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:48:12.514133+00:00"
+    "scraped_at": "2026-07-29T03:51:08.364082+00:00"
   },
   {
     "id": "967b00b2c4b3c2d7c92e1a7eb4a918bc",
@@ -165,7 +123,7 @@
     "source_name": "IASC-ISI",
     "source_url": "https://iasc-isi.org/",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:47:23.583731+00:00"
+    "scraped_at": "2026-07-29T03:50:38.551954+00:00"
   },
   {
     "id": "205867537c38035581b2a5ee5f6a7ec7",
@@ -179,7 +137,7 @@
     "source_name": "IASC-ISI",
     "source_url": "https://iasc-isi.org/",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:47:23.583956+00:00"
+    "scraped_at": "2026-07-29T03:50:38.552174+00:00"
   },
   {
     "id": "d39730eb9967bf84138a12f7ccfce468",
@@ -193,7 +151,7 @@
     "source_name": "ISI Bangalore",
     "source_url": "https://www.isibang.ac.in",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:48:12.514245+00:00"
+    "scraped_at": "2026-07-29T03:51:08.364186+00:00"
   },
   {
     "id": "ec7a577a701ed1480a8068a2fda2c5d1",
@@ -207,7 +165,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:47:23.912454+00:00"
+    "scraped_at": "2026-07-29T03:50:39.038510+00:00"
   },
   {
     "id": "264d844b2cc3f78a75c4e84d583eaeb4",
@@ -221,7 +179,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:47:23.912580+00:00"
+    "scraped_at": "2026-07-29T03:50:39.038639+00:00"
   },
   {
     "id": "6e1690b137b62777a4f48eb1d1710792",
@@ -235,7 +193,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:47:23.912822+00:00"
+    "scraped_at": "2026-07-29T03:50:39.038870+00:00"
   },
   {
     "id": "54a7c67891a20634c875387b4adf9fa8",
@@ -249,7 +207,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:47:23.912959+00:00"
+    "scraped_at": "2026-07-29T03:50:39.038980+00:00"
   },
   {
     "id": "38b62e91fb5a9464677f7ab2292feffc",
@@ -263,7 +221,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:47:23.913080+00:00"
+    "scraped_at": "2026-07-29T03:50:39.039123+00:00"
   },
   {
     "id": "ba4953d7b947ca27179f7ee761361c70",
@@ -277,91 +235,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:47:23.913199+00:00"
-  },
-  {
-    "id": "a7d20bac19fc0f2e37e12c2ee43f8617",
-    "title": "NeurIPS Newsletter – June 2026 Jul 04, 2026",
-    "description": "NeurIPS Newsletter – June 2026 Jul 04, 2026 AI-Generated Papers in the NeurIPS 2026 Position Paper Track Jun 02, 2026 NeurIPS Newsletter – May 2026 May 29, 2026 NeurIPS 2026 Call for Ethics Reviewers May 12, 2026 MLRC 2026: Reproducibility as an Official Track at NeurIPS May 05, 2026 Responsible AI metadata requirements for the Evaluations and Datasets Track NeurIPS 2026 May 04, 2026",
-    "url": "https://blog.neurips.cc/2026/07/03/neurips-newsletter-june-2026/",
-    "deadline": "2026-07-04",
-    "event_date": "2026-07-04",
-    "location": "World",
-    "category": "Exam / Notification",
-    "source_name": "NeurIPS",
-    "source_url": "https://neurips.cc/",
-    "is_new": true,
-    "scraped_at": "2026-07-28T03:44:46.056295+00:00"
-  },
-  {
-    "id": "4f528ef689ae64f998aefde5d107d37a",
-    "title": "AI-Generated Papers in the NeurIPS 2026 Position Paper Track Jun 02, 2026",
-    "description": "NeurIPS Newsletter – June 2026 Jul 04, 2026 AI-Generated Papers in the NeurIPS 2026 Position Paper Track Jun 02, 2026 NeurIPS Newsletter – May 2026 May 29, 2026 NeurIPS 2026 Call for Ethics Reviewers May 12, 2026 MLRC 2026: Reproducibility as an Official Track at NeurIPS May 05, 2026 Responsible AI metadata requirements for the Evaluations and Datasets Track NeurIPS 2026 May 04, 2026",
-    "url": "https://blog.neurips.cc/2026/06/02/ai-generated-papers-in-the-neurips-2026-position-paper-track/",
-    "deadline": "2026-07-04",
-    "event_date": "2026-07-04",
-    "location": "World",
-    "category": "Exam / Notification",
-    "source_name": "NeurIPS",
-    "source_url": "https://neurips.cc/",
-    "is_new": true,
-    "scraped_at": "2026-07-28T03:44:46.056495+00:00"
-  },
-  {
-    "id": "33c7279ed636bd37eadb90bd3bd06b2a",
-    "title": "NeurIPS Newsletter – May 2026 May 29, 2026",
-    "description": "NeurIPS Newsletter – June 2026 Jul 04, 2026 AI-Generated Papers in the NeurIPS 2026 Position Paper Track Jun 02, 2026 NeurIPS Newsletter – May 2026 May 29, 2026 NeurIPS 2026 Call for Ethics Reviewers May 12, 2026 MLRC 2026: Reproducibility as an Official Track at NeurIPS May 05, 2026 Responsible AI metadata requirements for the Evaluations and Datasets Track NeurIPS 2026 May 04, 2026",
-    "url": "https://blog.neurips.cc/2026/05/29/neurips-newsletter-may-2026/",
-    "deadline": "2026-07-04",
-    "event_date": "2026-07-04",
-    "location": "World",
-    "category": "Exam / Notification",
-    "source_name": "NeurIPS",
-    "source_url": "https://neurips.cc/",
-    "is_new": true,
-    "scraped_at": "2026-07-28T03:44:46.056680+00:00"
-  },
-  {
-    "id": "70f1fa1d17c75f55aafcc25f2af580d4",
-    "title": "NeurIPS 2026 Call for Ethics Reviewers May 12, 2026",
-    "description": "NeurIPS Newsletter – June 2026 Jul 04, 2026 AI-Generated Papers in the NeurIPS 2026 Position Paper Track Jun 02, 2026 NeurIPS Newsletter – May 2026 May 29, 2026 NeurIPS 2026 Call for Ethics Reviewers May 12, 2026 MLRC 2026: Reproducibility as an Official Track at NeurIPS May 05, 2026 Responsible AI metadata requirements for the Evaluations and Datasets Track NeurIPS 2026 May 04, 2026",
-    "url": "https://blog.neurips.cc/2026/05/12/neurips-2026-call-for-ethics-reviewers/",
-    "deadline": "2026-07-04",
-    "event_date": "2026-07-04",
-    "location": "World",
-    "category": "Exam / Notification",
-    "source_name": "NeurIPS",
-    "source_url": "https://neurips.cc/",
-    "is_new": true,
-    "scraped_at": "2026-07-28T03:44:46.056888+00:00"
-  },
-  {
-    "id": "e31fbfb5f51e0f6635dbb8e755cfa158",
-    "title": "MLRC 2026: Reproducibility as an Official Track at NeurIPS May 05, 2026",
-    "description": "NeurIPS Newsletter – June 2026 Jul 04, 2026 AI-Generated Papers in the NeurIPS 2026 Position Paper Track Jun 02, 2026 NeurIPS Newsletter – May 2026 May 29, 2026 NeurIPS 2026 Call for Ethics Reviewers May 12, 2026 MLRC 2026: Reproducibility as an Official Track at NeurIPS May 05, 2026 Responsible AI metadata requirements for the Evaluations and Datasets Track NeurIPS 2026 May 04, 2026",
-    "url": "https://blog.neurips.cc/2026/05/04/mlrc-2026-reproducibility-as-an-official-track-at-neurips/",
-    "deadline": "2026-07-04",
-    "event_date": "2026-07-04",
-    "location": "World",
-    "category": "Exam / Notification",
-    "source_name": "NeurIPS",
-    "source_url": "https://neurips.cc/",
-    "is_new": true,
-    "scraped_at": "2026-07-28T03:44:46.057080+00:00"
-  },
-  {
-    "id": "8482ceba49439bb8289a5cb12dbd79c5",
-    "title": "Responsible AI metadata requirements for the Evaluations and Datasets Track NeurIPS 2026 May 04, 2026",
-    "description": "NeurIPS Newsletter – June 2026 Jul 04, 2026 AI-Generated Papers in the NeurIPS 2026 Position Paper Track Jun 02, 2026 NeurIPS Newsletter – May 2026 May 29, 2026 NeurIPS 2026 Call for Ethics Reviewers May 12, 2026 MLRC 2026: Reproducibility as an Official Track at NeurIPS May 05, 2026 Responsible AI metadata requirements for the Evaluations and Datasets Track NeurIPS 2026 May 04, 2026",
-    "url": "https://blog.neurips.cc/2026/05/04/responsible-ai-metadata-requirements-for-the-evaluations-and-datasets-track-neurips-2026/",
-    "deadline": "2026-07-04",
-    "event_date": "2026-07-04",
-    "location": "World",
-    "category": "Exam / Notification",
-    "source_name": "NeurIPS",
-    "source_url": "https://neurips.cc/",
-    "is_new": true,
-    "scraped_at": "2026-07-28T03:44:46.057267+00:00"
+    "scraped_at": "2026-07-29T03:50:39.039243+00:00"
   },
   {
     "id": "bb89c7ec6b9fb207f6fd560a05e23842",
@@ -375,7 +249,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:47:23.913319+00:00"
+    "scraped_at": "2026-07-29T03:50:39.039364+00:00"
   },
   {
     "id": "f8a6f8e86285982dfccd754f5b8dc0f3",
@@ -389,7 +263,7 @@
     "source_name": "KDnuggets Meetings",
     "source_url": "https://www.kdnuggets.com/meetings/index.html",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:49:11.444688+00:00"
+    "scraped_at": "2026-07-29T03:51:50.694055+00:00"
   },
   {
     "id": "3e63c233f5b96f4a23090ffe8c7b85cf",
@@ -403,7 +277,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:49:10.809078+00:00"
+    "scraped_at": "2026-07-29T03:51:50.062656+00:00"
   },
   {
     "id": "ec59ac4b766d6787f3f3c585a08697a3",
@@ -417,7 +291,91 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-07-28T03:49:10.809214+00:00"
+    "scraped_at": "2026-07-29T03:51:50.062793+00:00"
+  },
+  {
+    "id": "987bb0fb1d783bd430efd5dd44b13709",
+    "title": "NeurIPS 2026 Competitions Announced Jul 28, 2026",
+    "description": "NeurIPS 2026 Competitions Announced Jul 28, 2026 NeurIPS Newsletter – June 2026 Jul 04, 2026 AI-Generated Papers in the NeurIPS 2026 Position Paper Track Jun 02, 2026 NeurIPS Newsletter – May 2026 May 29, 2026 NeurIPS 2026 Call for Ethics Reviewers May 12, 2026 MLRC 2026: Reproducibility as an Official Track at NeurIPS May 05, 2026",
+    "url": "https://blog.neurips.cc/2026/07/28/neurips-2026-competitions-announced/",
+    "deadline": "2026-07-28",
+    "event_date": "2026-07-28",
+    "location": "World",
+    "category": "Fellowship / Award",
+    "source_name": "NeurIPS",
+    "source_url": "https://neurips.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:19.338421+00:00"
+  },
+  {
+    "id": "a7d20bac19fc0f2e37e12c2ee43f8617",
+    "title": "NeurIPS Newsletter – June 2026 Jul 04, 2026",
+    "description": "NeurIPS 2026 Competitions Announced Jul 28, 2026 NeurIPS Newsletter – June 2026 Jul 04, 2026 AI-Generated Papers in the NeurIPS 2026 Position Paper Track Jun 02, 2026 NeurIPS Newsletter – May 2026 May 29, 2026 NeurIPS 2026 Call for Ethics Reviewers May 12, 2026 MLRC 2026: Reproducibility as an Official Track at NeurIPS May 05, 2026",
+    "url": "https://blog.neurips.cc/2026/07/03/neurips-newsletter-june-2026/",
+    "deadline": "2026-07-28",
+    "event_date": "2026-07-28",
+    "location": "World",
+    "category": "Fellowship / Award",
+    "source_name": "NeurIPS",
+    "source_url": "https://neurips.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:19.338615+00:00"
+  },
+  {
+    "id": "4f528ef689ae64f998aefde5d107d37a",
+    "title": "AI-Generated Papers in the NeurIPS 2026 Position Paper Track Jun 02, 2026",
+    "description": "NeurIPS 2026 Competitions Announced Jul 28, 2026 NeurIPS Newsletter – June 2026 Jul 04, 2026 AI-Generated Papers in the NeurIPS 2026 Position Paper Track Jun 02, 2026 NeurIPS Newsletter – May 2026 May 29, 2026 NeurIPS 2026 Call for Ethics Reviewers May 12, 2026 MLRC 2026: Reproducibility as an Official Track at NeurIPS May 05, 2026",
+    "url": "https://blog.neurips.cc/2026/06/02/ai-generated-papers-in-the-neurips-2026-position-paper-track/",
+    "deadline": "2026-07-28",
+    "event_date": "2026-07-28",
+    "location": "World",
+    "category": "Fellowship / Award",
+    "source_name": "NeurIPS",
+    "source_url": "https://neurips.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:19.338808+00:00"
+  },
+  {
+    "id": "33c7279ed636bd37eadb90bd3bd06b2a",
+    "title": "NeurIPS Newsletter – May 2026 May 29, 2026",
+    "description": "NeurIPS 2026 Competitions Announced Jul 28, 2026 NeurIPS Newsletter – June 2026 Jul 04, 2026 AI-Generated Papers in the NeurIPS 2026 Position Paper Track Jun 02, 2026 NeurIPS Newsletter – May 2026 May 29, 2026 NeurIPS 2026 Call for Ethics Reviewers May 12, 2026 MLRC 2026: Reproducibility as an Official Track at NeurIPS May 05, 2026",
+    "url": "https://blog.neurips.cc/2026/05/29/neurips-newsletter-may-2026/",
+    "deadline": "2026-07-28",
+    "event_date": "2026-07-28",
+    "location": "World",
+    "category": "Fellowship / Award",
+    "source_name": "NeurIPS",
+    "source_url": "https://neurips.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:19.338991+00:00"
+  },
+  {
+    "id": "70f1fa1d17c75f55aafcc25f2af580d4",
+    "title": "NeurIPS 2026 Call for Ethics Reviewers May 12, 2026",
+    "description": "NeurIPS 2026 Competitions Announced Jul 28, 2026 NeurIPS Newsletter – June 2026 Jul 04, 2026 AI-Generated Papers in the NeurIPS 2026 Position Paper Track Jun 02, 2026 NeurIPS Newsletter – May 2026 May 29, 2026 NeurIPS 2026 Call for Ethics Reviewers May 12, 2026 MLRC 2026: Reproducibility as an Official Track at NeurIPS May 05, 2026",
+    "url": "https://blog.neurips.cc/2026/05/12/neurips-2026-call-for-ethics-reviewers/",
+    "deadline": "2026-07-28",
+    "event_date": "2026-07-28",
+    "location": "World",
+    "category": "Fellowship / Award",
+    "source_name": "NeurIPS",
+    "source_url": "https://neurips.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:19.339195+00:00"
+  },
+  {
+    "id": "e31fbfb5f51e0f6635dbb8e755cfa158",
+    "title": "MLRC 2026: Reproducibility as an Official Track at NeurIPS May 05, 2026",
+    "description": "NeurIPS 2026 Competitions Announced Jul 28, 2026 NeurIPS Newsletter – June 2026 Jul 04, 2026 AI-Generated Papers in the NeurIPS 2026 Position Paper Track Jun 02, 2026 NeurIPS Newsletter – May 2026 May 29, 2026 NeurIPS 2026 Call for Ethics Reviewers May 12, 2026 MLRC 2026: Reproducibility as an Official Track at NeurIPS May 05, 2026",
+    "url": "https://blog.neurips.cc/2026/05/04/mlrc-2026-reproducibility-as-an-official-track-at-neurips/",
+    "deadline": "2026-07-28",
+    "event_date": "2026-07-28",
+    "location": "World",
+    "category": "Fellowship / Award",
+    "source_name": "NeurIPS",
+    "source_url": "https://neurips.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:19.339376+00:00"
   },
   {
     "id": "296cd4ad57d3d59a9f338540f88828bc",
@@ -38776,7 +38734,7 @@
     "category": "Conference",
     "source_name": "DataEvents.co ML",
     "source_url": "https://dataevents.co/ml",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-28T03:44:39.042220+00:00"
   },
   {
@@ -38790,7 +38748,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-28T03:44:48.875987+00:00"
   },
   {
@@ -38804,7 +38762,7 @@
     "category": "Workshop / School",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-28T03:47:52.959978+00:00"
   },
   {
@@ -38818,7 +38776,7 @@
     "category": "Workshop / School",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-28T03:47:53.034439+00:00"
   },
   {
@@ -38832,7 +38790,7 @@
     "category": "Workshop / School",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-28T03:47:53.050213+00:00"
   },
   {
@@ -38846,7 +38804,7 @@
     "category": "Exam / Notification",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-28T03:47:53.060867+00:00"
   },
   {
@@ -38860,7 +38818,7 @@
     "category": "Fellowship / Award",
     "source_name": "ICM 2026",
     "source_url": "https://www.mathunion.org/icm/icm-2026",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-28T03:49:09.552325+00:00"
   },
   {
@@ -38874,7 +38832,7 @@
     "category": "Conference",
     "source_name": "IMU",
     "source_url": "https://www.mathunion.org",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-28T03:49:11.157409+00:00"
   },
   {
@@ -38888,7 +38846,805 @@
     "category": "Conference",
     "source_name": "IMU",
     "source_url": "https://www.mathunion.org",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-07-28T03:49:11.157483+00:00"
+  },
+  {
+    "id": "9276b574dbe35c730a85ae52cd1a9758",
+    "title": "[email protected]",
+    "description": "contact us at [email protected]",
+    "url": "https://dataevents.co/cdn-cgi/l/email-protection#01626e6f7560627541656075606477646f75722f626e",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "DataEvents.co ML",
+    "source_url": "https://dataevents.co/ml",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:11.737292+00:00"
+  },
+  {
+    "id": "e68e6a9e1e640c5fc45754ddd6d4f4fb",
+    "title": "Call for Papers",
+    "description": "Call for Papers",
+    "url": "https://iclr.cc/Conferences/2027/CallForPapers",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "ICLR",
+    "source_url": "https://iclr.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:12.117810+00:00"
+  },
+  {
+    "id": "b7071efeae1e01bcd0d5bfbed1ddc61a",
+    "title": "Area Chair Guide",
+    "description": "Area Chair Guide",
+    "url": "https://iclr.cc/Conferences/2027/AreaChairGuidelines",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "ICLR",
+    "source_url": "https://iclr.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:12.117879+00:00"
+  },
+  {
+    "id": "3c0eb790f44414065255fa7db175ecf3",
+    "title": "Senior Area Chair Guide",
+    "description": "Senior Area Chair Guide",
+    "url": "https://iclr.cc/Conferences/2027/SeniorAreaChairGuidelines",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "ICLR",
+    "source_url": "https://iclr.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:12.117913+00:00"
+  },
+  {
+    "id": "959dca87a7088e595df944cbf0be2947",
+    "title": "AI Policy for Reviewers",
+    "description": "AI Policy for Reviewers",
+    "url": "https://iclr.cc/Conferences/2027/AIPolicyForReviewers",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "ICLR",
+    "source_url": "https://iclr.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:12.117981+00:00"
+  },
+  {
+    "id": "0aa93b82b303fb8a5f3373d26b2de028",
+    "title": "AI Policy for Authors",
+    "description": "AI Policy for Authors",
+    "url": "https://iclr.cc/Conferences/2027/AIPolicyForAuthors",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "ICLR",
+    "source_url": "https://iclr.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:12.118034+00:00"
+  },
+  {
+    "id": "e4929f77a48028375fbf8ab7c21570ff",
+    "title": "October 6-9, 2026",
+    "description": "October 6-9, 2026",
+    "url": "https://iclr.cc/Conferences/2027/Dates",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "ICLR",
+    "source_url": "https://iclr.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:12.118088+00:00"
+  },
+  {
+    "id": "be248139b086e38a78a0793cc3efbb63",
+    "title": "Register starting Apr 26 12 AM PDT",
+    "description": "Register starting Apr 26 12 AM PDT Pricing Cancellation Policy",
+    "url": "https://iclr.cc/Register/view-registration",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "ICLR",
+    "source_url": "https://iclr.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:12.118133+00:00"
+  },
+  {
+    "id": "9bcc97615661099635f7dbf2657e608f",
+    "title": "Exhibitor Info »",
+    "description": "View Exhibitors Contact Us Exhibitor Info »",
+    "url": "https://iclr.cc/Exhibitors/exhibitorinfo/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "ICLR",
+    "source_url": "https://iclr.cc/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:48:12.118408+00:00"
+  },
+  {
+    "id": "2720bbfb86193c1382ac10d349ce314b",
+    "title": "Telecommunication",
+    "description": "Telecommunication",
+    "url": "https://10times.com/telecommunication/conferences",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "10times Math",
+    "source_url": "https://10times.com/mathematics/conferences",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:06.578834+00:00"
+  },
+  {
+    "id": "aa1224b388581aaa996cdbf35f14bab7",
+    "title": "Cryptography & Network Security",
+    "description": "Cryptography & Network Security",
+    "url": "https://10times.com/cryptography/conferences",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "10times Math",
+    "source_url": "https://10times.com/mathematics/conferences",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:06.579734+00:00"
+  },
+  {
+    "id": "b96c6ec47d98d2d9ff0843751e1e94a4",
+    "title": "International Conference on Mathematics, Statistics and Scientific Computing (ICMSSC)",
+    "description": "Aug 09 International Conference on Mathematics, Statistics and Scientific Computing (ICMSSC) - Lagos, Nigeria",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-statistics-and-scientific-computing-icmssc-2026-august-lagos-ng",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:10.846848+00:00"
+  },
+  {
+    "id": "e8e1f41a0df272953b04afc8f5179610",
+    "title": "International Conference on Mathematics, Statistics and Scientific Computing (ICMSSC)",
+    "description": "Aug 09 International Conference on Mathematics, Statistics and Scientific Computing (ICMSSC) - New York, United States",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-statistics-and-scientific-computing-icmssc-2026-august-new-york-us",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:10.846897+00:00"
+  },
+  {
+    "id": "5e80f99a1ed349c28b250bf4f6c13b76",
+    "title": "International Conference on Mathematics (ICM)",
+    "description": "Aug 09 International Conference on Mathematics (ICM) - New York, United States",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-icm-2026-august-new-york-us",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:10.846938+00:00"
+  },
+  {
+    "id": "120a5c33e39fc43c30404e389c2ddf09",
+    "title": "International Conference on Probability and Statistics (ICPS)",
+    "description": "Aug 16 International Conference on Probability and Statistics (ICPS) - Istanbul, Turkey",
+    "url": "https://conferenceindex.org/event/international-conference-on-probability-and-statistics-icps-2026-august-istanbul-tr",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:12.277961+00:00"
+  },
+  {
+    "id": "38848889985987e39c125c7428f47c40",
+    "title": "International Conference on Computational and Statistical Sciences (ICCSS)",
+    "description": "Aug 16 International Conference on Computational and Statistical Sciences (ICCSS) - Istanbul, Turkey",
+    "url": "https://conferenceindex.org/event/international-conference-on-computational-and-statistical-sciences-iccss-2026-august-istanbul-tr",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:12.278034+00:00"
+  },
+  {
+    "id": "40132a55f2dc3653d1a018ab948b61e7",
+    "title": "Chandanaish Upazila",
+    "description": "Chandanaish Upazila",
+    "url": "https://conferencenext.com/conferences/chandanaish-upazila/mathematics",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:48.451102+00:00"
+  },
+  {
+    "id": "7acd789cf36e3ab3e39995523e08ed1b",
+    "title": "Chapainawabganj",
+    "description": "Chapainawabganj",
+    "url": "https://conferencenext.com/conferences/chapainawabganj/mathematics",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:48.451138+00:00"
+  },
+  {
+    "id": "61b218a88fd8c72f75c22f4e461de832",
+    "title": "Chhatak Upazila",
+    "description": "Chhatak Upazila",
+    "url": "https://conferencenext.com/conferences/chhatak-upazila/mathematics",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:48.451172+00:00"
+  },
+  {
+    "id": "8981e32dabed871c6ec6b1ec1a3a8516",
+    "title": "Fatikchhari Upazila",
+    "description": "Fatikchhari Upazila",
+    "url": "https://conferencenext.com/conferences/fatikchhari-upazila/mathematics",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:48.451278+00:00"
+  },
+  {
+    "id": "53999309f4b48bfff050dc42910ec359",
+    "title": "Sreemangal Upazila",
+    "description": "Sreemangal Upazila",
+    "url": "https://conferencenext.com/conferences/sreemangal-upazila/mathematics",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:48.451523+00:00"
+  },
+  {
+    "id": "2af245da6403b3fcfbcf7ba5269c9cc6",
+    "title": "Trishal Upazila",
+    "description": "Trishal Upazila",
+    "url": "https://conferencenext.com/conferences/trishal-upazila/mathematics",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:48.451563+00:00"
+  },
+  {
+    "id": "6aea3486f07ca50d41cdfd1438af9027",
+    "title": "Ullapara Upazila",
+    "description": "Ullapara Upazila",
+    "url": "https://conferencenext.com/conferences/ullapara-upazila/mathematics",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:48.451597+00:00"
+  },
+  {
+    "id": "c930902285c4c9178eb99237a06bde2e",
+    "title": "International Conference on Mathematical Modeling of Energy Systems Goa, India 01 Aug 01 Aug https://conferencenext.com/event/{{$event->event_id}}",
+    "description": "International Conference on Mathematical Modeling in Health and Life Sciences Trivandrum, India 01 Aug 01 Aug https://conferencenext.com/event/{{$event->event_id}} International Conference on Mathematical Modeling of Energy Systems Goa, India 01 Aug 01 Aug https://conferencenext.com/event/{{$event->event_id}} International Conference on Probabilistic and Monte Carlo Numerical Methods Chennai, Ind…",
+    "url": "https://conferencenext.com/event/101274101",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:50:48.462586+00:00"
+  },
+  {
+    "id": "3b2cfb23284175942c5bef3a3faccc91",
+    "title": "Artificial Intelligence",
+    "description": "Artificial Intelligence",
+    "url": "https://10times.com/artificial-intelligence",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "10times",
+    "source_url": "https://10times.com/data-science",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:17.923138+00:00"
+  },
+  {
+    "id": "83cd38ea1893ab8d0e701c5f42b7291e",
+    "title": "Electric & Electronics",
+    "description": "Electric & Electronics",
+    "url": "https://10times.com/electronics-electricals",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "10times",
+    "source_url": "https://10times.com/data-science",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:17.923556+00:00"
+  },
+  {
+    "id": "bc9a0601a988516bb1fb1c821d6e76c0",
+    "title": "reconfigurable computing",
+    "description": "reconfigurable computing reconfigurable architectures reconfigurable applications reconfigurable design methods and tools",
+    "url": "https://easychair.org/cfp/topic?tid=14694",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.674976+00:00"
+  },
+  {
+    "id": "54f07cc6344f7195687e8282a2bc8fc1",
+    "title": "reconfigurable architectures",
+    "description": "reconfigurable computing reconfigurable architectures reconfigurable applications reconfigurable design methods and tools",
+    "url": "https://easychair.org/cfp/topic?tid=48743",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.675041+00:00"
+  },
+  {
+    "id": "4fdc70648dc5d4aeee5971e6ead6cd64",
+    "title": "reconfigurable applications",
+    "description": "reconfigurable computing reconfigurable architectures reconfigurable applications reconfigurable design methods and tools",
+    "url": "https://easychair.org/cfp/topic?tid=151061",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.675089+00:00"
+  },
+  {
+    "id": "ac1442a27f86583e9b2151813563eb64",
+    "title": "reconfigurable design methods and tools",
+    "description": "reconfigurable computing reconfigurable architectures reconfigurable applications reconfigurable design methods and tools",
+    "url": "https://easychair.org/cfp/topic?tid=43434645",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.675135+00:00"
+  },
+  {
+    "id": "e7ef16dffc97e63e86a8d2b04f808d59",
+    "title": "heat transfer and thermal management",
+    "description": "heat transfer and thermal management",
+    "url": "https://easychair.org/cfp/topic?tid=43427970",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.675464+00:00"
+  },
+  {
+    "id": "9b71b777b9a19a62005bb48565addeae",
+    "title": "computer architecture",
+    "description": "computer science computer architecture software engineering computer design",
+    "url": "https://easychair.org/cfp/topic?tid=55895",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.675547+00:00"
+  },
+  {
+    "id": "47e4b537f9ad16ab93053f29a1e927a7",
+    "title": "software engineering",
+    "description": "computer science computer architecture software engineering computer design",
+    "url": "https://easychair.org/cfp/topic?tid=2621",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.675586+00:00"
+  },
+  {
+    "id": "115bfe69b5b66a4e9f4b2957850f4a85",
+    "title": "computer design",
+    "description": "computer science computer architecture software engineering computer design",
+    "url": "https://easychair.org/cfp/topic?tid=1063812",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.675625+00:00"
+  },
+  {
+    "id": "cebbb66678a9cc367e08c9be40379cc0",
+    "title": "kinetic typography",
+    "description": "kinetic typography motion in ux/ui spatial and immersive motion design pedagogy",
+    "url": "https://easychair.org/cfp/topic?tid=305515",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.675671+00:00"
+  },
+  {
+    "id": "2e8af84aeb84c261a6cf614abbc796df",
+    "title": "motion in ux/ui",
+    "description": "kinetic typography motion in ux/ui spatial and immersive motion design pedagogy",
+    "url": "https://easychair.org/cfp/topic?tid=43418857",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.675713+00:00"
+  },
+  {
+    "id": "125e0e759eeca039d36bbffd9317ad04",
+    "title": "spatial and immersive",
+    "description": "kinetic typography motion in ux/ui spatial and immersive motion design pedagogy",
+    "url": "https://easychair.org/cfp/topic?tid=43418858",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.675755+00:00"
+  },
+  {
+    "id": "9570fafd8ed157936a32d065c482cd24",
+    "title": "motion design pedagogy",
+    "description": "kinetic typography motion in ux/ui spatial and immersive motion design pedagogy",
+    "url": "https://easychair.org/cfp/topic?tid=43418859",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.675796+00:00"
+  },
+  {
+    "id": "919d46dd23fa44a3af0b2dadba3057ae",
+    "title": "sistemas embebidos",
+    "description": "sistemas embebidos control y automatización telecomunicaciones y redes 5g/6g agricultura 4.0 y agrotecnología",
+    "url": "https://easychair.org/cfp/topic?tid=243937",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.675849+00:00"
+  },
+  {
+    "id": "33bbe3cdbf7df8ca37a3e69380e30f57",
+    "title": "control y automatización",
+    "description": "sistemas embebidos control y automatización telecomunicaciones y redes 5g/6g agricultura 4.0 y agrotecnología",
+    "url": "https://easychair.org/cfp/topic?tid=688920",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.675898+00:00"
+  },
+  {
+    "id": "59f00966399956ab22146fe3275d45f3",
+    "title": "telecomunicaciones y redes 5g/6g",
+    "description": "sistemas embebidos control y automatización telecomunicaciones y redes 5g/6g agricultura 4.0 y agrotecnología",
+    "url": "https://easychair.org/cfp/topic?tid=43418203",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.675947+00:00"
+  },
+  {
+    "id": "18a3fa172e26132b461ff51799b5e465",
+    "title": "agricultura 4.0 y agrotecnología",
+    "description": "sistemas embebidos control y automatización telecomunicaciones y redes 5g/6g agricultura 4.0 y agrotecnología",
+    "url": "https://easychair.org/cfp/topic?tid=43418204",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.676013+00:00"
+  },
+  {
+    "id": "0505d2cebdf5205a010ca1c0069049af",
+    "title": "GenAI4SG @ CIKM 2026",
+    "description": "GenAI4SG @ CIKM 2026",
+    "url": "https://easychair.org/cfp/genai4sg-cikm2026",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.676053+00:00"
+  },
+  {
+    "id": "33c6b80170dd0f5b34a6f894de489770",
+    "title": "materials and fields",
+    "description": "physics laser physics smart systems materials and fields",
+    "url": "https://easychair.org/cfp/topic?tid=43435956",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.676206+00:00"
+  },
+  {
+    "id": "50da5a1da155a82e39aff090f0432fb7",
+    "title": "digital libraries",
+    "description": "artificial intelligence digital libraries science of science data mining",
+    "url": "https://easychair.org/cfp/topic?tid=3649",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.676314+00:00"
+  },
+  {
+    "id": "0e1e6fa6966b8fd847a60e015973c500",
+    "title": "science of science",
+    "description": "artificial intelligence digital libraries science of science data mining",
+    "url": "https://easychair.org/cfp/topic?tid=1076084",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.676353+00:00"
+  },
+  {
+    "id": "276dac4f1cde07afbc0e68cce8b80212",
+    "title": "vibration control",
+    "description": "vibration control rotor dynamics",
+    "url": "https://easychair.org/cfp/topic?tid=318501",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.676428+00:00"
+  },
+  {
+    "id": "707de95e5ac383347025e2026d54511c",
+    "title": "embedded systems",
+    "description": "embedded systems robotics edge computing affective computing",
+    "url": "https://easychair.org/cfp/topic?tid=840",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.676501+00:00"
+  },
+  {
+    "id": "34d41488d8c60812a5fbb73a45cd623b",
+    "title": "affective computing",
+    "description": "embedded systems robotics edge computing affective computing",
+    "url": "https://easychair.org/cfp/topic?tid=15579",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.676578+00:00"
+  },
+  {
+    "id": "8bc52bbe515f385637618f9cc60f2639",
+    "title": "hybrid/all electric aircraft",
+    "description": "hybrid/all electric aircraft high electric power and storage lessons learnt in other fields sustainability",
+    "url": "https://easychair.org/cfp/topic?tid=43393485",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.676626+00:00"
+  },
+  {
+    "id": "a8d791390f2ac2610c3b93143a304454",
+    "title": "high electric power and storage",
+    "description": "hybrid/all electric aircraft high electric power and storage lessons learnt in other fields sustainability",
+    "url": "https://easychair.org/cfp/topic?tid=43393495",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.676671+00:00"
+  },
+  {
+    "id": "f860dddd735cf50e4c1866f354dfdd1e",
+    "title": "lessons learnt in other fields",
+    "description": "hybrid/all electric aircraft high electric power and storage lessons learnt in other fields sustainability",
+    "url": "https://easychair.org/cfp/topic?tid=43393497",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.676716+00:00"
+  },
+  {
+    "id": "3531d8c82c0f96e8c11ede82acc54b5f",
+    "title": "environmental engineering",
+    "description": "environmental engineering digital transformation of the economy technologies engineering",
+    "url": "https://easychair.org/cfp/topic?tid=272224",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:25.676863+00:00"
+  },
+  {
+    "id": "b27d58b904b507bca28e7140fe7cbc2d",
+    "title": "An Introductory Guide to Practical Constraint Decoding",
+    "description": "An Introductory Guide to Practical Constraint Decoding",
+    "url": "https://www.kdnuggets.com/an-introductory-guide-to-practical-constraint-decoding",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "KDnuggets Meetings",
+    "source_url": "https://www.kdnuggets.com/meetings/index.html",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:50.693750+00:00"
+  },
+  {
+    "id": "68cf69ef9a00a11e710ffb32e61f07ce",
+    "title": "5 Best AI Tools for Data Analysis You Should Try in 2026",
+    "description": "5 Best AI Tools for Data Analysis You Should Try in 2026",
+    "url": "https://www.kdnuggets.com/5-best-ai-tools-for-data-analysis-you-should-try-in-2026",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "KDnuggets Meetings",
+    "source_url": "https://www.kdnuggets.com/meetings/index.html",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:50.693796+00:00"
+  },
+  {
+    "id": "a7ee5f5a75a8a642c856db998674d9a5",
+    "title": "Is KimiClaw a Useful Tool?",
+    "description": "Is KimiClaw a Useful Tool?",
+    "url": "https://www.kdnuggets.com/is-kimiclaw-a-useful-tool",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "KDnuggets Meetings",
+    "source_url": "https://www.kdnuggets.com/meetings/index.html",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:50.693832+00:00"
+  },
+  {
+    "id": "7248a1f259e492b30c822d827e148b84",
+    "title": "7 Steps to Building and Deploying Your First Autonomous Agent",
+    "description": "7 Steps to Building and Deploying Your First Autonomous Agent",
+    "url": "https://www.kdnuggets.com/7-steps-to-building-and-deploying-your-first-autonomous-agent",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "KDnuggets Meetings",
+    "source_url": "https://www.kdnuggets.com/meetings/index.html",
+    "is_new": true,
+    "scraped_at": "2026-07-29T03:51:50.693877+00:00"
   }
 ]
