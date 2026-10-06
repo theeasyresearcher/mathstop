@@ -1,204 +1,162 @@
 [
   {
-    "id": "0437a5e56d74eb562ce5333e2100cba7",
-    "title": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
-    "url": "https://conferencenext.com/event/101279509",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Workshop / School",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.909802+00:00"
-  },
-  {
-    "id": "960d915c4ced6206df123914c56c1843",
-    "title": "International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
-    "url": "https://conferencenext.com/event/101281685",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Workshop / School",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.912363+00:00"
-  },
-  {
-    "id": "965c96fe39b8037cd248993aa5e0a41e",
-    "title": "International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
-    "url": "https://conferencenext.com/event/101278692",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Workshop / School",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.914906+00:00"
-  },
-  {
     "id": "156ee53fc14bb4c6cd819b808c5d4db1",
     "title": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101280597",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Workshop / School",
+    "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.917478+00:00"
+    "scraped_at": "2026-10-06T06:39:21.742288+00:00"
   },
   {
     "id": "d727026713ea19fcc33464c897350236",
     "title": "International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101276381",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Workshop / School",
+    "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.919989+00:00"
+    "scraped_at": "2026-10-06T06:39:21.745519+00:00"
   },
   {
     "id": "530deb112f5e0d613f74d49cce3bcfcd",
     "title": "International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101279780",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Workshop / School",
+    "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.922572+00:00"
+    "scraped_at": "2026-10-06T06:39:21.748716+00:00"
   },
   {
     "id": "c634f8641aab70b8a75778d1d7f3da59",
     "title": "International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101280869",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Workshop / School",
+    "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.925170+00:00"
+    "scraped_at": "2026-10-06T06:39:21.751997+00:00"
   },
   {
     "id": "f1d4dd44ef6e26b7eb63de999fc0b8cc",
     "title": "International Conference on Matrix Theory and Its Applications Delhi, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101276652",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Workshop / School",
+    "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.927726+00:00"
+    "scraped_at": "2026-10-06T06:39:21.755190+00:00"
   },
   {
     "id": "959c0c5753d83206a59beb360fbcf76a",
     "title": "International Conference on Topology, Geometry, and Mathematical Structures Kolkata, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101282501",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Workshop / School",
+    "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.930362+00:00"
+    "scraped_at": "2026-10-06T06:39:21.758425+00:00"
   },
   {
     "id": "ff5e5a01f1ad1ba1cdf4515a2568a298",
     "title": "International Conference on Visualization and Interactive Data Analytics Chandigarh, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101278829",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Workshop / School",
+    "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.932956+00:00"
+    "scraped_at": "2026-10-06T06:39:21.761679+00:00"
   },
   {
     "id": "5b8ef4fca23559acebbf423e211f2a8f",
     "title": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101276789",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Workshop / School",
+    "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.935640+00:00"
+    "scraped_at": "2026-10-06T06:39:21.764903+00:00"
   },
   {
     "id": "cb6fd844dbcd7e65ab5704fb312ea455",
     "title": "International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101278148",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Workshop / School",
+    "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.938315+00:00"
+    "scraped_at": "2026-10-06T06:39:21.768082+00:00"
   },
   {
     "id": "c814175163cfa5c7778041085661b89c",
     "title": "International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101282909",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Workshop / School",
+    "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.940920+00:00"
+    "scraped_at": "2026-10-06T06:39:21.771261+00:00"
   },
   {
     "id": "3a67b8367dbb3c4dac2ce920e5d699ce",
     "title": "International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101277469",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Workshop / School",
+    "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.943468+00:00"
+    "scraped_at": "2026-10-06T06:39:21.774558+00:00"
   },
   {
     "id": "49ba6de75738555a30171852f71a3b50",
     "title": "International Conference on Multivariate Probability and Statistical Methods Ahmedabad, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101275701",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
@@ -207,40 +165,40 @@
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.946227+00:00"
+    "scraped_at": "2026-10-06T06:39:21.777744+00:00"
   },
   {
     "id": "d6f06eef5a48dd5ca2015a19f53107c6",
     "title": "International Conference on Data Science for Environmental and Climate Studies Guwahati, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101282093",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Workshop / School",
+    "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.948943+00:00"
+    "scraped_at": "2026-10-06T06:39:21.780912+00:00"
   },
   {
     "id": "2eef579f8136f81853fcff9cac6ec7a7",
     "title": "International Conference on Data-Driven Optimization and Analytics Techniques Mumbai, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101280188",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Workshop / School",
+    "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.951528+00:00"
+    "scraped_at": "2026-10-06T06:39:21.784125+00:00"
   },
   {
     "id": "7cf5b5a5b9ff9adb03c40f67428d17eb",
     "title": "International Conference on Data-Driven Statistical Modeling and Analysis Coimbatore, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101279100",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
@@ -249,12 +207,12 @@
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.954099+00:00"
+    "scraped_at": "2026-10-06T06:39:21.787333+00:00"
   },
   {
     "id": "bfce4189602b54d94403ce010bdb2775",
     "title": "International Conference on Mathematical Modeling of Complex Networks Kolkata, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101279917",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
@@ -263,21 +221,63 @@
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.956674+00:00"
+    "scraped_at": "2026-10-06T06:39:21.790536+00:00"
   },
   {
     "id": "a9b8bea1a3a7a4d10b8ae24434428da9",
     "title": "International Conference on Mathematical Modeling in Epidemiology and Public Health Bhubaneswar, India 10 Oct",
-    "description": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct Intern…",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
     "url": "https://conferencenext.com/event/101281277",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Workshop / School",
+    "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:27.959191+00:00"
+    "scraped_at": "2026-10-06T06:39:21.793773+00:00"
+  },
+  {
+    "id": "084fbfa2f33cb7984e820efba1f64eec",
+    "title": "National Conference on Applied Physics and Mathematics Pune, India 10 Oct",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
+    "url": "https://conferencenext.com/event/101283045",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:39:21.797020+00:00"
+  },
+  {
+    "id": "798245c92a0eef9df9c0b2de771400c8",
+    "title": "International Conference on Deep Learning and Artificial Intelligence in Computational Science Bangalore, India 10 Oct",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
+    "url": "https://conferencenext.com/event/101278421",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:39:21.800184+00:00"
+  },
+  {
+    "id": "f700ce39570517357bb8190354d91157",
+    "title": "International Conference on Discrete Mathematics and Combinatorial Applications Bhopal, India 10 Oct",
+    "description": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct Inte…",
+    "url": "https://conferencenext.com/event/101275972",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:39:21.803376+00:00"
   },
   {
     "id": "72a7ff1af7f87a517876109861cdedec",
@@ -291,7 +291,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T05:59:17.699742+00:00"
+    "scraped_at": "2026-10-06T06:37:25.247094+00:00"
   },
   {
     "id": "ceda61484e2b3e073cb8a9b15c2e55f8",
@@ -305,7 +305,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T05:59:17.698887+00:00"
+    "scraped_at": "2026-10-06T06:37:25.245869+00:00"
   },
   {
     "id": "52904ed4a5ceb9e8190cf67b4a2a5adf",
@@ -319,7 +319,7 @@
     "source_name": "Ramanujan Math Society",
     "source_url": "https://www.ramanujanmathsociety.org/",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:01:37.706349+00:00"
+    "scraped_at": "2026-10-06T06:38:38.176147+00:00"
   },
   {
     "id": "e84b6044d31bd9547e11888b7fc4d589",
@@ -333,7 +333,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T05:59:17.698524+00:00"
+    "scraped_at": "2026-10-06T06:37:25.245335+00:00"
   },
   {
     "id": "1523253950c8e057da8dc68a613e7909",
@@ -347,7 +347,7 @@
     "source_name": "DataCamp Blog",
     "source_url": "https://www.datacamp.com/blog/top-data-science-conferences-for-2022",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:03:09.050649+00:00"
+    "scraped_at": "2026-10-06T06:39:55.278457+00:00"
   },
   {
     "id": "5d2dd1a5e5b8311b99703d7317ff85d8",
@@ -361,49 +361,21 @@
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:39.555138+00:00"
+    "scraped_at": "2026-10-06T06:39:30.417955+00:00"
   },
   {
     "id": "540990b5464d8763cb8354334ce03ea6",
     "title": "Skip to main content",
     "description": "Skip to main content User account menu Log in Site switcher IMU ICMI CDC CoP CWM ICHM InternationalMathematicalUnion IMU Main navigation Organization About Mission Statutes General Assembly IMU Executive Committee IMU Representatives IMU Secretariat IMU Circle IMU News ISC Membership IMU Archive IMU History Membership IMU Membership Members Associate Members Affiliate Members Membership Dues Cand…",
     "url": "https://www.mathunion.org#main-content",
-    "deadline": "2026-06-01",
-    "event_date": "2026-06-01",
+    "deadline": "2026-05-10",
+    "event_date": "2026-05-10",
     "location": "India",
     "category": "Workshop / School",
     "source_name": "IMU",
     "source_url": "https://www.mathunion.org",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:03:34.724664+00:00"
-  },
-  {
-    "id": "967b00b2c4b3c2d7c92e1a7eb4a918bc",
-    "title": "(Deadline extended: June 30, 2026) WSC 2027, Invited Paper Sessions – Open for Proposals!",
-    "description": "(Deadline extended: June 30, 2026) WSC 2027, Invited Paper Sessions – Open for Proposals!",
-    "url": "https://iasc-isi.org/2026/06/19/wsc-2027-invited-paper-sessions-open-for-proposals/",
-    "deadline": "2026-06-30",
-    "event_date": "2026-06-30",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "IASC-ISI",
-    "source_url": "https://iasc-isi.org/",
-    "is_new": true,
-    "scraped_at": "2026-10-05T06:02:14.689796+00:00"
-  },
-  {
-    "id": "205867537c38035581b2a5ee5f6a7ec7",
-    "title": "Deadline Extended to June 30, 2026. LACSC-TIES-EnviBayes-EnvrASA 2026",
-    "description": "Deadline Extended to June 30, 2026. LACSC-TIES-EnviBayes-EnvrASA 2026",
-    "url": "https://iasc-isi.org/2026/06/03/deadline-extended-to-june-30-2026-lacsc-ties-envibayes-envrasa-2026/",
-    "deadline": "2026-06-30",
-    "event_date": "2026-06-30",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "IASC-ISI",
-    "source_url": "https://iasc-isi.org/",
-    "is_new": true,
-    "scraped_at": "2026-10-05T06:02:14.689925+00:00"
+    "scraped_at": "2026-10-06T06:40:25.430767+00:00"
   },
   {
     "id": "ec7a577a701ed1480a8068a2fda2c5d1",
@@ -417,7 +389,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:15.227766+00:00"
+    "scraped_at": "2026-10-06T06:39:11.589095+00:00"
   },
   {
     "id": "264d844b2cc3f78a75c4e84d583eaeb4",
@@ -431,7 +403,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:15.227853+00:00"
+    "scraped_at": "2026-10-06T06:39:11.589256+00:00"
   },
   {
     "id": "6e1690b137b62777a4f48eb1d1710792",
@@ -445,7 +417,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:15.228001+00:00"
+    "scraped_at": "2026-10-06T06:39:11.589498+00:00"
   },
   {
     "id": "54a7c67891a20634c875387b4adf9fa8",
@@ -459,7 +431,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:15.228072+00:00"
+    "scraped_at": "2026-10-06T06:39:11.589610+00:00"
   },
   {
     "id": "38b62e91fb5a9464677f7ab2292feffc",
@@ -473,7 +445,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:15.228144+00:00"
+    "scraped_at": "2026-10-06T06:39:11.589732+00:00"
   },
   {
     "id": "ba4953d7b947ca27179f7ee761361c70",
@@ -487,7 +459,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:15.228216+00:00"
+    "scraped_at": "2026-10-06T06:39:11.589853+00:00"
   },
   {
     "id": "bb89c7ec6b9fb207f6fd560a05e23842",
@@ -501,7 +473,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:15.228289+00:00"
+    "scraped_at": "2026-10-06T06:39:11.589976+00:00"
   },
   {
     "id": "3e63c233f5b96f4a23090ffe8c7b85cf",
@@ -515,7 +487,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:03:34.355426+00:00"
+    "scraped_at": "2026-10-06T06:40:25.032002+00:00"
   },
   {
     "id": "ec59ac4b766d6787f3f3c585a08697a3",
@@ -529,7 +501,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:03:34.355524+00:00"
+    "scraped_at": "2026-10-06T06:40:25.032161+00:00"
   },
   {
     "id": "296cd4ad57d3d59a9f338540f88828bc",
@@ -543,7 +515,7 @@
     "source_name": "ICM 2026",
     "source_url": "https://www.mathunion.org/icm/icm-2026",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:03:32.820841+00:00"
+    "scraped_at": "2026-10-06T06:40:19.802099+00:00"
   },
   {
     "id": "77377557319f98ea836823b981d37c1e",
@@ -557,7 +529,7 @@
     "source_name": "Mathseon Notifications",
     "source_url": "https://mathseon.in/notifications/",
     "is_new": true,
-    "scraped_at": "2026-10-05T05:59:16.339086+00:00"
+    "scraped_at": "2026-10-06T06:37:23.835907+00:00"
   },
   {
     "id": "567308212ab9427b3af5275861080f48",
@@ -571,7 +543,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T05:59:17.698309+00:00"
+    "scraped_at": "2026-10-06T06:37:25.245024+00:00"
   },
   {
     "id": "71f3cf3edeabaaa1a2894ae112281bb7",
@@ -585,7 +557,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:15.229713+00:00"
+    "scraped_at": "2026-10-06T06:39:11.592188+00:00"
   },
   {
     "id": "75d50e5275eecd0398e9cd9704e4452a",
@@ -599,7 +571,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:15.229788+00:00"
+    "scraped_at": "2026-10-06T06:39:11.592318+00:00"
   },
   {
     "id": "c563e844281761a6a25367a864f34dab",
@@ -613,7 +585,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:15.229862+00:00"
+    "scraped_at": "2026-10-06T06:39:11.592441+00:00"
   },
   {
     "id": "f399c1aad07598210d4d09288455b425",
@@ -627,7 +599,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:15.229950+00:00"
+    "scraped_at": "2026-10-06T06:39:11.592580+00:00"
   },
   {
     "id": "c29e9912d91b02baeb028bdcef07efee",
@@ -641,7 +613,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-05T06:02:15.230029+00:00"
+    "scraped_at": "2026-10-06T06:39:11.592710+00:00"
   },
   {
     "id": "01d3e19da2276fc65707f3a2a68d9f63",
@@ -655,7 +627,7 @@
     "source_name": "AIM Workshops",
     "source_url": "https://aimath.org/workshops/upcoming/",
     "is_new": true,
-    "scraped_at": "2026-10-05T05:59:18.361774+00:00"
+    "scraped_at": "2026-10-06T06:37:26.293469+00:00"
   },
   {
     "id": "cb128183bda3fcef627c26ccc6a39d59",
@@ -696,7 +668,7 @@
     "category": "Conference",
     "source_name": "BigEvent",
     "source_url": "https://bigevent.io/events/category/data-science/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-05T06:03:07.666087+00:00"
   },
   {
@@ -75050,7 +75022,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-05T06:00:02.609590+00:00"
   },
   {
@@ -75064,7 +75036,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-05T06:00:02.609864+00:00"
   },
   {
@@ -75078,7 +75050,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Alerts India Stat",
     "source_url": "https://www.conferencealerts.in/india/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-05T06:00:03.958688+00:00"
   },
   {
@@ -75092,7 +75064,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Alerts India Stat",
     "source_url": "https://www.conferencealerts.in/india/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-05T06:00:03.958786+00:00"
   },
   {
@@ -75106,7 +75078,7 @@
     "category": "Conference",
     "source_name": "WikiCFP Data Mining",
     "source_url": "http://www.wikicfp.com/cfp/call?conference=data+mining",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-05T06:02:17.324553+00:00"
   },
   {
@@ -75120,7 +75092,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-05T06:02:49.881643+00:00"
   },
   {
@@ -75134,7 +75106,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-05T06:02:49.881974+00:00"
   },
   {
@@ -75148,7 +75120,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-05T06:02:49.884662+00:00"
   },
   {
@@ -75162,7 +75134,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-05T06:04:00.764781+00:00"
   },
   {
@@ -75176,7 +75148,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-05T06:04:00.764899+00:00"
   },
   {
@@ -75190,7 +75162,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-05T06:04:00.765032+00:00"
   },
   {
@@ -75204,7 +75176,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-05T06:04:00.765187+00:00"
   },
   {
@@ -75218,7 +75190,623 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-05T06:04:00.765218+00:00"
+  },
+  {
+    "id": "3ffb7d92177f77085325de4c35a9fc14",
+    "title": "[email protected]",
+    "description": "contact us at [email protected]",
+    "url": "https://dataevents.co/cdn-cgi/l/email-protection#87e4e8e9f3e6e4f3c7e3e6f3e6e2f1e2e9f3f4a9e4e8",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "DataEvents.co ML",
+    "source_url": "https://dataevents.co/ml",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:37:29.091411+00:00"
+  },
+  {
+    "id": "103a1bf38b843a11909e9d786bd324cf",
+    "title": "Author Registration Information",
+    "description": "Paper locations have been assigned, authors can now register: Author Registration Information",
+    "url": "https://neurips.cc/Conferences/2026/AuthorRegistration",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "NeurIPS",
+    "source_url": "https://neurips.cc/",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:37:37.036668+00:00"
+  },
+  {
+    "id": "0abe09fdcc94f19eaa266884ed0c1db8",
+    "title": "Modelling of materials - theory, model reduction and efficient numerical methods (UNCE MathMAC)",
+    "description": "Modelling of materials - theory, model reduction and efficient numerical methods (UNCE MathMAC)",
+    "url": "https://researchseminars.org/seminar/MathMAC",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:37:39.359609+00:00"
+  },
+  {
+    "id": "a52455f099c26f04a0bbf72995db4bdb",
+    "title": "Istanbul Technical University Mathematical Engineering Department Seminars",
+    "description": "Istanbul Technical University Mathematical Engineering Department Seminars",
+    "url": "https://researchseminars.org/seminar/MathEngSeminars",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:37:39.359880+00:00"
+  },
+  {
+    "id": "71616b23a485f8132be7e1f80f573c1a",
+    "title": "Konstantinos Kourliouros",
+    "description": "Konstantinos Kourliouros",
+    "url": "https://scholar.google.com/citations?user=v97hqOMAAAAJ",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:37:39.359913+00:00"
+  },
+  {
+    "id": "9fbec750f638c151ec7b2b15fb0f8aa4",
+    "title": "by Alexey Beshenov, Yuri Bilu",
+    "description": "p-adic Numbers and Diophantine Equations by Alexey Beshenov, Yuri Bilu published in CMI Lecture Series in Mathematics()",
+    "url": "https://www.hindbook.com/index.php/index.php/p-adic-numbers-and-diophantine-equations",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "CMI Chennai",
+    "source_url": "https://www.cmi.ac.in/events/",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:37:51.175530+00:00"
+  },
+  {
+    "id": "f0b61fbe45621a1459d7a8bbf77d4591",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2145732",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:37:51.711551+00:00"
+  },
+  {
+    "id": "06a5a71c0a26b557bd33f66ec8c97d69",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2145714",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:37:51.711710+00:00"
+  },
+  {
+    "id": "44857d48793a6b3f5cc3bc55a6b1c2be",
+    "title": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "description": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "url": "https://www.conferencealerts.in/eventdetail/2158523",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Alerts India Stat",
+    "source_url": "https://www.conferencealerts.in/india/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:37:52.974798+00:00"
+  },
+  {
+    "id": "0564b0af9ec747eab80021df74eaf7fd",
+    "title": "International Conference on Mathematics, Statistics and Scientific Computing (ICMSSC)",
+    "description": "Oct 12 International Conference on Mathematics, Statistics and Scientific Computing (ICMSSC) - Athens, Greece",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-statistics-and-scientific-computing-icmssc-2026-october-athens-gr",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.698448+00:00"
+  },
+  {
+    "id": "3ab2427e3c9f25214620b76e6e9699e0",
+    "title": "International Conference on Mathematics, Statistics and Scientific Computing (ICMSSC)",
+    "description": "Oct 12 International Conference on Mathematics, Statistics and Scientific Computing (ICMSSC) - Shanghai, China",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-statistics-and-scientific-computing-icmssc-2026-october-shanghai-cn",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.698558+00:00"
+  },
+  {
+    "id": "cdc80a95331454ad426ca12400cb8117",
+    "title": "International Conference on Mathematics and Computational Mechanics (ICMCM)",
+    "description": "Oct 19 International Conference on Mathematics and Computational Mechanics (ICMCM) - Istanbul, Turkey",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-and-computational-mechanics-icmcm-2026-october-istanbul-tr",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.698949+00:00"
+  },
+  {
+    "id": "14b413cec13ac24206776545622c6030",
+    "title": "International Conference on Mathematics and Computational Mechanics (ICMCM)",
+    "description": "Oct 19 International Conference on Mathematics and Computational Mechanics (ICMCM) - Barcelona, Spain",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-and-computational-mechanics-icmcm-2026-october-barcelona-es",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.698997+00:00"
+  },
+  {
+    "id": "58de78607e24dfdccd52a95381334886",
+    "title": "International Conference on Applied and Computational Mathematics (ICACM)",
+    "description": "Oct 19 International Conference on Applied and Computational Mathematics (ICACM) - Bali, Indonesia",
+    "url": "https://conferenceindex.org/event/international-conference-on-applied-and-computational-mathematics-icacm-2026-october-bali-id",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.699099+00:00"
+  },
+  {
+    "id": "6352c0c9e70e47c123433fa0886fcbd4",
+    "title": "International Conference on Mathematics (ICM)",
+    "description": "Oct 19 International Conference on Mathematics (ICM) - Barcelona, Spain",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-icm-2026-october-barcelona-es",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.699161+00:00"
+  },
+  {
+    "id": "fe13fa8a23c579cbf89956fb5ff96bee",
+    "title": "International Conference on Statistics, Econometrics and Mathematics (ICSEM)",
+    "description": "Oct 19 International Conference on Statistics, Econometrics and Mathematics (ICSEM) - Istanbul, Turkey",
+    "url": "https://conferenceindex.org/event/international-conference-on-statistics-econometrics-and-mathematics-icsem-2026-october-istanbul-tr",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.699465+00:00"
+  },
+  {
+    "id": "9787e9dd9cc07d12afa5d8587929b999",
+    "title": "International Conference on Mathematics (ICM)",
+    "description": "Oct 19 International Conference on Mathematics (ICM) - Houston, United States",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-icm-2026-october-houston-us",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.699508+00:00"
+  },
+  {
+    "id": "3d0867923cbf531a479bae895a1ec7ad",
+    "title": "International Conference on Mathematics (ICM)",
+    "description": "Oct 19 International Conference on Mathematics (ICM) - Tunis, Tunisia",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-icm-2026-october-tunis-tn",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.699553+00:00"
+  },
+  {
+    "id": "342fd5abf99866103f68741d6770c061",
+    "title": "International Conference on Mathematics (ICM)",
+    "description": "Oct 19 International Conference on Mathematics (ICM) - Quebec City, Canada",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-icm-2026-october-quebec-city-ca",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.699598+00:00"
+  },
+  {
+    "id": "80c21c462b060ebd8e9855d14b950442",
+    "title": "International Conference on Mathematics (ICM)",
+    "description": "Oct 19 International Conference on Mathematics (ICM) - Kathmandu, Nepal",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-icm-2026-october-kathmandu-np",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.699640+00:00"
+  },
+  {
+    "id": "9dcee64432e98351cc7f012a097522a2",
+    "title": "International Conference on Statistics, Econometrics and Mathematics (ICSEM)",
+    "description": "Oct 19 International Conference on Statistics, Econometrics and Mathematics (ICSEM) - Barcelona, Spain",
+    "url": "https://conferenceindex.org/event/international-conference-on-statistics-econometrics-and-mathematics-icsem-2026-october-barcelona-es",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.699688+00:00"
+  },
+  {
+    "id": "a4594848c977f0b38457ab96a806c7e2",
+    "title": "International Conference on Statistics, Econometrics and Mathematics (ICSEM)",
+    "description": "Oct 19 International Conference on Statistics, Econometrics and Mathematics (ICSEM) - Bali, Indonesia",
+    "url": "https://conferenceindex.org/event/international-conference-on-statistics-econometrics-and-mathematics-icsem-2026-october-bali-id",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.699736+00:00"
+  },
+  {
+    "id": "be605ece4c9a2bef14c75bdb4511c8ba",
+    "title": "International Conference on Mathematics, Statistics and Scientific Computing (ICMSSC)",
+    "description": "Oct 19 International Conference on Mathematics, Statistics and Scientific Computing (ICMSSC) - Istanbul, Turkey",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-statistics-and-scientific-computing-icmssc-2026-october-istanbul-tr",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.699786+00:00"
+  },
+  {
+    "id": "bd546a34f987154ddf809d181466ab17",
+    "title": "International Conference on Mathematics, Statistics and Scientific Computing (ICMSSC)",
+    "description": "Oct 19 International Conference on Mathematics, Statistics and Scientific Computing (ICMSSC) - Barcelona, Spain",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-statistics-and-scientific-computing-icmssc-2026-october-barcelona-es",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.699835+00:00"
+  },
+  {
+    "id": "53f49183bba15a28e4d636e37fc41c56",
+    "title": "International Conference on Mathematics, Statistics and Scientific Computing (ICMSSC)",
+    "description": "Oct 19 International Conference on Mathematics, Statistics and Scientific Computing (ICMSSC) - Bali, Indonesia",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-statistics-and-scientific-computing-icmssc-2026-october-bali-id",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.699884+00:00"
+  },
+  {
+    "id": "5af2a0f8ac97d9cd7c31328b3fb12402",
+    "title": "International Conference on Mathematics (ICM)",
+    "description": "Oct 19 International Conference on Mathematics (ICM) - Bali, Indonesia",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-icm-2026-october-bali-id",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.699926+00:00"
+  },
+  {
+    "id": "5b48c0c901343648c74e1ec50af48312",
+    "title": "International Conference on Mathematics (ICM)",
+    "description": "Oct 19 International Conference on Mathematics (ICM) - Istanbul, Turkey",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-icm-2026-october-istanbul-tr",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:46.700016+00:00"
+  },
+  {
+    "id": "c8110d982a3ec3e2a9eefbe2f9f3fa6d",
+    "title": "International Conference on Statistics, Econometrics and Mathematics (ICSEM)",
+    "description": "Oct 19 International Conference on Statistics, Econometrics and Mathematics (ICSEM) - Houston, United States",
+    "url": "https://conferenceindex.org/event/international-conference-on-statistics-econometrics-and-mathematics-icsem-2026-october-houston-us",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:47.997612+00:00"
+  },
+  {
+    "id": "2004bc20fed80804186156f69092c4d2",
+    "title": "International Conference on Statistics, Econometrics and Mathematics (ICSEM)",
+    "description": "Oct 19 International Conference on Statistics, Econometrics and Mathematics (ICSEM) - Tunis, Tunisia",
+    "url": "https://conferenceindex.org/event/international-conference-on-statistics-econometrics-and-mathematics-icsem-2026-october-tunis-tn",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:47.997660+00:00"
+  },
+  {
+    "id": "09627443f3efb8f0ba3bc2488357c4dd",
+    "title": "International Conference on Statistics, Econometrics and Mathematics (ICSEM)",
+    "description": "Oct 19 International Conference on Statistics, Econometrics and Mathematics (ICSEM) - Quebec City, Canada",
+    "url": "https://conferenceindex.org/event/international-conference-on-statistics-econometrics-and-mathematics-icsem-2026-october-quebec-city-ca",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:47.997709+00:00"
+  },
+  {
+    "id": "069683972f4763eb157b1b0b7e693478",
+    "title": "International Conference on Statistics, Econometrics and Mathematics (ICSEM)",
+    "description": "Oct 19 International Conference on Statistics, Econometrics and Mathematics (ICSEM) - Kathmandu, Nepal",
+    "url": "https://conferenceindex.org/event/international-conference-on-statistics-econometrics-and-mathematics-icsem-2026-october-kathmandu-np",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:47.997756+00:00"
+  },
+  {
+    "id": "c9277229001c8a713a36146777bd7ac4",
+    "title": "International Conference on Computational and Applied Mathematics (ICCAM)",
+    "description": "Oct 26 International Conference on Computational and Applied Mathematics (ICCAM) - Los Angeles, United States",
+    "url": "https://conferenceindex.org/event/international-conference-on-computational-and-applied-mathematics-iccam-2026-october-los-angeles-us",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:47.997947+00:00"
+  },
+  {
+    "id": "3051e65bfab4738a7c6b42399eecc528",
+    "title": "International Conference on Statistics, Econometrics and Mathematics (ICSEM)",
+    "description": "Oct 26 International Conference on Statistics, Econometrics and Mathematics (ICSEM) - Los Angeles, United States",
+    "url": "https://conferenceindex.org/event/international-conference-on-statistics-econometrics-and-mathematics-icsem-2026-october-los-angeles-us",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:47.997997+00:00"
+  },
+  {
+    "id": "0fabf53179f122aaf3292861e3f05bcf",
+    "title": "International Conference on Mathematical and Statistical Sciences (ICMSS)",
+    "description": "Oct 26 International Conference on Mathematical and Statistical Sciences (ICMSS) - Montreal, Canada",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematical-and-statistical-sciences-icmss-2026-october-montreal-ca",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:47.998044+00:00"
+  },
+  {
+    "id": "7c4fcdac719c61b54d8beb04d110fa7f",
+    "title": "International Conference on Mathematical and Statistical Sciences (ICMSS)",
+    "description": "Oct 26 International Conference on Mathematical and Statistical Sciences (ICMSS) - Vancouver, Canada",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematical-and-statistical-sciences-icmss-2026-october-vancouver-ca",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:47.998090+00:00"
+  },
+  {
+    "id": "3482db3161c16fbfc8637bad3778dd00",
+    "title": "International Conference on Mathematical and Statistical Sciences (ICMSS)",
+    "description": "Oct 26 International Conference on Mathematical and Statistical Sciences (ICMSS) - Osaka, Japan",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematical-and-statistical-sciences-icmss-2026-october-osaka-jp",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:47.998156+00:00"
+  },
+  {
+    "id": "6d29f8c5b9bda1963bffe204fa535a2f",
+    "title": "International Conference on Mathematics and Statistical Engineering (ICMSE)",
+    "description": "Oct 26 International Conference on Mathematics and Statistical Engineering (ICMSE) - Paris, France",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-and-statistical-engineering-icmse-2026-october-paris-fr",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:47.998206+00:00"
+  },
+  {
+    "id": "c5c29072b5f1920a0b64a8eb4c902917",
+    "title": "International Conference on Mathematical, Statistical and Computational Sciences (ICMSCS)",
+    "description": "Oct 26 International Conference on Mathematical, Statistical and Computational Sciences (ICMSCS) - Paris, France",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematical-statistical-and-computational-sciences-icmscs-2026-october-paris-fr",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:38:47.998257+00:00"
+  },
+  {
+    "id": "9951a79328a0e7be102dca7ab8c2a536",
+    "title": "Postdoc position on formal verification and algorithm discovery for numerical analysis",
+    "description": "Postdoc position on formal verification and algorithm discovery for numerical analysis",
+    "url": "https://terrytao.wordpress.com/2026/10/05/postdoc-position-on-formal-verification-and-algorithm-discovery-for-numerical-analysis/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Fellowship / Award",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:40:32.721022+00:00"
+  },
+  {
+    "id": "17cf936927b8a85f1921a3d095307f62",
+    "title": "Leave a comment",
+    "description": "5 October, 2026 in advertising, guest blog, math.AP, math.NA | by Terence Tao | Leave a comment",
+    "url": "https://terrytao.wordpress.com/2026/10/05/postdoc-position-on-formal-verification-and-algorithm-discovery-for-numerical-analysis/#respond",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:40:32.721262+00:00"
+  },
+  {
+    "id": "b32be21188e297cc85790d9fb5fa2e0e",
+    "title": "Chair of Numerical Modelling and Simulation",
+    "description": "The Chair of Numerical Modelling and Simulation at EPFL is dedicated to the design and analysis of numerical algorithms for partial differential equations. Our research is oriented towards the development of novel and innovative numerical techniques aiming at improving the integration between numerical simulations and geometric modelling and processing.",
+    "url": "https://www.epfl.ch/labs/mns/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:40:32.721413+00:00"
+  },
+  {
+    "id": "bee935d5aeae6ab52eb99056aa412a49",
+    "title": "Read the rest of this entry »",
+    "description": "Read the rest of this entry »",
+    "url": "https://terrytao.wordpress.com/2026/10/05/postdoc-position-on-formal-verification-and-algorithm-discovery-for-numerical-analysis/#more-18367",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:40:32.721456+00:00"
+  },
+  {
+    "id": "058bdedc469b9e27ff7160f2a3835875",
+    "title": "The Future of Mathematics",
+    "description": "The Future of Mathematics",
+    "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:40:32.721492+00:00"
+  },
+  {
+    "id": "1c44816f5db5feb60fb954016e79a64a",
+    "title": "Read the rest of this entry »",
+    "description": "Read the rest of this entry »",
+    "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/#more-18353",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-06T06:40:32.721882+00:00"
   }
 ]
