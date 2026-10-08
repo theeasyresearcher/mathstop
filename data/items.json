@@ -1,246 +1,22 @@
 [
   {
-    "id": "5b8ef4fca23559acebbf423e211f2a8f",
-    "title": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101276789",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.684020+00:00"
-  },
-  {
-    "id": "cb6fd844dbcd7e65ab5704fb312ea455",
-    "title": "International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101278148",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.685767+00:00"
-  },
-  {
-    "id": "c814175163cfa5c7778041085661b89c",
-    "title": "International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101282909",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.687464+00:00"
-  },
-  {
-    "id": "3a67b8367dbb3c4dac2ce920e5d699ce",
-    "title": "International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101277469",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.689139+00:00"
-  },
-  {
-    "id": "49ba6de75738555a30171852f71a3b50",
-    "title": "International Conference on Multivariate Probability and Statistical Methods Ahmedabad, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101275701",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Workshop / School",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.690826+00:00"
-  },
-  {
-    "id": "d6f06eef5a48dd5ca2015a19f53107c6",
-    "title": "International Conference on Data Science for Environmental and Climate Studies Guwahati, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101282093",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.692503+00:00"
-  },
-  {
-    "id": "2eef579f8136f81853fcff9cac6ec7a7",
-    "title": "International Conference on Data-Driven Optimization and Analytics Techniques Mumbai, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101280188",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.694167+00:00"
-  },
-  {
-    "id": "7cf5b5a5b9ff9adb03c40f67428d17eb",
-    "title": "International Conference on Data-Driven Statistical Modeling and Analysis Coimbatore, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101279100",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Workshop / School",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.695843+00:00"
-  },
-  {
-    "id": "bfce4189602b54d94403ce010bdb2775",
-    "title": "International Conference on Mathematical Modeling of Complex Networks Kolkata, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101279917",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Exam / Notification",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.697514+00:00"
-  },
-  {
-    "id": "a9b8bea1a3a7a4d10b8ae24434428da9",
-    "title": "International Conference on Mathematical Modeling in Epidemiology and Public Health Bhubaneswar, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101281277",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.699188+00:00"
-  },
-  {
-    "id": "084fbfa2f33cb7984e820efba1f64eec",
-    "title": "National Conference on Applied Physics and Mathematics Pune, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101283045",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.700902+00:00"
-  },
-  {
-    "id": "798245c92a0eef9df9c0b2de771400c8",
-    "title": "International Conference on Deep Learning and Artificial Intelligence in Computational Science Bangalore, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101278421",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.702570+00:00"
-  },
-  {
-    "id": "f700ce39570517357bb8190354d91157",
-    "title": "International Conference on Discrete Mathematics and Combinatorial Applications Bhopal, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101275972",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.704237+00:00"
-  },
-  {
-    "id": "129aa23d96e56bbc66e6996c0a5bed71",
-    "title": "International Conference on Bayesian Networks and Decision Analysis Pondicherry, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101277740",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Exam / Notification",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.705904+00:00"
-  },
-  {
-    "id": "6dcfb92931b11be68b965e2b05f35e39",
-    "title": "International Conference on Partial Differential Equations and Applied Mechanics Visakhapatnam, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101283317",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.707629+00:00"
-  },
-  {
-    "id": "93ff7a5c08969ece0490288627a06af0",
-    "title": "International Conference on Numerical Methods in Heat and Mass Transfer Hyderabad, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
-    "url": "https://conferencenext.com/event/101277060",
-    "deadline": "1234-10-31",
-    "event_date": "1234-10-31",
-    "location": "India",
-    "category": "Conference",
-    "source_name": "ConferenceNext",
-    "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.709317+00:00"
-  },
-  {
     "id": "3c00870b470c6fdfa049634171b8c1d6",
     "title": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
     "url": "https://conferencenext.com/event/101277877",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Conference",
+    "category": "Workshop / School",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.710977+00:00"
+    "scraped_at": "2026-10-08T06:25:28.607987+00:00"
   },
   {
     "id": "0437a5e56d74eb562ce5333e2100cba7",
     "title": "International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
     "url": "https://conferencenext.com/event/101279509",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
@@ -249,35 +25,259 @@
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.712736+00:00"
+    "scraped_at": "2026-10-08T06:25:28.611066+00:00"
   },
   {
     "id": "960d915c4ced6206df123914c56c1843",
     "title": "International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
     "url": "https://conferencenext.com/event/101281685",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Conference",
+    "category": "Workshop / School",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.714405+00:00"
+    "scraped_at": "2026-10-08T06:25:28.614125+00:00"
   },
   {
     "id": "965c96fe39b8037cd248993aa5e0a41e",
     "title": "International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct",
-    "description": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow…",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
     "url": "https://conferencenext.com/event/101278692",
     "deadline": "1234-10-31",
     "event_date": "1234-10-31",
     "location": "India",
-    "category": "Conference",
+    "category": "Workshop / School",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:49.716072+00:00"
+    "scraped_at": "2026-10-08T06:25:28.617189+00:00"
+  },
+  {
+    "id": "156ee53fc14bb4c6cd819b808c5d4db1",
+    "title": "International Conference on Differential Geometry and Topological Applications Trivandrum, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101280597",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.620253+00:00"
+  },
+  {
+    "id": "d727026713ea19fcc33464c897350236",
+    "title": "International Conference on Numerical Simulation in Engineering and Technology Chennai, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101276381",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.623344+00:00"
+  },
+  {
+    "id": "530deb112f5e0d613f74d49cce3bcfcd",
+    "title": "International Conference on Computational Algorithms for Complex Systems Jaipur, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101279780",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.626390+00:00"
+  },
+  {
+    "id": "c634f8641aab70b8a75778d1d7f3da59",
+    "title": "International Conference on Numerical Methods in Environmental Modeling Ahmedabad, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101280869",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.629561+00:00"
+  },
+  {
+    "id": "f1d4dd44ef6e26b7eb63de999fc0b8cc",
+    "title": "International Conference on Matrix Theory and Its Applications Delhi, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101276652",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.632607+00:00"
+  },
+  {
+    "id": "959c0c5753d83206a59beb360fbcf76a",
+    "title": "International Conference on Topology, Geometry, and Mathematical Structures Kolkata, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101282501",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.635632+00:00"
+  },
+  {
+    "id": "ff5e5a01f1ad1ba1cdf4515a2568a298",
+    "title": "International Conference on Visualization and Interactive Data Analytics Chandigarh, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101278829",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.638821+00:00"
+  },
+  {
+    "id": "5b8ef4fca23559acebbf423e211f2a8f",
+    "title": "International Conference on Mathematical Modeling of Fluid Flow and Heat Transfer Goa, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101276789",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.641898+00:00"
+  },
+  {
+    "id": "cb6fd844dbcd7e65ab5704fb312ea455",
+    "title": "International Conference on Time Series Analysis and Stochastic Modeling Visakhapatnam, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101278148",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.644976+00:00"
+  },
+  {
+    "id": "c814175163cfa5c7778041085661b89c",
+    "title": "International Conference on Finite Element Analysis in Applied Sciences Pondicherry, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101282909",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.648032+00:00"
+  },
+  {
+    "id": "3a67b8367dbb3c4dac2ce920e5d699ce",
+    "title": "International Conference on Mathematical Modeling of Environmental Pollution and Remediation Lucknow, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101277469",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.651069+00:00"
+  },
+  {
+    "id": "49ba6de75738555a30171852f71a3b50",
+    "title": "International Conference on Multivariate Probability and Statistical Methods Ahmedabad, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101275701",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.654209+00:00"
+  },
+  {
+    "id": "d6f06eef5a48dd5ca2015a19f53107c6",
+    "title": "International Conference on Data Science for Environmental and Climate Studies Guwahati, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101282093",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.657252+00:00"
+  },
+  {
+    "id": "2eef579f8136f81853fcff9cac6ec7a7",
+    "title": "International Conference on Data-Driven Optimization and Analytics Techniques Mumbai, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101280188",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.660446+00:00"
+  },
+  {
+    "id": "7cf5b5a5b9ff9adb03c40f67428d17eb",
+    "title": "International Conference on Data-Driven Statistical Modeling and Analysis Coimbatore, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101279100",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.663520+00:00"
+  },
+  {
+    "id": "bfce4189602b54d94403ce010bdb2775",
+    "title": "International Conference on Mathematical Modeling of Complex Networks Kolkata, India 10 Oct",
+    "description": "International Conference on Machine Learning in Finance, Risk, and Optimization Pune, India 10 Oct International Conference on Bayesian Statistics and Computational Methods Guwahati, India 10 Oct International Conference on Machine Learning Algorithms and Applications Coimbatore, India 10 Oct International Conference on Advanced Topics in Stochastic Processes Bhubaneswar, India 10 Oct Internation…",
+    "url": "https://conferencenext.com/event/101279917",
+    "deadline": "1234-10-31",
+    "event_date": "1234-10-31",
+    "location": "India",
+    "category": "Exam / Notification",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:25:28.666567+00:00"
   },
   {
     "id": "72a7ff1af7f87a517876109861cdedec",
@@ -291,7 +291,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:14:35.154208+00:00"
+    "scraped_at": "2026-10-08T06:23:10.443293+00:00"
   },
   {
     "id": "ceda61484e2b3e073cb8a9b15c2e55f8",
@@ -305,7 +305,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:14:35.153607+00:00"
+    "scraped_at": "2026-10-08T06:23:10.442292+00:00"
   },
   {
     "id": "52904ed4a5ceb9e8190cf67b4a2a5adf",
@@ -319,7 +319,7 @@
     "source_name": "Ramanujan Math Society",
     "source_url": "https://www.ramanujanmathsociety.org/",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:06.011449+00:00"
+    "scraped_at": "2026-10-08T06:24:44.749450+00:00"
   },
   {
     "id": "e84b6044d31bd9547e11888b7fc4d589",
@@ -333,7 +333,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:14:35.153312+00:00"
+    "scraped_at": "2026-10-08T06:23:10.441813+00:00"
   },
   {
     "id": "5d2dd1a5e5b8311b99703d7317ff85d8",
@@ -347,7 +347,7 @@
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:17:03.223975+00:00"
+    "scraped_at": "2026-10-08T06:25:40.258435+00:00"
   },
   {
     "id": "540990b5464d8763cb8354334ce03ea6",
@@ -361,7 +361,7 @@
     "source_name": "IMU",
     "source_url": "https://www.mathunion.org",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:17:51.107431+00:00"
+    "scraped_at": "2026-10-08T06:26:33.149767+00:00"
   },
   {
     "id": "ec7a577a701ed1480a8068a2fda2c5d1",
@@ -375,7 +375,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:38.662316+00:00"
+    "scraped_at": "2026-10-08T06:25:17.984789+00:00"
   },
   {
     "id": "264d844b2cc3f78a75c4e84d583eaeb4",
@@ -389,7 +389,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:38.662382+00:00"
+    "scraped_at": "2026-10-08T06:25:17.984902+00:00"
   },
   {
     "id": "6e1690b137b62777a4f48eb1d1710792",
@@ -403,7 +403,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:38.662494+00:00"
+    "scraped_at": "2026-10-08T06:25:17.985100+00:00"
   },
   {
     "id": "54a7c67891a20634c875387b4adf9fa8",
@@ -417,7 +417,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:38.662546+00:00"
+    "scraped_at": "2026-10-08T06:25:17.985189+00:00"
   },
   {
     "id": "38b62e91fb5a9464677f7ab2292feffc",
@@ -431,7 +431,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:38.662601+00:00"
+    "scraped_at": "2026-10-08T06:25:17.985286+00:00"
   },
   {
     "id": "ba4953d7b947ca27179f7ee761361c70",
@@ -445,7 +445,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:38.662656+00:00"
+    "scraped_at": "2026-10-08T06:25:17.985382+00:00"
   },
   {
     "id": "bb89c7ec6b9fb207f6fd560a05e23842",
@@ -459,7 +459,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:38.662713+00:00"
+    "scraped_at": "2026-10-08T06:25:17.985481+00:00"
   },
   {
     "id": "3e63c233f5b96f4a23090ffe8c7b85cf",
@@ -473,7 +473,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:17:50.797733+00:00"
+    "scraped_at": "2026-10-08T06:26:32.997359+00:00"
   },
   {
     "id": "ec59ac4b766d6787f3f3c585a08697a3",
@@ -487,7 +487,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:17:50.797798+00:00"
+    "scraped_at": "2026-10-08T06:26:32.997479+00:00"
   },
   {
     "id": "296cd4ad57d3d59a9f338540f88828bc",
@@ -501,7 +501,7 @@
     "source_name": "ICM 2026",
     "source_url": "https://www.mathunion.org/icm/icm-2026",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:17:49.602229+00:00"
+    "scraped_at": "2026-10-08T06:26:32.109536+00:00"
   },
   {
     "id": "77377557319f98ea836823b981d37c1e",
@@ -515,7 +515,7 @@
     "source_name": "Mathseon Notifications",
     "source_url": "https://mathseon.in/notifications/",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:14:30.409683+00:00"
+    "scraped_at": "2026-10-08T06:23:09.032471+00:00"
   },
   {
     "id": "567308212ab9427b3af5275861080f48",
@@ -529,7 +529,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:14:35.153153+00:00"
+    "scraped_at": "2026-10-08T06:23:10.441556+00:00"
   },
   {
     "id": "71f3cf3edeabaaa1a2894ae112281bb7",
@@ -543,7 +543,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:38.663761+00:00"
+    "scraped_at": "2026-10-08T06:25:17.987313+00:00"
   },
   {
     "id": "75d50e5275eecd0398e9cd9704e4452a",
@@ -557,7 +557,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:38.663820+00:00"
+    "scraped_at": "2026-10-08T06:25:17.987412+00:00"
   },
   {
     "id": "c563e844281761a6a25367a864f34dab",
@@ -571,7 +571,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:38.663878+00:00"
+    "scraped_at": "2026-10-08T06:25:17.987519+00:00"
   },
   {
     "id": "f399c1aad07598210d4d09288455b425",
@@ -585,7 +585,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:38.663944+00:00"
+    "scraped_at": "2026-10-08T06:25:17.987637+00:00"
   },
   {
     "id": "c29e9912d91b02baeb028bdcef07efee",
@@ -599,21 +599,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:16:38.664004+00:00"
-  },
-  {
-    "id": "01d3e19da2276fc65707f3a2a68d9f63",
-    "title": "Mathematical foundations for AI agents in complex environments",
-    "description": "Mathematical foundations for AI agents in complex environments. September 28-October 2, 2026",
-    "url": "https://aimath.org/workshops/upcoming/complexai",
-    "deadline": "2026-10-02",
-    "event_date": "2026-10-02",
-    "location": "World",
-    "category": "Conference",
-    "source_name": "AIM Workshops",
-    "source_url": "https://aimath.org/workshops/upcoming/",
-    "is_new": true,
-    "scraped_at": "2026-10-07T06:14:35.938661+00:00"
+    "scraped_at": "2026-10-08T06:25:17.987738+00:00"
   },
   {
     "id": "1523253950c8e057da8dc68a613e7909",
@@ -627,7 +613,7 @@
     "source_name": "DataCamp Blog",
     "source_url": "https://www.datacamp.com/blog/top-data-science-conferences-for-2022",
     "is_new": true,
-    "scraped_at": "2026-10-07T06:17:26.756958+00:00"
+    "scraped_at": "2026-10-08T06:26:09.317592+00:00"
   },
   {
     "id": "cb128183bda3fcef627c26ccc6a39d59",
@@ -75820,7 +75806,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:14:45.552724+00:00"
   },
   {
@@ -75834,7 +75820,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:14:45.552939+00:00"
   },
   {
@@ -75848,7 +75834,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:14:45.553005+00:00"
   },
   {
@@ -75862,7 +75848,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:14:57.640423+00:00"
   },
   {
@@ -75876,7 +75862,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:14:57.640495+00:00"
   },
   {
@@ -75890,7 +75876,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:14:57.640565+00:00"
   },
   {
@@ -75904,7 +75890,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:14:57.640711+00:00"
   },
   {
@@ -75918,7 +75904,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Alerts India Stat",
     "source_url": "https://www.conferencealerts.in/india/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:14:59.048267+00:00"
   },
   {
@@ -75932,7 +75918,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Alerts India Stat",
     "source_url": "https://www.conferencealerts.in/india/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:14:59.048339+00:00"
   },
   {
@@ -75946,7 +75932,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:16:13.687157+00:00"
   },
   {
@@ -75960,7 +75946,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:17:56.536387+00:00"
   },
   {
@@ -75974,7 +75960,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:17:56.536512+00:00"
   },
   {
@@ -75988,7 +75974,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:17:56.536533+00:00"
   },
   {
@@ -76002,7 +75988,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:17:56.536674+00:00"
   },
   {
@@ -76016,7 +76002,847 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-07T06:17:56.536692+00:00"
+  },
+  {
+    "id": "d1b8b2fa65ea03f17afc46f15034360f",
+    "title": "Interactions between discrete and large topological groups",
+    "description": "*Interactions between discrete and large topological groups. July 19-23, 2027",
+    "url": "https://aimath.org/workshops/upcoming/discreteandlarge",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "AIM Workshops",
+    "source_url": "https://aimath.org/workshops/upcoming/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:23:11.340425+00:00"
+  },
+  {
+    "id": "2d587fd93b422b4ed627913c5f20ba9c",
+    "title": "Valentin Ovsienko",
+    "description": "Valentin Ovsienko",
+    "url": "https://ovsienko.perso.math.cnrs.fr/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:23:21.690383+00:00"
+  },
+  {
+    "id": "48e1573dbd4e2c89652e9cf98a3e07a1",
+    "title": "István Heckenberger",
+    "description": "István Heckenberger",
+    "url": "https://www.uni-marburg.de/en/staff-info?dn=kqb1nhxgnl",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:23:21.690573+00:00"
+  },
+  {
+    "id": "33eedecc8e266da01da6b0117fe2a136",
+    "title": "Necas PDE seminar",
+    "description": "Necas PDE seminar",
+    "url": "https://researchseminars.org/seminar/TuesdayPDE",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:23:21.690759+00:00"
+  },
+  {
+    "id": "0dfd1204b826ccffd7338fa9839dc3be",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2145822",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:23:35.731833+00:00"
+  },
+  {
+    "id": "e7f000913bc3e85bb3e2230bcb85e022",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2145804",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:23:35.731952+00:00"
+  },
+  {
+    "id": "4e1fdaa54e9a68fb090a143a2732e9f2",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2145858",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:23:35.732187+00:00"
+  },
+  {
+    "id": "8ff0581fba23c595c9d842bf8abbcb9f",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2145876",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:23:35.732305+00:00"
+  },
+  {
+    "id": "df3aa7901bb3f1ce54b85ab91760089c",
+    "title": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "description": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "url": "https://www.conferencealerts.in/eventdetail/2158539",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Alerts India Stat",
+    "source_url": "https://www.conferencealerts.in/india/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:23:36.780205+00:00"
+  },
+  {
+    "id": "9aca11f3d8818a173b680a6f9b84fc32",
+    "title": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "description": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "url": "https://www.conferencealerts.in/eventdetail/2158547",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Alerts India Stat",
+    "source_url": "https://www.conferencealerts.in/india/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:23:36.780331+00:00"
+  },
+  {
+    "id": "8aa0140ff8506170e0575d7716c78283",
+    "title": "digital government",
+    "description": "digital government artificial intelligence government innovation digital transformation in public administration",
+    "url": "https://easychair.org/cfp/topic?tid=66809",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.837914+00:00"
+  },
+  {
+    "id": "0ba51d54fef3ec50209ae71e1cba1479",
+    "title": "government innovation",
+    "description": "digital government artificial intelligence government innovation digital transformation in public administration",
+    "url": "https://easychair.org/cfp/topic?tid=684340",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.837997+00:00"
+  },
+  {
+    "id": "5946aaf76596376b2fc3a76e65d7b954",
+    "title": "digital transformation in public administration",
+    "description": "digital government artificial intelligence government innovation digital transformation in public administration",
+    "url": "https://easychair.org/cfp/topic?tid=44126478",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838039+00:00"
+  },
+  {
+    "id": "3d669065793d337d249d13aedfe5d668",
+    "title": "ontology development for ambient systems",
+    "description": "ontology development for ambient systems contextual data and context awareness ontology based iot systems smart homes and cities",
+    "url": "https://easychair.org/cfp/topic?tid=44120554",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838149+00:00"
+  },
+  {
+    "id": "5dc25b1c4c5176e258b43b2c46f7429c",
+    "title": "contextual data and context awareness",
+    "description": "ontology development for ambient systems contextual data and context awareness ontology based iot systems smart homes and cities",
+    "url": "https://easychair.org/cfp/topic?tid=44120555",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838194+00:00"
+  },
+  {
+    "id": "07e31ae025efe306e9b8385b3a9a1a88",
+    "title": "ontology based iot systems",
+    "description": "ontology development for ambient systems contextual data and context awareness ontology based iot systems smart homes and cities",
+    "url": "https://easychair.org/cfp/topic?tid=44120556",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838237+00:00"
+  },
+  {
+    "id": "4b54138abf3c322554c5a6399c64d5e9",
+    "title": "smart homes and cities",
+    "description": "ontology development for ambient systems contextual data and context awareness ontology based iot systems smart homes and cities",
+    "url": "https://easychair.org/cfp/topic?tid=16270237",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838279+00:00"
+  },
+  {
+    "id": "4476f77ebbc546ad56f1e6129af25b03",
+    "title": "business process management",
+    "description": "business process management process mining ai modelling",
+    "url": "https://easychair.org/cfp/topic?tid=2073",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838320+00:00"
+  },
+  {
+    "id": "aa79a3a3e76cd728fbe6ac3359668f11",
+    "title": "Engineering Advances 2026",
+    "description": "Engineering Advances 2026",
+    "url": "https://easychair.org/cfp/engineeringadvances2026",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838386+00:00"
+  },
+  {
+    "id": "d24992790d91430c5846b5bcbe7e1e01",
+    "title": "computer engineering",
+    "description": "engineering materials energy computer engineering",
+    "url": "https://easychair.org/cfp/topic?tid=93027",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838455+00:00"
+  },
+  {
+    "id": "0bb8c4bcad930fc0f01502b48757338e",
+    "title": "ai/gai on education",
+    "description": "ai/gai on education educational technologies vr/ar/mr/xr in education stem/steam education",
+    "url": "https://easychair.org/cfp/topic?tid=44110031",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838538+00:00"
+  },
+  {
+    "id": "6fba0691a06328f3cfae0bf6a862849f",
+    "title": "educational technologies",
+    "description": "ai/gai on education educational technologies vr/ar/mr/xr in education stem/steam education",
+    "url": "https://easychair.org/cfp/topic?tid=395887",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838575+00:00"
+  },
+  {
+    "id": "ac976d09fe80408006643a2c98ad7a59",
+    "title": "vr/ar/mr/xr in education",
+    "description": "ai/gai on education educational technologies vr/ar/mr/xr in education stem/steam education",
+    "url": "https://easychair.org/cfp/topic?tid=44110033",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838612+00:00"
+  },
+  {
+    "id": "e4aabf7c82517578d955fe15221028c4",
+    "title": "stem/steam education",
+    "description": "ai/gai on education educational technologies vr/ar/mr/xr in education stem/steam education",
+    "url": "https://easychair.org/cfp/topic?tid=20065218",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838650+00:00"
+  },
+  {
+    "id": "0a44d367a0088e9f7ca98fbc2f069007",
+    "title": "INTRICATE-SEC-2027",
+    "description": "INTRICATE-SEC-2027",
+    "url": "https://easychair.org/cfp/Intricate-Sec-2027",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838675+00:00"
+  },
+  {
+    "id": "87ec8a4c4bfd892e420adc71dbe5487a",
+    "title": "privacy preserving ai",
+    "description": "privacy preserving ai adversarial machine learning trustworthy and explainable ai intelligent systems security",
+    "url": "https://easychair.org/cfp/topic?tid=21030269",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838719+00:00"
+  },
+  {
+    "id": "1e8daaa6f33fa9f88b20364d1c3ada33",
+    "title": "adversarial machine learning",
+    "description": "privacy preserving ai adversarial machine learning trustworthy and explainable ai intelligent systems security",
+    "url": "https://easychair.org/cfp/topic?tid=729104",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838759+00:00"
+  },
+  {
+    "id": "d1bc48e66219fb0f4085549146f7ccce",
+    "title": "trustworthy and explainable ai",
+    "description": "privacy preserving ai adversarial machine learning trustworthy and explainable ai intelligent systems security",
+    "url": "https://easychair.org/cfp/topic?tid=33928015",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838798+00:00"
+  },
+  {
+    "id": "41a5132682b0dbd500eb521745b85e50",
+    "title": "intelligent systems security",
+    "description": "privacy preserving ai adversarial machine learning trustworthy and explainable ai intelligent systems security",
+    "url": "https://easychair.org/cfp/topic?tid=41520131",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838838+00:00"
+  },
+  {
+    "id": "62927396c21fc056b8f019326cb47767",
+    "title": "representation of switching functions",
+    "description": "representation of switching functions reed muller transform applications implementation in various technologies other related areas",
+    "url": "https://easychair.org/cfp/topic?tid=44097683",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838887+00:00"
+  },
+  {
+    "id": "4677923c12913eae282b9114b00def3c",
+    "title": "reed muller transform applications",
+    "description": "representation of switching functions reed muller transform applications implementation in various technologies other related areas",
+    "url": "https://easychair.org/cfp/topic?tid=44097684",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838928+00:00"
+  },
+  {
+    "id": "4e81fe796ee9d606c342e9c5ac2a9cb6",
+    "title": "implementation in various technologies",
+    "description": "representation of switching functions reed muller transform applications implementation in various technologies other related areas",
+    "url": "https://easychair.org/cfp/topic?tid=44097685",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.838970+00:00"
+  },
+  {
+    "id": "27ca938bc082a351af93a2a2d76f5d7b",
+    "title": "other related areas",
+    "description": "representation of switching functions reed muller transform applications implementation in various technologies other related areas",
+    "url": "https://easychair.org/cfp/topic?tid=22440393",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839010+00:00"
+  },
+  {
+    "id": "9eb28b2fecdad1b6726b57e407bb05a8",
+    "title": "médecine préventive des carnivores domestiques",
+    "description": "médecine préventive des carnivores domestiques urgences canines et félines diagnostic et prise en charge",
+    "url": "https://easychair.org/cfp/topic?tid=44096736",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839060+00:00"
+  },
+  {
+    "id": "3772897f4aba7f5d712a270fa8aefcb4",
+    "title": "urgences canines et félines",
+    "description": "médecine préventive des carnivores domestiques urgences canines et félines diagnostic et prise en charge",
+    "url": "https://easychair.org/cfp/topic?tid=44096737",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839101+00:00"
+  },
+  {
+    "id": "d1afcc6f98cbd500f2afd9243ddaba71",
+    "title": "diagnostic et prise en charge",
+    "description": "médecine préventive des carnivores domestiques urgences canines et félines diagnostic et prise en charge",
+    "url": "https://easychair.org/cfp/topic?tid=44096738",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839140+00:00"
+  },
+  {
+    "id": "621b0399ccab913272e84efdc69a524e",
+    "title": "ai governance and regulation",
+    "description": "ai governance and regulation cybersecurity law compliance data protection privacy digital security and cybercrime",
+    "url": "https://easychair.org/cfp/topic?tid=28041598",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839188+00:00"
+  },
+  {
+    "id": "10f6b8204f904a4097861b8fa3ebcd76",
+    "title": "cybersecurity law compliance",
+    "description": "ai governance and regulation cybersecurity law compliance data protection privacy digital security and cybercrime",
+    "url": "https://easychair.org/cfp/topic?tid=44058563",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839228+00:00"
+  },
+  {
+    "id": "31ce6699e5baaa0c1b63aeba00ff7c5a",
+    "title": "data protection privacy",
+    "description": "ai governance and regulation cybersecurity law compliance data protection privacy digital security and cybercrime",
+    "url": "https://easychair.org/cfp/topic?tid=10824311",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839267+00:00"
+  },
+  {
+    "id": "61aa2ae5dedb310508d2f788f4322b45",
+    "title": "digital security and cybercrime",
+    "description": "ai governance and regulation cybersecurity law compliance data protection privacy digital security and cybercrime",
+    "url": "https://easychair.org/cfp/topic?tid=44058564",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839306+00:00"
+  },
+  {
+    "id": "c5cb13e5d8af71ab72dc901b73302cd9",
+    "title": "privacy enhancing technologies",
+    "description": "privacy enhancing technologies web3 and blockchain security distributed protocols and decentralized infrastructure decentralized intelligence and trustworthy ai",
+    "url": "https://easychair.org/cfp/topic?tid=52830",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839373+00:00"
+  },
+  {
+    "id": "0fb98ed9751ba959fee22375b6bf2db6",
+    "title": "web3 and blockchain security",
+    "description": "privacy enhancing technologies web3 and blockchain security distributed protocols and decentralized infrastructure decentralized intelligence and trustworthy ai",
+    "url": "https://easychair.org/cfp/topic?tid=44115248",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839437+00:00"
+  },
+  {
+    "id": "71288e5d1a542d4f9c07a19f56cc410f",
+    "title": "distributed protocols and decentralized infrastructure",
+    "description": "privacy enhancing technologies web3 and blockchain security distributed protocols and decentralized infrastructure decentralized intelligence and trustworthy ai",
+    "url": "https://easychair.org/cfp/topic?tid=44115249",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839485+00:00"
+  },
+  {
+    "id": "38fe24e4ab36f00f743aa7340fb0dc69",
+    "title": "decentralized intelligence and trustworthy ai",
+    "description": "privacy enhancing technologies web3 and blockchain security distributed protocols and decentralized infrastructure decentralized intelligence and trustworthy ai",
+    "url": "https://easychair.org/cfp/topic?tid=44115250",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839544+00:00"
+  },
+  {
+    "id": "52c9fedd53d002567b4a18eeedb78789",
+    "title": "climate change mitigation",
+    "description": "carbon capture climate change mitigation geological co2 storage co2 utilization",
+    "url": "https://easychair.org/cfp/topic?tid=1181958",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839642+00:00"
+  },
+  {
+    "id": "394aefcceb7bb569e98b0703c7264d35",
+    "title": "geological co2 storage",
+    "description": "carbon capture climate change mitigation geological co2 storage co2 utilization",
+    "url": "https://easychair.org/cfp/topic?tid=6137046",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839677+00:00"
+  },
+  {
+    "id": "2962a3a0fdd9bbe837be48024092fff1",
+    "title": "co2 utilization",
+    "description": "carbon capture climate change mitigation geological co2 storage co2 utilization",
+    "url": "https://easychair.org/cfp/topic?tid=910684",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:10.839711+00:00"
+  },
+  {
+    "id": "597d76c1f378c98789df692d8091be87",
+    "title": "Driving AI impact at scale with Google's Agentic Data Cloud",
+    "description": "Nov 4 • Driving AI impact at scale with Google's Agentic Data Cloud • Online",
+    "url": "https://cloudonair.withgoogle.com/events/trusted-agents-real-outcomes-agentic-data-cloud?utm_source=kdnuggets&utm_medium=display&utm_campaign=FY26-Q4-GLOBAL-STO891-onlineevent-er-agntc-dc-lv-251895&utm_content=kdnuggets&utm_term=kdnuggets",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "KDnuggets Meetings",
+    "source_url": "https://www.kdnuggets.com/meetings/index.html",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:33.461436+00:00"
+  },
+  {
+    "id": "2e52d2d2f020e0c99c31f1bc01529f53",
+    "title": "MLOps World & GenAI Summit 2026",
+    "description": "Nov 17-18 • MLOps World & GenAI Summit 2026 • Austin, TX",
+    "url": "https://mlopsworld.com/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "KDnuggets Meetings",
+    "source_url": "https://www.kdnuggets.com/meetings/index.html",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:33.461802+00:00"
+  },
+  {
+    "id": "ff1961797031bfbecddd6b2b1699cb21",
+    "title": "PyTorch Day Korea 2026",
+    "description": "Nov 21 • PyTorch Day Korea 2026 • Seoul, South Korea",
+    "url": "https://pytorch.org/events/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "KDnuggets Meetings",
+    "source_url": "https://www.kdnuggets.com/meetings/index.html",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:33.461839+00:00"
+  },
+  {
+    "id": "375dd6d9309e856e5c19093720fb89f8",
+    "title": "Build It Summit",
+    "description": "Dec 1-3 • Build It Summit • France",
+    "url": "https://builditsummit.com",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "KDnuggets Meetings",
+    "source_url": "https://www.kdnuggets.com/meetings/index.html",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:33.461908+00:00"
+  },
+  {
+    "id": "768ce97a20ca625dc26b70e004b8ff45",
+    "title": "PyTorch Day Japan 2026",
+    "description": "Dec 10 • PyTorch Day Japan 2026 • Tokyo, Japan",
+    "url": "https://events.linuxfoundation.org/pytorch-day-japan/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "KDnuggets Meetings",
+    "source_url": "https://www.kdnuggets.com/meetings/index.html",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:33.462074+00:00"
+  },
+  {
+    "id": "88499472796c4ef939984c6e184d0dec",
+    "title": "International Conference on Data Science & Engineering (ICDSE 2027)",
+    "description": "Jan 6-8 • International Conference on Data Science & Engineering (ICDSE 2027) • Kochi, India",
+    "url": "https://icdse.cusat.ac.in/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "KDnuggets Meetings",
+    "source_url": "https://www.kdnuggets.com/meetings/index.html",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:33.462151+00:00"
+  },
+  {
+    "id": "7f274be7762286cc82a5c343483a1aa4",
+    "title": "ISDIA 2027 – Trustworthy AI",
+    "description": "Jan 9-10 • ISDIA 2027 – Trustworthy AI • Dubai, UAE",
+    "url": "https://www.isdia.org/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "KDnuggets Meetings",
+    "source_url": "https://www.kdnuggets.com/meetings/index.html",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:33.462187+00:00"
+  },
+  {
+    "id": "77500c8836cc967c80d0cd17c3f0a5ce",
+    "title": "AHM Statement on OpenAI’s October 6 Release of Mathematical Documents",
+    "description": "AHM Statement on OpenAI’s October 6 Release of Mathematical Documents",
+    "url": "https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:37.401046+00:00"
+  },
+  {
+    "id": "c36b9384c5c612cc799a3cafc6055759",
+    "title": "Association for Human Mathematics",
+    "description": "7 October, 2026 in guest blog, opinion | Tags: AI, Association for Human Mathematics | by Terence Tao | 20 comments",
+    "url": "https://terrytao.wordpress.com/tag/association-for-human-mathematics/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:37.401152+00:00"
+  },
+  {
+    "id": "04f8f201fc5f8f96514ab7c2f8b11f3c",
+    "title": "their statements page",
+    "description": "[This is a guest post by the Association for Human Mathematics, reposted from their statements page. This blog post was initially written in a different file format and converted using AI. — T.]",
+    "url": "https://www.ahmath.org/statements",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:37.401370+00:00"
+  },
+  {
+    "id": "ff158f2fa48242d5e91a2257f826b1f6",
+    "title": "Read the rest of this entry »",
+    "description": "Read the rest of this entry »",
+    "url": "https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/#more-18389",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:37.401405+00:00"
+  },
+  {
+    "id": "d067f0a0999c0e0fc81b666c183f5dde",
+    "title": "The barriers of perception",
+    "description": "The barriers of perception",
+    "url": "https://terrytao.wordpress.com/2026/10/07/the-barriers-of-perception/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:37.401434+00:00"
+  },
+  {
+    "id": "508d53072a83b69d59e1967f7c4f00f1",
+    "title": "Read the rest of this entry »",
+    "description": "Read the rest of this entry »",
+    "url": "https://terrytao.wordpress.com/2026/10/07/the-barriers-of-perception/#more-18364",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-08T06:26:37.401639+00:00"
   }
 ]
