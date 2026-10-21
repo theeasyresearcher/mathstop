@@ -11,7 +11,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:03:50.015790+00:00"
+    "scraped_at": "2026-10-21T05:05:05.139342+00:00"
   },
   {
     "id": "ceda61484e2b3e073cb8a9b15c2e55f8",
@@ -25,7 +25,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:03:50.014567+00:00"
+    "scraped_at": "2026-10-21T05:05:05.138763+00:00"
   },
   {
     "id": "52904ed4a5ceb9e8190cf67b4a2a5adf",
@@ -39,7 +39,7 @@
     "source_name": "Ramanujan Math Society",
     "source_url": "https://www.ramanujanmathsociety.org/",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:05:21.852497+00:00"
+    "scraped_at": "2026-10-21T05:06:42.466672+00:00"
   },
   {
     "id": "e84b6044d31bd9547e11888b7fc4d589",
@@ -53,7 +53,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:03:50.014004+00:00"
+    "scraped_at": "2026-10-21T05:05:05.138496+00:00"
   },
   {
     "id": "5d2dd1a5e5b8311b99703d7317ff85d8",
@@ -67,7 +67,7 @@
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:31.940728+00:00"
+    "scraped_at": "2026-10-21T05:07:35.503554+00:00"
   },
   {
     "id": "540990b5464d8763cb8354334ce03ea6",
@@ -81,7 +81,35 @@
     "source_name": "IMU",
     "source_url": "https://www.mathunion.org",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:07:18.646408+00:00"
+    "scraped_at": "2026-10-21T05:08:27.095007+00:00"
+  },
+  {
+    "id": "967b00b2c4b3c2d7c92e1a7eb4a918bc",
+    "title": "(Deadline extended: June 30, 2026) WSC 2027, Invited Paper Sessions – Open for Proposals!",
+    "description": "(Deadline extended: June 30, 2026) WSC 2027, Invited Paper Sessions – Open for Proposals!",
+    "url": "https://iasc-isi.org/2026/06/19/wsc-2027-invited-paper-sessions-open-for-proposals/",
+    "deadline": "2026-06-30",
+    "event_date": "2026-06-30",
+    "location": "India",
+    "category": "Conference",
+    "source_name": "IASC-ISI",
+    "source_url": "https://iasc-isi.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:07:17.004653+00:00"
+  },
+  {
+    "id": "205867537c38035581b2a5ee5f6a7ec7",
+    "title": "Deadline Extended to June 30, 2026. LACSC-TIES-EnviBayes-EnvrASA 2026",
+    "description": "Deadline Extended to June 30, 2026. LACSC-TIES-EnviBayes-EnvrASA 2026",
+    "url": "https://iasc-isi.org/2026/06/03/deadline-extended-to-june-30-2026-lacsc-ties-envibayes-envrasa-2026/",
+    "deadline": "2026-06-30",
+    "event_date": "2026-06-30",
+    "location": "India",
+    "category": "Conference",
+    "source_name": "IASC-ISI",
+    "source_url": "https://iasc-isi.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:07:17.004750+00:00"
   },
   {
     "id": "de5023725d257742229dbe7a8319bd85",
@@ -95,7 +123,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:13.631609+00:00"
+    "scraped_at": "2026-10-21T05:07:17.602442+00:00"
   },
   {
     "id": "076069e0d48ed84aadc044d303e11075",
@@ -109,7 +137,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:13.631798+00:00"
+    "scraped_at": "2026-10-21T05:07:17.602509+00:00"
   },
   {
     "id": "c1932e273d39e036b72cf58b65ded77c",
@@ -123,7 +151,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:13.631921+00:00"
+    "scraped_at": "2026-10-21T05:07:17.602565+00:00"
   },
   {
     "id": "cf8600b7dac00cadde35d1e5506cc4d8",
@@ -137,7 +165,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:13.632070+00:00"
+    "scraped_at": "2026-10-21T05:07:17.602622+00:00"
   },
   {
     "id": "5ba453ef954851d459e5ede27c9fbb91",
@@ -151,7 +179,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:13.632190+00:00"
+    "scraped_at": "2026-10-21T05:07:17.602673+00:00"
   },
   {
     "id": "e37df52648e1246472b1081be6e873f0",
@@ -165,7 +193,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:13.632316+00:00"
+    "scraped_at": "2026-10-21T05:07:17.602731+00:00"
   },
   {
     "id": "4e41ffe091e912bb3384d2e631d5e503",
@@ -179,7 +207,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:13.632440+00:00"
+    "scraped_at": "2026-10-21T05:07:17.602787+00:00"
   },
   {
     "id": "8b45444d706f32b0fef98c69a907df12",
@@ -193,7 +221,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:13.632568+00:00"
+    "scraped_at": "2026-10-21T05:07:17.602844+00:00"
   },
   {
     "id": "3e63c233f5b96f4a23090ffe8c7b85cf",
@@ -207,7 +235,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:07:18.285687+00:00"
+    "scraped_at": "2026-10-21T05:08:26.808181+00:00"
   },
   {
     "id": "ec59ac4b766d6787f3f3c585a08697a3",
@@ -221,7 +249,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:07:18.285824+00:00"
+    "scraped_at": "2026-10-21T05:08:26.808256+00:00"
   },
   {
     "id": "296cd4ad57d3d59a9f338540f88828bc",
@@ -235,12 +263,12 @@
     "source_name": "ICM 2026",
     "source_url": "https://www.mathunion.org/icm/icm-2026",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:07:16.743956+00:00"
+    "scraped_at": "2026-10-21T05:08:25.605823+00:00"
   },
   {
     "id": "77377557319f98ea836823b981d37c1e",
-    "title": "KSET Exam Date Published Kerala SET July 2026 is scheduled to be conducted on 2 August 2026 (Tentative). 3 months ago",
-    "description": "KSET Exam Date Published Kerala SET July 2026 is scheduled to be conducted on 2 August 2026 (Tentative). 3 months ago",
+    "title": "KSET Exam Date Published Kerala SET July 2026 is scheduled to be conducted on 2 August 2026 (Tentative). 4 months ago",
+    "description": "KSET Exam Date Published Kerala SET July 2026 is scheduled to be conducted on 2 August 2026 (Tentative). 4 months ago",
     "url": "https://lbsedp.lbscentre.in/setjul26/",
     "deadline": "2026-08-02",
     "event_date": "2026-08-02",
@@ -249,7 +277,7 @@
     "source_name": "Mathseon Notifications",
     "source_url": "https://mathseon.in/notifications/",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:03:48.663604+00:00"
+    "scraped_at": "2026-10-21T05:05:02.975934+00:00"
   },
   {
     "id": "567308212ab9427b3af5275861080f48",
@@ -263,7 +291,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:03:50.013724+00:00"
+    "scraped_at": "2026-10-21T05:05:05.138343+00:00"
   },
   {
     "id": "e43a26494d60284065f28d5bc07ad910",
@@ -277,7 +305,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:13.634898+00:00"
+    "scraped_at": "2026-10-21T05:07:17.603961+00:00"
   },
   {
     "id": "26b08f896c021d9f969e2fdb75bb4c85",
@@ -291,7 +319,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:13.635051+00:00"
+    "scraped_at": "2026-10-21T05:07:17.604015+00:00"
   },
   {
     "id": "7d5f0583d37cf090f5b751558df5858a",
@@ -305,7 +333,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:13.635196+00:00"
+    "scraped_at": "2026-10-21T05:07:17.604076+00:00"
   },
   {
     "id": "fccfd6ac5dd150c7a1a6f7dc1f14211c",
@@ -319,7 +347,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:13.635323+00:00"
+    "scraped_at": "2026-10-21T05:07:17.604143+00:00"
   },
   {
     "id": "1a44b557b5bdb9de79f309062ed30a32",
@@ -333,7 +361,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:13.635466+00:00"
+    "scraped_at": "2026-10-21T05:07:17.604211+00:00"
   },
   {
     "id": "c9d4b95ca6ee34ac31022bf99b375c10",
@@ -347,7 +375,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:13.635598+00:00"
+    "scraped_at": "2026-10-21T05:07:17.604274+00:00"
   },
   {
     "id": "1523253950c8e057da8dc68a613e7909",
@@ -361,21 +389,7 @@
     "source_name": "DataCamp Blog",
     "source_url": "https://www.datacamp.com/blog/top-data-science-conferences-for-2022",
     "is_new": true,
-    "scraped_at": "2026-10-20T05:06:53.160100+00:00"
-  },
-  {
-    "id": "a68fc9eb7cfbb72c3741a33590106306",
-    "title": "Skip to main content",
-    "description": "Skip to main content Toggle navigation Home Contact Us Sign up to our Mailing List Sign In Search Main menu About us LMS Mission and Objectives What We Do LMS Strategy 2023-2028 Equity, Diversity and Inclusion Global Governance Council Committees Nominating Committee Annual Reports LMS Elections Royal Charter History LMS timeline Staff LMS Privacy Notice Membership Paying your Subscription How to…",
-    "url": "https://www.lms.ac.uk#main-content",
-    "deadline": "2026-10-19",
-    "event_date": "2026-10-19",
-    "location": "World",
-    "category": "Workshop / School",
-    "source_name": "LMS",
-    "source_url": "https://www.lms.ac.uk",
-    "is_new": false,
-    "scraped_at": "2026-10-17T04:47:55.120484+00:00"
+    "scraped_at": "2026-10-21T05:08:02.289893+00:00"
   },
   {
     "id": "cb128183bda3fcef627c26ccc6a39d59",
@@ -432,6 +446,20 @@
     "source_url": "https://www.imsaindia.org/",
     "is_new": false,
     "scraped_at": "2026-10-09T06:25:30.820525+00:00"
+  },
+  {
+    "id": "a68fc9eb7cfbb72c3741a33590106306",
+    "title": "Skip to main content",
+    "description": "Skip to main content Toggle navigation Home Contact Us Sign up to our Mailing List Sign In Search Main menu About us LMS Mission and Objectives What We Do LMS Strategy 2023-2028 Equity, Diversity and Inclusion Global Governance Council Committees Nominating Committee Annual Reports LMS Elections Royal Charter History LMS timeline Staff LMS Privacy Notice Membership Paying your Subscription How to…",
+    "url": "https://www.lms.ac.uk#main-content",
+    "deadline": "2027-01-18",
+    "event_date": "2027-01-18",
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "LMS",
+    "source_url": "https://www.lms.ac.uk",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:08:28.572098+00:00"
   },
   {
     "id": "61ad121b9e67e5bcebc26981acef2220",
@@ -82778,7 +82806,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:04:36.907148+00:00"
   },
   {
@@ -82792,7 +82820,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:04:36.907317+00:00"
   },
   {
@@ -82806,7 +82834,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:04:36.907486+00:00"
   },
   {
@@ -82820,7 +82848,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:04:36.907652+00:00"
   },
   {
@@ -82834,7 +82862,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Alerts India Stat",
     "source_url": "https://www.conferencealerts.in/india/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:04:37.811857+00:00"
   },
   {
@@ -82848,7 +82876,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Alerts India Stat",
     "source_url": "https://www.conferencealerts.in/india/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:04:37.812041+00:00"
   },
   {
@@ -82862,7 +82890,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.631351+00:00"
   },
   {
@@ -82876,7 +82904,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.631429+00:00"
   },
   {
@@ -82890,7 +82918,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.632653+00:00"
   },
   {
@@ -82904,7 +82932,7 @@
     "category": "Exam / Notification",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.632712+00:00"
   },
   {
@@ -82918,7 +82946,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.632771+00:00"
   },
   {
@@ -82932,7 +82960,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.632831+00:00"
   },
   {
@@ -82946,7 +82974,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.632885+00:00"
   },
   {
@@ -82960,7 +82988,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.632944+00:00"
   },
   {
@@ -82974,7 +83002,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.632999+00:00"
   },
   {
@@ -82988,7 +83016,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.633084+00:00"
   },
   {
@@ -83002,7 +83030,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.633150+00:00"
   },
   {
@@ -83016,7 +83044,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.633209+00:00"
   },
   {
@@ -83030,7 +83058,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.633272+00:00"
   },
   {
@@ -83044,7 +83072,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.633333+00:00"
   },
   {
@@ -83058,7 +83086,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.633391+00:00"
   },
   {
@@ -83072,7 +83100,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.633521+00:00"
   },
   {
@@ -83086,7 +83114,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.633592+00:00"
   },
   {
@@ -83100,7 +83128,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.633648+00:00"
   },
   {
@@ -83114,7 +83142,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.633700+00:00"
   },
   {
@@ -83128,7 +83156,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.633829+00:00"
   },
   {
@@ -83142,7 +83170,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.633903+00:00"
   },
   {
@@ -83156,7 +83184,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.633969+00:00"
   },
   {
@@ -83170,7 +83198,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.634065+00:00"
   },
   {
@@ -83184,7 +83212,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.634132+00:00"
   },
   {
@@ -83198,7 +83226,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.634200+00:00"
   },
   {
@@ -83212,7 +83240,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.634316+00:00"
   },
   {
@@ -83226,7 +83254,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.634422+00:00"
   },
   {
@@ -83240,7 +83268,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.634524+00:00"
   },
   {
@@ -83254,7 +83282,7 @@
     "category": "Conference",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.635675+00:00"
   },
   {
@@ -83268,7 +83296,7 @@
     "category": "Workshop / School",
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:13.635738+00:00"
   },
   {
@@ -83282,7 +83310,7 @@
     "category": "Conference",
     "source_name": "WikiCFP Machine Learning",
     "source_url": "http://www.wikicfp.com/cfp/call?conference=machine+learning",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:17.136237+00:00"
   },
   {
@@ -83296,7 +83324,7 @@
     "category": "Conference",
     "source_name": "WikiCFP Machine Learning",
     "source_url": "http://www.wikicfp.com/cfp/call?conference=machine+learning",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:17.136330+00:00"
   },
   {
@@ -83310,7 +83338,7 @@
     "category": "Exam / Notification",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:24.255363+00:00"
   },
   {
@@ -83324,7 +83352,7 @@
     "category": "Workshop / School",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:24.259118+00:00"
   },
   {
@@ -83338,7 +83366,7 @@
     "category": "Workshop / School",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:24.262872+00:00"
   },
   {
@@ -83352,7 +83380,7 @@
     "category": "Workshop / School",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:24.266640+00:00"
   },
   {
@@ -83366,7 +83394,7 @@
     "category": "Workshop / School",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:24.270433+00:00"
   },
   {
@@ -83380,7 +83408,7 @@
     "category": "Workshop / School",
     "source_name": "IntlConferenceAlerts India",
     "source_url": "https://internationalconferencealerts.com/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:37.208146+00:00"
   },
   {
@@ -83394,7 +83422,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.945526+00:00"
   },
   {
@@ -83408,7 +83436,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.945573+00:00"
   },
   {
@@ -83422,7 +83450,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.945620+00:00"
   },
   {
@@ -83436,7 +83464,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.945705+00:00"
   },
   {
@@ -83450,7 +83478,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.945755+00:00"
   },
   {
@@ -83464,7 +83492,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.945803+00:00"
   },
   {
@@ -83478,7 +83506,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.945852+00:00"
   },
   {
@@ -83492,7 +83520,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.945923+00:00"
   },
   {
@@ -83506,7 +83534,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.945960+00:00"
   },
   {
@@ -83520,7 +83548,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.946135+00:00"
   },
   {
@@ -83534,7 +83562,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.946183+00:00"
   },
   {
@@ -83548,7 +83576,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.946232+00:00"
   },
   {
@@ -83562,7 +83590,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.946279+00:00"
   },
   {
@@ -83576,7 +83604,7 @@
     "category": "Workshop / School",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.946371+00:00"
   },
   {
@@ -83590,7 +83618,7 @@
     "category": "Workshop / School",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.946424+00:00"
   },
   {
@@ -83604,7 +83632,7 @@
     "category": "Workshop / School",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.946476+00:00"
   },
   {
@@ -83618,7 +83646,7 @@
     "category": "Workshop / School",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:06:54.946526+00:00"
   },
   {
@@ -83632,7 +83660,7 @@
     "category": "Workshop / School",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.254129+00:00"
   },
   {
@@ -83646,7 +83674,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.254410+00:00"
   },
   {
@@ -83660,7 +83688,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.254508+00:00"
   },
   {
@@ -83674,7 +83702,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.254600+00:00"
   },
   {
@@ -83688,7 +83716,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.254695+00:00"
   },
   {
@@ -83702,7 +83730,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.255393+00:00"
   },
   {
@@ -83716,7 +83744,7 @@
     "category": "Exam / Notification",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.256094+00:00"
   },
   {
@@ -83730,7 +83758,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.256304+00:00"
   },
   {
@@ -83744,7 +83772,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.256484+00:00"
   },
   {
@@ -83758,7 +83786,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.256731+00:00"
   },
   {
@@ -83772,7 +83800,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.256773+00:00"
   },
   {
@@ -83786,7 +83814,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.256807+00:00"
   },
   {
@@ -83800,7 +83828,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.257048+00:00"
   },
   {
@@ -83814,7 +83842,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.257162+00:00"
   },
   {
@@ -83828,7 +83856,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.257631+00:00"
   },
   {
@@ -83842,7 +83870,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.257845+00:00"
   },
   {
@@ -83856,7 +83884,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.258077+00:00"
   },
   {
@@ -83870,7 +83898,413 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-20T05:07:44.258239+00:00"
+  },
+  {
+    "id": "bb0f7af3cade267d9b524fc26e1dd119",
+    "title": "[email protected]",
+    "description": "contact us at [email protected]",
+    "url": "https://dataevents.co/cdn-cgi/l/email-protection#4b2824253f2a283f0b2f2a3f2a2e3d2e253f38652824",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "DataEvents.co ML",
+    "source_url": "https://dataevents.co/ml",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:05:07.642120+00:00"
+  },
+  {
+    "id": "edb95f5a60c539dfc09d3dd8367fa0de",
+    "title": "Arithmetic algebraic geometry in Hangzhou",
+    "description": "Arithmetic algebraic geometry in Hangzhou",
+    "url": "https://polvanhoften2.github.io/AAGHZ2026.html",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:05:13.807880+00:00"
+  },
+  {
+    "id": "99d7154995dc6522df154bceedd12363",
+    "title": "Google calendar",
+    "description": "Google calendar iCalendar .ics",
+    "url": "https://www.google.com/calendar/event?action=TEMPLATE&text=Arithmetic+algebraic+geometry+in+Hangzhou&dates=20261102/20261107&details=https://polvanhoften2.github.io/AAGHZ2026.html&location=Hangzhou%2C+Zhejiang+%3B+China",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:05:13.807897+00:00"
+  },
+  {
+    "id": "3d037f4ba1b5f63f897413bfc45ccb43",
+    "title": "INTERNATIONAL CONFERENCE OF Settat on operator algebras and applications",
+    "description": "INTERNATIONAL CONFERENCE OF Settat on operator algebras and applications",
+    "url": "https://sites.google.com/view/icsoaa-2026/home.",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:05:13.807980+00:00"
+  },
+  {
+    "id": "bcc1b1e351cd69ff3483774773b7e2b3",
+    "title": "Google calendar",
+    "description": "Google calendar iCalendar .ics",
+    "url": "https://www.google.com/calendar/event?action=TEMPLATE&text=INTERNATIONAL+CONFERENCE+OF+Settat+on+operator+algebras+and+applications&dates=20261103/20261108&details=https://sites.google.com/view/icsoaa-2026/home.&location=Settat%3B+Morocco",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:05:13.807996+00:00"
+  },
+  {
+    "id": "03f35925c6496435efe6ce53ffc63b56",
+    "title": "Nearby Lagrangians and Tubes",
+    "description": "Nearby Lagrangians and Tubes",
+    "url": "https://researchseminars.org/seminar/nearbylagrangiansandtubes",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:05:21.128896+00:00"
+  },
+  {
+    "id": "09425f77f3656c252899baf34309488b",
+    "title": "Anusha Krishnan",
+    "description": "Anusha Krishnan",
+    "url": "https://www.math.iitb.ac.in/~anushamk/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:05:21.128977+00:00"
+  },
+  {
+    "id": "71a8f81ca6b5d73f0a0e4ef358f89025",
+    "title": "Topology and Geometry Seminar (Texas, Kansas)",
+    "description": "Topology and Geometry Seminar (Texas, Kansas)",
+    "url": "https://researchseminars.org/seminar/tandg",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:05:21.128995+00:00"
+  },
+  {
+    "id": "a5d3dc3dcbac036babff39168f39e3fe",
+    "title": "Raffaele Vitolo",
+    "description": "Raffaele Vitolo",
+    "url": "https://poincare.unisalento.it/vitolo/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:05:21.129075+00:00"
+  },
+  {
+    "id": "1592d3df467f9b91f656aaa21c83211b",
+    "title": "Matteo Pagliero",
+    "description": "Matteo Pagliero",
+    "url": "https://matteo-pagliero.github.io",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:05:21.129161+00:00"
+  },
+  {
+    "id": "1d2010eeb450562ed21449c3c3ee1f51",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2146398",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:05:32.977978+00:00"
+  },
+  {
+    "id": "ba005a87d61f3194f86c28c003c29898",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2146380",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:05:32.978049+00:00"
+  },
+  {
+    "id": "badf0be6452db54e258f2082f4227da2",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2146362",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:05:32.978121+00:00"
+  },
+  {
+    "id": "a8b51385b9f3ab11089e0a0c115500c7",
+    "title": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "description": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "url": "https://www.conferencealerts.in/eventdetail/2137730",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Alerts India Stat",
+    "source_url": "https://www.conferencealerts.in/india/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:05:34.005874+00:00"
+  },
+  {
+    "id": "5dd7648e1ec982d55151c04ba1ea3b08",
+    "title": "International Conference on Applied Statistics, Probability, and Data Analytics Pune, India 24 Oct",
+    "description": "International Conference on Statistical Quality Control and Industrial Applications Mumbai, India 24 Oct International Conference on Finite Element Analysis in Applied Sciences Bhubaneswar, India 24 Oct National Conference on Applied Physics and Mathematics Mumbai, India 24 Oct International Conference on Finite Element Methods and Applications Visakhapatnam, India 24 Oct International Conference…",
+    "url": "https://conferencenext.com/event/101280493",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:07:28.134952+00:00"
+  },
+  {
+    "id": "706c69dc648c135afa16d599b42dbb01",
+    "title": "International Conference on Applied Mathematical Modeling in Engineering Design Coimbatore, India 24 Oct",
+    "description": "International Conference on Statistical Quality Control and Industrial Applications Mumbai, India 24 Oct International Conference on Finite Element Analysis in Applied Sciences Bhubaneswar, India 24 Oct National Conference on Applied Physics and Mathematics Mumbai, India 24 Oct International Conference on Finite Element Methods and Applications Visakhapatnam, India 24 Oct International Conference…",
+    "url": "https://conferencenext.com/event/101276548",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:07:28.139257+00:00"
+  },
+  {
+    "id": "9ac55b021d8e5278d70282cad74a0d28",
+    "title": "An experimental AI-math challenge: using tenth discriminant bounds to explore arguments ruling out Siegel zeroes",
+    "description": "An experimental AI-math challenge: using tenth discriminant bounds to explore arguments ruling out Siegel zeroes",
+    "url": "https://terrytao.wordpress.com/2026/10/20/an-experimental-ai-math-challenge-using-tenth-discriminant-bounds-to-explore-arguments-ruling-out-siegel-zeroes/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:08:33.152700+00:00"
+  },
+  {
+    "id": "702643d5e3365fbd79b65e52e08070e1",
+    "title": "Deuring-Heilbronn repulsion",
+    "description": "20 October, 2026 in math.NT, polymath | Tags: AI, class number formula, Deuring-Heilbronn repulsion, Math 2.0, Siegel's theorem, tenth discriminant | by Terence Tao | 26 comments",
+    "url": "https://terrytao.wordpress.com/tag/deuring-heilbronn-repulsion/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:08:33.152783+00:00"
+  },
+  {
+    "id": "5cd970acd8fbdec14aa0873d61a4f0b0",
+    "title": "tenth discriminant",
+    "description": "20 October, 2026 in math.NT, polymath | Tags: AI, class number formula, Deuring-Heilbronn repulsion, Math 2.0, Siegel's theorem, tenth discriminant | by Terence Tao | 26 comments",
+    "url": "https://terrytao.wordpress.com/tag/tenth-discriminant/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:08:33.152852+00:00"
+  },
+  {
+    "id": "14b786f1e203a620e71b69a176c1a79e",
+    "title": "this survey of Shafarevich",
+    "description": "There is a well-known connection between Landau–Siegel zeroes and the tenth discriminant problem, which I will briefly recall here; an in-depth discussion on this problem can be found in this survey of Shafarevich. As far back as the work of Gauss, it was observed that there were nine discriminants whose rings of integers for the associated quadratic field enjoyed unique factorization, namely",
+    "url": "https://www.ams.org/journals/spmj/2014-25-04/S1061-0022-2014-01312-X/S1061-0022-2014-01312-X.pdf",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:08:33.153043+00:00"
+  },
+  {
+    "id": "d417db0fa6333ea66d1f862304b51a2e",
+    "title": "Heegner numbers",
+    "description": "In the spirit of my recent “Math 2.0” talk on new ways to use AI assistance to enhance the human understanding of mathematics, rather than substitute for it, I am using this post to propose an experimental challenge, inspired by the recent activity around excluding Landau–Siegel zeroes, as discussed in this previous post. There is a well-known connection between Landau–Siegel zeroes and the tenth…",
+    "url": "https://en.wikipedia.org/wiki/Heegner_number",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:08:33.154306+00:00"
+  },
+  {
+    "id": "f108efa6a507eaf926db469a4add4fbc",
+    "title": "work of Heilbronn and Linfoot in 1934",
+    "description": "Prior to Heegner’s solution was the work of Heilbronn and Linfoot in 1934, who used what we now call the Deuring–Heilbronn repulsion phenomenon to show that the existence of a tenth discriminant in the above list can be used to “repel” any further such discriminants, so that there was at most one further Heegner number beyond the nine already known. However, this argument was ineffective: no uppe…",
+    "url": "https://doi.org/10.1093/qmath/os-5.1.293",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:08:33.154378+00:00"
+  },
+  {
+    "id": "f269db544c36914e31b9a799e39c4591",
+    "title": "class number formula",
+    "description": "There is a close connection to Landau–Siegel zeroes: if is a Heegner number, and is the quadratic character associated to this quadratic field, then the class number formula gives , and with a bit more work one can produce a Landau–Siegel zero with . For sufficiently large , this is inconsistent with Siegel’s theorem; but the standard proofs of this theorem also relied on the repulsion phenomenon…",
+    "url": "https://en.wikipedia.org/wiki/Class_number_formula",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:08:33.154549+00:00"
+  },
+  {
+    "id": "379e5fad09bacfcee1c2935fb2cef330",
+    "title": "Siegel’s theorem",
+    "description": "There is a close connection to Landau–Siegel zeroes: if is a Heegner number, and is the quadratic character associated to this quadratic field, then the class number formula gives , and with a bit more work one can produce a Landau–Siegel zero with . For sufficiently large , this is inconsistent with Siegel’s theorem; but the standard proofs of this theorem also relied on the repulsion phenomenon…",
+    "url": "https://en.wikipedia.org/wiki/Siegel_zero#Landau%E2%80%93Siegel_estimates",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:08:33.154650+00:00"
+  },
+  {
+    "id": "e703b331db8afcf2e7c049773795a90e",
+    "title": "followup work of Oesterlé",
+    "description": "There is a close connection to Landau–Siegel zeroes: if is a Heegner number, and is the quadratic character associated to this quadratic field, then the class number formula gives , and with a bit more work one can produce a Landau–Siegel zero with . For sufficiently large , this is inconsistent with Siegel’s theorem; but the standard proofs of this theorem also relied on the repulsion phenomenon…",
+    "url": "https://numdam.org/item/SB_1983-1984__26__309_0/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:08:33.154753+00:00"
+  },
+  {
+    "id": "48c4077cf9e84156ccc017298ad7b24e",
+    "title": "Gross and Zagier",
+    "description": "There is a close connection to Landau–Siegel zeroes: if is a Heegner number, and is the quadratic character associated to this quadratic field, then the class number formula gives , and with a bit more work one can produce a Landau–Siegel zero with . For sufficiently large , this is inconsistent with Siegel’s theorem; but the standard proofs of this theorem also relied on the repulsion phenomenon…",
+    "url": "https://zbmath.org/0538.14023",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:08:33.154851+00:00"
+  },
+  {
+    "id": "1d62b181c3b4cb719d8eb265370a37ab",
+    "title": "elliptic curve of Brumer and Kramer",
+    "description": "There is a close connection to Landau–Siegel zeroes: if is a Heegner number, and is the quadratic character associated to this quadratic field, then the class number formula gives , and with a bit more work one can produce a Landau–Siegel zero with . For sufficiently large , this is inconsistent with Siegel’s theorem; but the standard proofs of this theorem also relied on the repulsion phenomenon…",
+    "url": "https://projecteuclid.org/journals/duke-mathematical-journal/volume-44/issue-4/The-rank-of-elliptic-curves/10.1215/S0012-7094-77-04431-3.full",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:08:33.154951+00:00"
+  },
+  {
+    "id": "fae8c9abc289dc715fd1ab7d456b8c29",
+    "title": "this survey of Goldfeld",
+    "description": "There is a close connection to Landau–Siegel zeroes: if is a Heegner number, and is the quadratic character associated to this quadratic field, then the class number formula gives , and with a bit more work one can produce a Landau–Siegel zero with . For sufficiently large , this is inconsistent with Siegel’s theorem; but the standard proofs of this theorem also relied on the repulsion phenomenon…",
+    "url": "https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-13/issue-1/Gauss-class-number-problem-for-imaginary-quadratic-fields/bams/1183552617.pdf",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:08:33.155051+00:00"
+  },
+  {
+    "id": "9f2ab1298c33b8c4fbfde88bca97f111",
+    "title": "João Pedro Ramos",
+    "description": "[This is a guest post by Lukas Liehr, João Pedro Ramos and Mitchell Taylor – T.]",
+    "url": "https://sites.google.com/view/gionnoramos/home",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-21T05:08:33.156855+00:00"
   }
 ]
