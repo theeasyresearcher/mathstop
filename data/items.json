@@ -11,7 +11,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:06:56.282764+00:00"
+    "scraped_at": "2026-10-23T05:06:15.617938+00:00"
   },
   {
     "id": "ceda61484e2b3e073cb8a9b15c2e55f8",
@@ -25,7 +25,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:06:56.282008+00:00"
+    "scraped_at": "2026-10-23T05:06:15.616776+00:00"
   },
   {
     "id": "52904ed4a5ceb9e8190cf67b4a2a5adf",
@@ -39,7 +39,7 @@
     "source_name": "Ramanujan Math Society",
     "source_url": "https://www.ramanujanmathsociety.org/",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:08:30.002401+00:00"
+    "scraped_at": "2026-10-23T05:07:48.673026+00:00"
   },
   {
     "id": "e84b6044d31bd9547e11888b7fc4d589",
@@ -53,13 +53,13 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:06:56.281644+00:00"
+    "scraped_at": "2026-10-23T05:06:15.616108+00:00"
   },
   {
-    "id": "5d2dd1a5e5b8311b99703d7317ff85d8",
+    "id": "37e1dd1ca28c4f4cbfa52793335fb259",
     "title": "Skip to content",
-    "description": "Skip to content Olympiads Homi Bhabha Centre for Science Education MENUMENUAbout Olympiads StagesPerformancePeopleInformation BrochuresFundingInfosys Award Function Infosys Award Function 2025Infosys Award Function 2024Infosys Award Function 2023Infosys Award Function 2022Infosys Award Function 2021Infosys Award Function 2019Infosys Award Function 2018Infosys Awards Function 2017 Media Coverage O…",
-    "url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/#content",
+    "description": "Skip to content HomeAbout Olympiads StagesPeopleInformation BrochuresFundingInfosys Award Function Infosys Award Function 2025Infosys Award Function 2024Infosys Award Function 2023Infosys Award Function 2022Infosys Award Function 2021Infosys Award Function 2019Infosys Award Function 2018Infosys Awards Function 2017 Media Coverage Olympiads 2025-2026 Mathematical Olympiad 2025-2026Science Olympiad…",
+    "url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/#main",
     "deadline": "2026-03-06",
     "event_date": "2026-03-06",
     "location": "India",
@@ -67,7 +67,21 @@
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:24.394135+00:00"
+    "scraped_at": "2026-10-23T05:08:39.065135+00:00"
+  },
+  {
+    "id": "540990b5464d8763cb8354334ce03ea6",
+    "title": "Skip to main content",
+    "description": "Skip to main content User account menu Log in Site switcher IMU ICMI CDC CoP CWM ICHM InternationalMathematicalUnion IMU Main navigation Organization About Mission Statutes General Assembly IMU Executive Committee IMU Representatives IMU Secretariat IMU Circle IMU News ISC Membership IMU Archive IMU History Membership IMU Membership Members Associate Members Affiliate Members Membership Dues Cand…",
+    "url": "https://www.mathunion.org#main-content",
+    "deadline": "2026-06-01",
+    "event_date": "2026-06-01",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "IMU",
+    "source_url": "https://www.mathunion.org",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:27.723613+00:00"
   },
   {
     "id": "967b00b2c4b3c2d7c92e1a7eb4a918bc",
@@ -81,7 +95,7 @@
     "source_name": "IASC-ISI",
     "source_url": "https://iasc-isi.org/",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:03.746826+00:00"
+    "scraped_at": "2026-10-23T05:08:22.446701+00:00"
   },
   {
     "id": "205867537c38035581b2a5ee5f6a7ec7",
@@ -95,7 +109,7 @@
     "source_name": "IASC-ISI",
     "source_url": "https://iasc-isi.org/",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:03.746957+00:00"
+    "scraped_at": "2026-10-23T05:08:22.446903+00:00"
   },
   {
     "id": "de5023725d257742229dbe7a8319bd85",
@@ -109,7 +123,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:04.316883+00:00"
+    "scraped_at": "2026-10-23T05:08:22.936585+00:00"
   },
   {
     "id": "076069e0d48ed84aadc044d303e11075",
@@ -123,7 +137,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:04.316971+00:00"
+    "scraped_at": "2026-10-23T05:08:22.936722+00:00"
   },
   {
     "id": "c1932e273d39e036b72cf58b65ded77c",
@@ -137,7 +151,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:04.317045+00:00"
+    "scraped_at": "2026-10-23T05:08:22.936848+00:00"
   },
   {
     "id": "cf8600b7dac00cadde35d1e5506cc4d8",
@@ -151,7 +165,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:04.317120+00:00"
+    "scraped_at": "2026-10-23T05:08:22.936971+00:00"
   },
   {
     "id": "5ba453ef954851d459e5ede27c9fbb91",
@@ -165,7 +179,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:04.317189+00:00"
+    "scraped_at": "2026-10-23T05:08:22.937087+00:00"
   },
   {
     "id": "e37df52648e1246472b1081be6e873f0",
@@ -179,7 +193,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:04.317266+00:00"
+    "scraped_at": "2026-10-23T05:08:22.937267+00:00"
   },
   {
     "id": "4e41ffe091e912bb3384d2e631d5e503",
@@ -193,7 +207,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:04.317342+00:00"
+    "scraped_at": "2026-10-23T05:08:22.937435+00:00"
   },
   {
     "id": "8b45444d706f32b0fef98c69a907df12",
@@ -207,7 +221,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:04.317418+00:00"
+    "scraped_at": "2026-10-23T05:08:22.937563+00:00"
   },
   {
     "id": "3e63c233f5b96f4a23090ffe8c7b85cf",
@@ -221,7 +235,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:10:33.339786+00:00"
+    "scraped_at": "2026-10-23T05:09:27.454401+00:00"
   },
   {
     "id": "ec59ac4b766d6787f3f3c585a08697a3",
@@ -235,7 +249,21 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:10:33.339877+00:00"
+    "scraped_at": "2026-10-23T05:09:27.454541+00:00"
+  },
+  {
+    "id": "296cd4ad57d3d59a9f338540f88828bc",
+    "title": "Skip to main content",
+    "description": "Skip to main content User account menu Log in Site switcher IMU ICMI CDC CoP CWM ICHM InternationalMathematicalUnion IMU Main navigation Organization About Mission Statutes General Assembly IMU Executive Committee IMU Representatives IMU Secretariat IMU Circle IMU News ISC Membership IMU Archive IMU History Membership IMU Membership Members Associate Members Affiliate Members Membership Dues Cand…",
+    "url": "https://www.mathunion.org/icm/icm-2026#main-content",
+    "deadline": "2026-07-30",
+    "event_date": "2026-07-30",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ICM 2026",
+    "source_url": "https://www.mathunion.org/icm/icm-2026",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:25.978689+00:00"
   },
   {
     "id": "77377557319f98ea836823b981d37c1e",
@@ -249,7 +277,7 @@
     "source_name": "Mathseon Notifications",
     "source_url": "https://mathseon.in/notifications/",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:06:54.876938+00:00"
+    "scraped_at": "2026-10-23T05:06:14.406262+00:00"
   },
   {
     "id": "567308212ab9427b3af5275861080f48",
@@ -263,7 +291,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:06:56.281449+00:00"
+    "scraped_at": "2026-10-23T05:06:15.615826+00:00"
   },
   {
     "id": "e43a26494d60284065f28d5bc07ad910",
@@ -277,7 +305,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:04.318869+00:00"
+    "scraped_at": "2026-10-23T05:08:22.939718+00:00"
   },
   {
     "id": "26b08f896c021d9f969e2fdb75bb4c85",
@@ -291,7 +319,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:04.318942+00:00"
+    "scraped_at": "2026-10-23T05:08:22.939840+00:00"
   },
   {
     "id": "7d5f0583d37cf090f5b751558df5858a",
@@ -305,7 +333,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:04.319022+00:00"
+    "scraped_at": "2026-10-23T05:08:22.939971+00:00"
   },
   {
     "id": "fccfd6ac5dd150c7a1a6f7dc1f14211c",
@@ -319,7 +347,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:04.319095+00:00"
+    "scraped_at": "2026-10-23T05:08:22.940099+00:00"
   },
   {
     "id": "1a44b557b5bdb9de79f309062ed30a32",
@@ -333,7 +361,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:04.319181+00:00"
+    "scraped_at": "2026-10-23T05:08:22.940243+00:00"
   },
   {
     "id": "c9d4b95ca6ee34ac31022bf99b375c10",
@@ -347,7 +375,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:09:04.319261+00:00"
+    "scraped_at": "2026-10-23T05:08:22.940400+00:00"
   },
   {
     "id": "1523253950c8e057da8dc68a613e7909",
@@ -361,7 +389,7 @@
     "source_name": "DataCamp Blog",
     "source_url": "https://www.datacamp.com/blog/top-data-science-conferences-for-2022",
     "is_new": true,
-    "scraped_at": "2026-10-22T05:10:09.179358+00:00"
+    "scraped_at": "2026-10-23T05:09:00.817936+00:00"
   },
   {
     "id": "cb128183bda3fcef627c26ccc6a39d59",
@@ -402,7 +430,7 @@
     "category": "Exam / Notification",
     "source_name": "Unified Council",
     "source_url": "https://www.unifiedcouncil.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:03.927039+00:00"
   },
   {
@@ -84304,7 +84332,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:07:08.209388+00:00"
   },
   {
@@ -84318,7 +84346,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:07:08.209431+00:00"
   },
   {
@@ -84332,7 +84360,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:07:08.209471+00:00"
   },
   {
@@ -84346,7 +84374,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:07:08.209596+00:00"
   },
   {
@@ -84360,7 +84388,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:07:21.429641+00:00"
   },
   {
@@ -84374,7 +84402,7 @@
     "category": "Conference",
     "source_name": "DataCamp Blog",
     "source_url": "https://www.datacamp.com/blog/top-data-science-conferences-for-2022",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:09.181455+00:00"
   },
   {
@@ -84388,7 +84416,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.896809+00:00"
   },
   {
@@ -84402,7 +84430,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.896843+00:00"
   },
   {
@@ -84416,7 +84444,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.896908+00:00"
   },
   {
@@ -84430,7 +84458,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.896968+00:00"
   },
   {
@@ -84444,7 +84472,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.896996+00:00"
   },
   {
@@ -84458,7 +84486,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897051+00:00"
   },
   {
@@ -84472,7 +84500,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897103+00:00"
   },
   {
@@ -84486,7 +84514,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897140+00:00"
   },
   {
@@ -84500,7 +84528,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897173+00:00"
   },
   {
@@ -84514,7 +84542,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897205+00:00"
   },
   {
@@ -84528,7 +84556,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897235+00:00"
   },
   {
@@ -84542,7 +84570,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897275+00:00"
   },
   {
@@ -84556,7 +84584,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897308+00:00"
   },
   {
@@ -84570,7 +84598,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897341+00:00"
   },
   {
@@ -84584,7 +84612,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897375+00:00"
   },
   {
@@ -84598,7 +84626,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897432+00:00"
   },
   {
@@ -84612,7 +84640,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897468+00:00"
   },
   {
@@ -84626,7 +84654,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897503+00:00"
   },
   {
@@ -84640,7 +84668,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897538+00:00"
   },
   {
@@ -84654,7 +84682,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897616+00:00"
   },
   {
@@ -84668,7 +84696,7 @@
     "category": "Exam / Notification",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.897979+00:00"
   },
   {
@@ -84682,7 +84710,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.898036+00:00"
   },
   {
@@ -84696,7 +84724,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.898062+00:00"
   },
   {
@@ -84710,7 +84738,7 @@
     "category": "Conference",
     "source_name": "EasyChair CFP",
     "source_url": "https://easychair.org/cfp/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:10.898088+00:00"
   },
   {
@@ -84724,7 +84752,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:38.705054+00:00"
   },
   {
@@ -84738,7 +84766,7 @@
     "category": "Workshop / School",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:38.705252+00:00"
   },
   {
@@ -84752,7 +84780,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:38.705316+00:00"
   },
   {
@@ -84766,7 +84794,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:38.705402+00:00"
   },
   {
@@ -84780,7 +84808,833 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-22T05:10:38.705490+00:00"
+  },
+  {
+    "id": "11ab51be01f246f53ae6e9c50d47f4ce",
+    "title": "Google calendar",
+    "description": "Google calendar iCalendar .ics",
+    "url": "https://www.google.com/calendar/event?action=TEMPLATE&text=Theorems+of+the+21st+Century+Seminar+-+Prof.+Van+Vu&dates=20261104/20261105&details=https://th21.le.ac.uk/&location=Leicester%3B+United+Kingdom",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:24.211573+00:00"
+  },
+  {
+    "id": "eaffbf05f6fc92198db56ff39e64ecfb",
+    "title": "Anatoly Libgober",
+    "description": "Anatoly Libgober",
+    "url": "https://homepages.math.uic.edu/%7Elibgober/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:28.169315+00:00"
+  },
+  {
+    "id": "6645f1b493bfaedb6ded448a8d2ff4cc",
+    "title": "DVU Data Science Seminar Series",
+    "description": "DVU Data Science Seminar Series",
+    "url": "https://researchseminars.org/seminar/research",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Webinar / Lecture",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:28.169504+00:00"
+  },
+  {
+    "id": "1ee381360edb5cb977c64c8244293932",
+    "title": "Christopher Karpinski",
+    "description": "Christopher Karpinski",
+    "url": "https://sites.google.com/view/chris-karpinski/home",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:28.170020+00:00"
+  },
+  {
+    "id": "4c8d0aa41e6a8c9985a3d2c48dcb4d44",
+    "title": "Fotis Ioannidis",
+    "description": "Fotis Ioannidis",
+    "url": "https://sites.google.com/vols.utk.edu/fotis-ioannidis/home",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:28.170163+00:00"
+  },
+  {
+    "id": "f6e01a29c16cec88ff414018aec4bff4",
+    "title": "In-company courses",
+    "description": "In-company courses",
+    "url": "https://rss.org.uk/training-events/training/in-house-training-courses/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "RSS Events",
+    "source_url": "https://rss.org.uk/training-events/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:28.924379+00:00"
+  },
+  {
+    "id": "1246b2e3ee8d2c6e4d2c6604a7720f96",
+    "title": "International Conference on Advances in Mathematics, Physics and Applied Science (ICAMPA)",
+    "description": "International Conference on Advances in Mathematics, Physics and Applied Science (ICAMPA)",
+    "url": "https://www.conferencealerts.in/eventdetail/2283296",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:42.509588+00:00"
+  },
+  {
+    "id": "d4f454d04e173efb06db07a3fa596191",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2146416",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:42.509752+00:00"
+  },
+  {
+    "id": "4de16ab724877d3ee4451d0d9ed481e8",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2146452",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:42.509915+00:00"
+  },
+  {
+    "id": "96e02ebbc8b9f962d5dfab8bbac2dbda",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2146434",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:42.510084+00:00"
+  },
+  {
+    "id": "7a9cbecafcfa4859ef9ed2c2e8bdd220",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2036988",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:42.510248+00:00"
+  },
+  {
+    "id": "321c40910a78c74cb00f4bab58c427b7",
+    "title": "International Conference on Advances in Mathematics, Physics and Applied Science (ICAMPA)",
+    "description": "International Conference on Advances in Mathematics, Physics and Applied Science (ICAMPA)",
+    "url": "https://www.conferencealerts.in/eventdetail/2152567",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:42.510774+00:00"
+  },
+  {
+    "id": "7564456fc5cd7834184b7915b8801c5c",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2146506",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:42.510948+00:00"
+  },
+  {
+    "id": "772770ae3a4324a03d4096b2082a6bfc",
+    "title": "International Conference on Mathematics, Statistics and Applied Science (ICMSA)",
+    "description": "International Conference on Mathematics, Statistics and Applied Science (ICMSA)",
+    "url": "https://www.conferencealerts.in/eventdetail/2127564",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Alerts India Stat",
+    "source_url": "https://www.conferencealerts.in/india/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:44.244727+00:00"
+  },
+  {
+    "id": "1099d8b3f115f8ae14a2a3bb9b7f0671",
+    "title": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "description": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "url": "https://www.conferencealerts.in/eventdetail/2137746",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Alerts India Stat",
+    "source_url": "https://www.conferencealerts.in/india/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:44.244893+00:00"
+  },
+  {
+    "id": "7fccb1c49f5eee363af1a9e5f77c5537",
+    "title": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "description": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "url": "https://www.conferencealerts.in/eventdetail/2137738",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Alerts India Stat",
+    "source_url": "https://www.conferencealerts.in/india/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:06:44.245056+00:00"
+  },
+  {
+    "id": "e55c1925f05872dde26a02c8467a4cf2",
+    "title": "[email protected]",
+    "description": "+91 8925031783 [email protected]",
+    "url": "https://conferencenext.com/cdn-cgi/l/email-protection#91f8fff7fed1f2fefff7f4e3f4fff2f4fff4e9e5bff2fefc",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ConferenceNext",
+    "source_url": "https://conferencenext.com/conferences/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:33.903372+00:00"
+  },
+  {
+    "id": "fcdbb9e5f5dd3b73db9b8d762b5e5113",
+    "title": "Infosys Award Function",
+    "description": "Infosys Award Function Infosys Award Function 2025Infosys Award Function 2024Infosys Award Function 2023Infosys Award Function 2022Infosys Award Function 2021Infosys Award Function 2019Infosys Award Function 2018Infosys Awards Function 2017",
+    "url": "https://olympiads.hbcse.tifr.res.in/infosys-award-function/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:39.065398+00:00"
+  },
+  {
+    "id": "7d0374fcf8db2251b4308229c0c63355",
+    "title": "Infosys Award Function 2025",
+    "description": "Infosys Award Function 2025",
+    "url": "https://olympiads.hbcse.tifr.res.in/infosys-award-function-2025/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:39.065447+00:00"
+  },
+  {
+    "id": "8e3f3f7245b6cc56491dd638c56ab7b8",
+    "title": "Infosys Award Function 2024",
+    "description": "Infosys Award Function 2024",
+    "url": "https://olympiads.hbcse.tifr.res.in/infosys-award-function-2024/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:39.065483+00:00"
+  },
+  {
+    "id": "f327ac2c76a95d3e06b1c0e1c540d4d3",
+    "title": "Infosys Award Function 2023",
+    "description": "Infosys Award Function 2023",
+    "url": "https://olympiads.hbcse.tifr.res.in/infosys-award-function-2023/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:39.065518+00:00"
+  },
+  {
+    "id": "9d3058ade67ef3539152499f82fde958",
+    "title": "Infosys Award Function 2022",
+    "description": "Infosys Award Function 2022",
+    "url": "https://olympiads.hbcse.tifr.res.in/infosys-award-function-2022/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:39.065551+00:00"
+  },
+  {
+    "id": "3ec34dbb955c479d07b8c3a66cc6e193",
+    "title": "Infosys Award Function 2021",
+    "description": "Infosys Award Function 2021",
+    "url": "https://olympiads.hbcse.tifr.res.in/infosys-award-function-2021/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:39.065585+00:00"
+  },
+  {
+    "id": "ae6dca3725cc5db88f90b51ac2a85d48",
+    "title": "Infosys Award Function 2019",
+    "description": "Infosys Award Function 2019",
+    "url": "https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2026/10/infosys_broch_2019.pdf",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:39.065619+00:00"
+  },
+  {
+    "id": "4ebb249bbbc0959cba5e96c862e839f0",
+    "title": "Infosys Award Function 2018",
+    "description": "Infosys Award Function 2018",
+    "url": "https://olympiads.hbcse.tifr.res.in/infosys-award-function-2018/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:39.065651+00:00"
+  },
+  {
+    "id": "6d03564fe7fa020f5ce3dc776d2ef5d6",
+    "title": "Infosys Awards Function 2017",
+    "description": "Infosys Awards Function 2017",
+    "url": "https://olympiads.hbcse.tifr.res.in/infosys-awards-function-2017/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:39.065684+00:00"
+  },
+  {
+    "id": "5c43add75afa46252ea00d8a07c1de4a",
+    "title": "Past papers/Sample questions",
+    "description": "Past papers/Sample questions",
+    "url": "https://olympiads.hbcse.tifr.res.in/past-papers-sample-questions/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:39.066108+00:00"
+  },
+  {
+    "id": "5a1788fc7077c5a914d1ef3174bfef7c",
+    "title": "Mathematical Olympiad Brochure 2025-26",
+    "description": "Mathematical Olympiad Brochure 2025-26",
+    "url": "https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2026/10/Brochure-Maths-Olympiad-2025-26.pdf",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:39.066462+00:00"
+  },
+  {
+    "id": "00a2f542cde3ceefa8b863671cda4243",
+    "title": "Poster for IOQM 2025",
+    "description": "Poster for IOQM 2025.",
+    "url": "https://olympiads.hbcse.tifr.res.in/wp-content/uploads/2026/10/IOQM-POSTER.pdf",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:39.066627+00:00"
+  },
+  {
+    "id": "7c9a6a83cde537fb28af58a882bb62ae",
+    "title": "https://www.hbcse.tifr.res.in",
+    "description": "Web: https://www.hbcse.tifr.res.in",
+    "url": "https://www.hbcse.tifr.res.in/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "HBCSE Olympiads",
+    "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:39.066689+00:00"
+  },
+  {
+    "id": "58df6c61689ab881dfb901487b8824d6",
+    "title": "2026-IOQM to RMO Cutoffs",
+    "description": "📄 RMO Cutoffs: RMO cutoffs are now available in the 2026-IOQM to RMO Cutoffs .",
+    "url": "https://ioqm.mtai.org.in/2026-IOQMtoRMO-cutoffs.pdf",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "IOQM Portal",
+    "source_url": "https://ioqm.mtai.org.in",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:46.102286+00:00"
+  },
+  {
+    "id": "edcf87658b2b8e29fba1487b27e55db6",
+    "title": "malpractices in the IOQM examination",
+    "description": "⚠️ Important – Malpractice Announcement: Please read the public announcement from MTA(I) regarding malpractices in the IOQM examination .",
+    "url": "https://ioqm.mtai.org.in/2026-ioqm-announcement.pdf",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "IOQM Portal",
+    "source_url": "https://ioqm.mtai.org.in",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:46.102367+00:00"
+  },
+  {
+    "id": "a1ca75b3cc7d2ff76a2e261612c952f1",
+    "title": "2026-IOQMtoRMO-cutoffs.pdf",
+    "description": "RMO cutoffs are now available at 2026-IOQMtoRMO-cutoffs.pdf. Please read this public announcement from MTA(I) regarding malpractices in the exam. Cutoffs for national and regional certificates will be announced in a few days.",
+    "url": "https://mtaindia.sharepoint.com/:b:/s/IOQM2026/IQBVObcnUf-0TYVfhp0bbZh-AY96NC0NfLvWFGe02EhG1AU",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "MTA India IOQM",
+    "source_url": "https://www.mtai.org.in/ioqm-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:49.252073+00:00"
+  },
+  {
+    "id": "0c65d7202737dce8f56f6dd8620ef7d9",
+    "title": "public announcement",
+    "description": "RMO cutoffs are now available at 2026-IOQMtoRMO-cutoffs.pdf. Please read this public announcement from MTA(I) regarding malpractices in the exam. Cutoffs for national and regional certificates will be announced in a few days.",
+    "url": "https://mtaindia.sharepoint.com/:b:/s/IOQM2026/IQBivtVYp1CwQr0V1pBQaSshAT3Y1TL0Muxya1zqCAiz-eE?e=46Q8CW",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "MTA India IOQM",
+    "source_url": "https://www.mtai.org.in/ioqm-2026/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:08:49.252137+00:00"
+  },
+  {
+    "id": "44dc0e5d6b91ae2f5e791106aba3b976",
+    "title": "human centric data analysis",
+    "description": "artificial intelligence knowledge discovery trustworthy ai human centric data analysis",
+    "url": "https://easychair.org/cfp/topic?tid=24842394",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.144560+00:00"
+  },
+  {
+    "id": "82ea044493ac1f8553cbd3bfba03c08d",
+    "title": "intelligent manufacturing",
+    "description": "control theory robotics intelligent manufacturing artificial intelligence",
+    "url": "https://easychair.org/cfp/topic?tid=203678",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.144683+00:00"
+  },
+  {
+    "id": "68cf543d5b10c6157a477cf931e449f9",
+    "title": "electric power systems",
+    "description": "electric power systems high voltage electromagnetic theory energy engineering",
+    "url": "https://easychair.org/cfp/topic?tid=164368",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.144796+00:00"
+  },
+  {
+    "id": "0447d0bb56761a2baf5a58c69797b102",
+    "title": "electromagnetic theory",
+    "description": "electric power systems high voltage electromagnetic theory energy engineering",
+    "url": "https://easychair.org/cfp/topic?tid=32770",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.144878+00:00"
+  },
+  {
+    "id": "f41596d25f344f1561b5df753802ec32",
+    "title": "energy engineering",
+    "description": "electric power systems high voltage electromagnetic theory energy engineering",
+    "url": "https://easychair.org/cfp/topic?tid=600409",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.144919+00:00"
+  },
+  {
+    "id": "fb1b837b40bcfb5a77a93856e8a3e92e",
+    "title": "human robot interaction",
+    "description": "extended reality (xr) augmented reality robotics human robot interaction",
+    "url": "https://easychair.org/cfp/topic?tid=16901",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145081+00:00"
+  },
+  {
+    "id": "d9e22678dfb0da51fc6f2820a7fdc194",
+    "title": "engagement in learning",
+    "description": "engagement in learning engagement in the academic community models and innovation in education student engagement and artificial intelligence",
+    "url": "https://easychair.org/cfp/topic?tid=684928",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145138+00:00"
+  },
+  {
+    "id": "32f21adf38ca9f98658dbb0e481b1467",
+    "title": "engagement in the academic community",
+    "description": "engagement in learning engagement in the academic community models and innovation in education student engagement and artificial intelligence",
+    "url": "https://easychair.org/cfp/topic?tid=44214535",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145188+00:00"
+  },
+  {
+    "id": "e21a69e523a1aacf8bf267439fd16510",
+    "title": "models and innovation in education",
+    "description": "engagement in learning engagement in the academic community models and innovation in education student engagement and artificial intelligence",
+    "url": "https://easychair.org/cfp/topic?tid=44214536",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145240+00:00"
+  },
+  {
+    "id": "fd63927dfdb93080aea03e7740cc9616",
+    "title": "student engagement and artificial intelligence",
+    "description": "engagement in learning engagement in the academic community models and innovation in education student engagement and artificial intelligence",
+    "url": "https://easychair.org/cfp/topic?tid=44214537",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145293+00:00"
+  },
+  {
+    "id": "469fc73cade3d6a185642fe852dcfce7",
+    "title": "cognitive warfare human behaviour",
+    "description": "cognitive warfare human behaviour ai hmi cybersecurity digital threats strategy defence and security innovation is defence crisis response geopolitics",
+    "url": "https://easychair.org/cfp/topic?tid=43821090",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145374+00:00"
+  },
+  {
+    "id": "5cb20fb97582d1a3f5bbc3995ba2c980",
+    "title": "ai hmi cybersecurity digital threats",
+    "description": "cognitive warfare human behaviour ai hmi cybersecurity digital threats strategy defence and security innovation is defence crisis response geopolitics",
+    "url": "https://easychair.org/cfp/topic?tid=43821091",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145439+00:00"
+  },
+  {
+    "id": "958779fb39071f606504b2cedfcf02e7",
+    "title": "strategy defence and security innovation",
+    "description": "cognitive warfare human behaviour ai hmi cybersecurity digital threats strategy defence and security innovation is defence crisis response geopolitics",
+    "url": "https://easychair.org/cfp/topic?tid=43821092",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145494+00:00"
+  },
+  {
+    "id": "5a07deafc84d2dce9c70282dfeeb9dc1",
+    "title": "is defence crisis response geopolitics",
+    "description": "cognitive warfare human behaviour ai hmi cybersecurity digital threats strategy defence and security innovation is defence crisis response geopolitics",
+    "url": "https://easychair.org/cfp/topic?tid=43821093",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145546+00:00"
+  },
+  {
+    "id": "9255e57dbd0d9596baeccb3ec014db27",
+    "title": "digital curation",
+    "description": "digital curation human ai interaction human in the loop cultural heritage",
+    "url": "https://easychair.org/cfp/topic?tid=261396",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145632+00:00"
+  },
+  {
+    "id": "48183af9ed2cfa28c14c24b84f023cd2",
+    "title": "human in the loop",
+    "description": "digital curation human ai interaction human in the loop cultural heritage",
+    "url": "https://easychair.org/cfp/topic?tid=262946",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145715+00:00"
+  },
+  {
+    "id": "613362717ae29bdc21c944d945b1c734",
+    "title": "cultural heritage",
+    "description": "digital curation human ai interaction human in the loop cultural heritage",
+    "url": "https://easychair.org/cfp/topic?tid=45113",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145757+00:00"
+  },
+  {
+    "id": "c226a34f33cd2c3a5079e8797a5ce752",
+    "title": "application domains",
+    "description": "data science application domains applied informatics mixed methods analytics",
+    "url": "https://easychair.org/cfp/topic?tid=1019087",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145870+00:00"
+  },
+  {
+    "id": "5bfe376f46944e745b8ef41685a41781",
+    "title": "applied informatics",
+    "description": "data science application domains applied informatics mixed methods analytics",
+    "url": "https://easychair.org/cfp/topic?tid=1206402",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145911+00:00"
+  },
+  {
+    "id": "125b7c8cf6ca4dd0832366e6f6be5252",
+    "title": "mixed methods analytics",
+    "description": "data science application domains applied informatics mixed methods analytics",
+    "url": "https://easychair.org/cfp/topic?tid=44293761",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:04.145952+00:00"
+  },
+  {
+    "id": "ab7c50dc7cd2550ca6c7f856ac61e795",
+    "title": "Simple and critical zeros of the Riemann zeta-function",
+    "description": "Simple and critical zeros of the Riemann zeta-function",
+    "url": "https://terrytao.wordpress.com/2026/10/22/simple-and-critical-zeros-of-the-riemann-zeta-function/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:32.836331+00:00"
+  },
+  {
+    "id": "398cb1bb0ef5c86da76438f541afee82",
+    "title": "Riemann zeta function",
+    "description": "22 October, 2026 in expository, guest blog, math.NT | Tags: Caroline Turnage-Butterbaugh, Riemann zeta function | by Terence Tao | 2 comments",
+    "url": "https://terrytao.wordpress.com/tag/riemann-zeta-function/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:32.836585+00:00"
+  },
+  {
+    "id": "66224ef056dca6fa7977da767c63fc6a",
+    "title": "Caroline Turnage-Butterbaugh",
+    "description": "[This is a guest post by Caroline Turnage-Butterbaugh. This blog post was initially written in a different file format and converted using AI. — T.]",
+    "url": "https://www.carleton.edu/directory/cturnageb/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:32.836756+00:00"
+  },
+  {
+    "id": "efc55efe7c4873d8d781da5ad1c8a0eb",
+    "title": "OpenAI’s proof of the quasi-Riemann Hypothesis",
+    "description": "Evidence in favor of the Riemann Hypothesis comes in many flavors. OpenAI’s proof of the quasi-Riemann Hypothesis is definitely one such flavor; however, in this post I will focus my comments on a different kind of evidence: lower bounds on the proportion of nontrivial zeros of the Riemann zeta-function on the critical line. Great strides have recently been made on this problem, both with and wit…",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-Quasi-Riemann-Hypothesis-September-30-2026/paper.pdf",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:32.836884+00:00"
+  },
+  {
+    "id": "ba1f5436359242a2dbceb55547eb37d1",
+    "title": "Read the rest of this entry »",
+    "description": "Read the rest of this entry »",
+    "url": "https://terrytao.wordpress.com/2026/10/22/simple-and-critical-zeros-of-the-riemann-zeta-function/#more-18518",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-23T05:09:32.836932+00:00"
   }
 ]
