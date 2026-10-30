@@ -11,7 +11,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:05:50.820887+00:00"
+    "scraped_at": "2026-10-30T06:06:55.138860+00:00"
   },
   {
     "id": "ceda61484e2b3e073cb8a9b15c2e55f8",
@@ -25,7 +25,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:05:50.819864+00:00"
+    "scraped_at": "2026-10-30T06:06:55.137703+00:00"
   },
   {
     "id": "52904ed4a5ceb9e8190cf67b4a2a5adf",
@@ -39,7 +39,7 @@
     "source_name": "Ramanujan Math Society",
     "source_url": "https://www.ramanujanmathsociety.org/",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:08:09.480241+00:00"
+    "scraped_at": "2026-10-30T06:08:24.778527+00:00"
   },
   {
     "id": "e84b6044d31bd9547e11888b7fc4d589",
@@ -53,7 +53,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:05:50.819368+00:00"
+    "scraped_at": "2026-10-30T06:06:55.137097+00:00"
   },
   {
     "id": "37e1dd1ca28c4f4cbfa52793335fb259",
@@ -67,7 +67,21 @@
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:08:59.757571+00:00"
+    "scraped_at": "2026-10-30T06:09:03.583004+00:00"
+  },
+  {
+    "id": "540990b5464d8763cb8354334ce03ea6",
+    "title": "Skip to main content",
+    "description": "Skip to main content User account menu Log in Site switcher IMU ICMI CDC CoP CWM ICHM InternationalMathematicalUnion IMU Main navigation Organization About Mission Statutes General Assembly IMU Executive Committee IMU Representatives IMU Secretariat IMU Circle IMU News ISC Membership IMU Archive IMU History Membership IMU Membership Members Associate Members Affiliate Members Membership Dues Cand…",
+    "url": "https://www.mathunion.org#main-content",
+    "deadline": "2026-06-01",
+    "event_date": "2026-06-01",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "IMU",
+    "source_url": "https://www.mathunion.org",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:10:05.638892+00:00"
   },
   {
     "id": "967b00b2c4b3c2d7c92e1a7eb4a918bc",
@@ -81,7 +95,7 @@
     "source_name": "IASC-ISI",
     "source_url": "https://iasc-isi.org/",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:08:41.825256+00:00"
+    "scraped_at": "2026-10-30T06:08:54.602083+00:00"
   },
   {
     "id": "205867537c38035581b2a5ee5f6a7ec7",
@@ -95,7 +109,7 @@
     "source_name": "IASC-ISI",
     "source_url": "https://iasc-isi.org/",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:08:41.825417+00:00"
+    "scraped_at": "2026-10-30T06:08:54.602286+00:00"
   },
   {
     "id": "3e63c233f5b96f4a23090ffe8c7b85cf",
@@ -109,7 +123,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:10:25.518689+00:00"
+    "scraped_at": "2026-10-30T06:10:05.374514+00:00"
   },
   {
     "id": "ec59ac4b766d6787f3f3c585a08697a3",
@@ -123,7 +137,21 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:10:25.518801+00:00"
+    "scraped_at": "2026-10-30T06:10:05.374679+00:00"
+  },
+  {
+    "id": "296cd4ad57d3d59a9f338540f88828bc",
+    "title": "Skip to main content",
+    "description": "Skip to main content User account menu Log in Site switcher IMU ICMI CDC CoP CWM ICHM InternationalMathematicalUnion IMU Main navigation Organization About Mission Statutes General Assembly IMU Executive Committee IMU Representatives IMU Secretariat IMU Circle IMU News ISC Membership IMU Archive IMU History Membership IMU Membership Members Associate Members Affiliate Members Membership Dues Cand…",
+    "url": "https://www.mathunion.org/icm/icm-2026#main-content",
+    "deadline": "2026-07-30",
+    "event_date": "2026-07-30",
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ICM 2026",
+    "source_url": "https://www.mathunion.org/icm/icm-2026",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:10:04.421304+00:00"
   },
   {
     "id": "77377557319f98ea836823b981d37c1e",
@@ -137,7 +165,7 @@
     "source_name": "Mathseon Notifications",
     "source_url": "https://mathseon.in/notifications/",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:05:48.376156+00:00"
+    "scraped_at": "2026-10-30T06:06:53.956860+00:00"
   },
   {
     "id": "567308212ab9427b3af5275861080f48",
@@ -151,7 +179,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:05:50.819122+00:00"
+    "scraped_at": "2026-10-30T06:06:55.136822+00:00"
   },
   {
     "id": "100b50cca3835b66bac5f90fb43a2e41",
@@ -165,7 +193,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:08:42.233319+00:00"
+    "scraped_at": "2026-10-30T06:08:55.078834+00:00"
   },
   {
     "id": "d3b4b50e67d0310d570dd5b96a56a225",
@@ -179,7 +207,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:08:42.233002+00:00"
+    "scraped_at": "2026-10-30T06:08:55.078419+00:00"
   },
   {
     "id": "ac3289f69975cdbf6bd4cfe0dae20a2a",
@@ -193,7 +221,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:08:42.233109+00:00"
+    "scraped_at": "2026-10-30T06:08:55.078553+00:00"
   },
   {
     "id": "6505123d9c8f9adced3e38308fad6e2c",
@@ -207,7 +235,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:08:42.233209+00:00"
+    "scraped_at": "2026-10-30T06:08:55.078700+00:00"
   },
   {
     "id": "1523253950c8e057da8dc68a613e7909",
@@ -221,7 +249,7 @@
     "source_name": "DataCamp Blog",
     "source_url": "https://www.datacamp.com/blog/top-data-science-conferences-for-2022",
     "is_new": true,
-    "scraped_at": "2026-10-29T06:09:41.699695+00:00"
+    "scraped_at": "2026-10-30T06:09:41.151113+00:00"
   },
   {
     "id": "cb128183bda3fcef627c26ccc6a39d59",
@@ -90324,7 +90352,7 @@
     "category": "Conference",
     "source_name": "DataEvents.co ML",
     "source_url": "https://dataevents.co/ml",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:05:53.141827+00:00"
   },
   {
@@ -90338,7 +90366,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:06:01.545200+00:00"
   },
   {
@@ -90352,7 +90380,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:06:01.545813+00:00"
   },
   {
@@ -90366,7 +90394,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:06:01.545941+00:00"
   },
   {
@@ -90380,7 +90408,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:06:01.546003+00:00"
   },
   {
@@ -90394,7 +90422,7 @@
     "category": "Workshop / School",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:06:01.546377+00:00"
   },
   {
@@ -90408,7 +90436,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:06:18.164031+00:00"
   },
   {
@@ -90422,7 +90450,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:06:18.164170+00:00"
   },
   {
@@ -90436,7 +90464,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:06:18.164313+00:00"
   },
   {
@@ -90450,7 +90478,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Alerts India Stat",
     "source_url": "https://www.conferencealerts.in/india/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:06:19.944783+00:00"
   },
   {
@@ -90464,7 +90492,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Alerts India Stat",
     "source_url": "https://www.conferencealerts.in/india/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:06:19.944920+00:00"
   },
   {
@@ -90478,7 +90506,7 @@
     "category": "Conference",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:08:53.782246+00:00"
   },
   {
@@ -90492,7 +90520,7 @@
     "category": "Workshop / School",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:08:53.856290+00:00"
   },
   {
@@ -90506,7 +90534,7 @@
     "category": "Exam / Notification",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:10:51.648552+00:00"
   },
   {
@@ -90520,7 +90548,7 @@
     "category": "Exam / Notification",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:10:51.648898+00:00"
   },
   {
@@ -90534,7 +90562,7 @@
     "category": "Exam / Notification",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:10:51.649007+00:00"
   },
   {
@@ -90548,7 +90576,7 @@
     "category": "Exam / Notification",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:10:51.649146+00:00"
   },
   {
@@ -90562,7 +90590,7 @@
     "category": "Exam / Notification",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:10:51.649276+00:00"
   },
   {
@@ -90576,7 +90604,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:10:51.649408+00:00"
   },
   {
@@ -90590,7 +90618,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:10:51.649541+00:00"
   },
   {
@@ -90604,7 +90632,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:10:51.649704+00:00"
   },
   {
@@ -90618,7 +90646,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:10:51.650241+00:00"
   },
   {
@@ -90632,7 +90660,203 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-10-29T06:10:51.650273+00:00"
+  },
+  {
+    "id": "76376866c024761fe0848afe7f3d40d7",
+    "title": "[email protected]",
+    "description": "contact us at [email protected]",
+    "url": "https://dataevents.co/cdn-cgi/l/email-protection#d1b2bebfa5b0b2a591b5b0a5b0b4a7b4bfa5a2ffb2be",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "DataEvents.co ML",
+    "source_url": "https://dataevents.co/ml",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:06:56.931721+00:00"
+  },
+  {
+    "id": "878e1c2f6a55afc36d5cc42db4382e02",
+    "title": "Anastasia Bizyaeva",
+    "description": "Anastasia Bizyaeva",
+    "url": "https://www.duffield.cornell.edu/people/anastasia-bizyaeva/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:07:05.115218+00:00"
+  },
+  {
+    "id": "8074704165a3db6185ad4d0bcb466d17",
+    "title": "Prairie mathematics colloquium",
+    "description": "Prairie mathematics colloquium",
+    "url": "https://researchseminars.org/seminar/PrairieMath",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Webinar / Lecture",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:07:05.115251+00:00"
+  },
+  {
+    "id": "e098d3cf542a85ea69f2b56ca9ed409d",
+    "title": "Debanjana Kundu",
+    "description": "Debanjana Kundu",
+    "url": "https://kundudeb.github.io/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:07:05.115282+00:00"
+  },
+  {
+    "id": "26fb2d433e119a33375672c91fd9c900",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2104853",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:07:16.963638+00:00"
+  },
+  {
+    "id": "e1d1682b772aea351a8a14284b2988a8",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2104836",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:07:16.963827+00:00"
+  },
+  {
+    "id": "09d93e29fe4ca15817350efd2361b877",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2104904",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:07:16.964335+00:00"
+  },
+  {
+    "id": "d70d418b7065ffcc219b7a533abdd833",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2104887",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:07:16.964501+00:00"
+  },
+  {
+    "id": "376db4254c3c467696266d090badc696",
+    "title": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "description": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "url": "https://www.conferencealerts.in/eventdetail/2137826",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Alerts India Stat",
+    "source_url": "https://www.conferencealerts.in/india/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:07:18.449833+00:00"
+  },
+  {
+    "id": "d4c61f3fc6901a9eac4dccc24fb21678",
+    "title": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "description": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "url": "https://www.conferencealerts.in/eventdetail/2137818",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Alerts India Stat",
+    "source_url": "https://www.conferencealerts.in/india/statistics",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:07:18.449990+00:00"
+  },
+  {
+    "id": "5c0032c75419eeead77dda708829eaa2",
+    "title": "AI, Mathematics, Education, and a public goods problem",
+    "description": "AI, Mathematics, Education, and a public goods problem",
+    "url": "https://terrytao.wordpress.com/2026/10/29/ai-mathematics-education-and-a-public-goods-problem/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:10:09.368150+00:00"
+  },
+  {
+    "id": "3c5eaaa11745541a09ce43a6433349e3",
+    "title": "Leave a comment",
+    "description": "29 October, 2026 in guest blog, opinion | Tags: AI, Gireeja Ranade | by Terence Tao | Leave a comment",
+    "url": "https://terrytao.wordpress.com/2026/10/29/ai-mathematics-education-and-a-public-goods-problem/#respond",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:10:09.368359+00:00"
+  },
+  {
+    "id": "40c8ee27a78ea648fa2c486285124e4c",
+    "title": "Read the rest of this entry »",
+    "description": "Read the rest of this entry »",
+    "url": "https://terrytao.wordpress.com/2026/10/29/ai-mathematics-education-and-a-public-goods-problem/#more-18598",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:10:09.368462+00:00"
+  },
+  {
+    "id": "530ec290f432c43cb59c0f35bd1950db",
+    "title": "On the diameter and distribution of Sidon sets",
+    "description": "On the diameter and distribution of Sidon sets",
+    "url": "https://terrytao.wordpress.com/2026/10/28/on-the-diameter-and-distribution-of-sidon-sets/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-10-30T06:10:09.368503+00:00"
   }
 ]
