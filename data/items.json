@@ -11,7 +11,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:51:40.231635+00:00"
+    "scraped_at": "2026-11-12T07:28:51.923830+00:00"
   },
   {
     "id": "ceda61484e2b3e073cb8a9b15c2e55f8",
@@ -25,7 +25,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:51:40.230866+00:00"
+    "scraped_at": "2026-11-12T07:28:51.922808+00:00"
   },
   {
     "id": "52904ed4a5ceb9e8190cf67b4a2a5adf",
@@ -39,7 +39,7 @@
     "source_name": "Ramanujan Math Society",
     "source_url": "https://www.ramanujanmathsociety.org/",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:53:28.333798+00:00"
+    "scraped_at": "2026-11-12T07:31:22.696829+00:00"
   },
   {
     "id": "e84b6044d31bd9547e11888b7fc4d589",
@@ -53,7 +53,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:51:40.230504+00:00"
+    "scraped_at": "2026-11-12T07:28:51.922350+00:00"
   },
   {
     "id": "37e1dd1ca28c4f4cbfa52793335fb259",
@@ -67,7 +67,7 @@
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:54:07.864545+00:00"
+    "scraped_at": "2026-11-12T07:32:03.238134+00:00"
   },
   {
     "id": "540990b5464d8763cb8354334ce03ea6",
@@ -81,7 +81,7 @@
     "source_name": "IMU",
     "source_url": "https://www.mathunion.org",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:55:12.257460+00:00"
+    "scraped_at": "2026-11-12T07:33:10.104908+00:00"
   },
   {
     "id": "967b00b2c4b3c2d7c92e1a7eb4a918bc",
@@ -95,7 +95,7 @@
     "source_name": "IASC-ISI",
     "source_url": "https://iasc-isi.org/",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:53:58.998626+00:00"
+    "scraped_at": "2026-11-12T07:31:54.118632+00:00"
   },
   {
     "id": "205867537c38035581b2a5ee5f6a7ec7",
@@ -109,7 +109,7 @@
     "source_name": "IASC-ISI",
     "source_url": "https://iasc-isi.org/",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:53:58.998757+00:00"
+    "scraped_at": "2026-11-12T07:31:54.118820+00:00"
   },
   {
     "id": "3e63c233f5b96f4a23090ffe8c7b85cf",
@@ -123,7 +123,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:55:12.002126+00:00"
+    "scraped_at": "2026-11-12T07:33:09.330948+00:00"
   },
   {
     "id": "ec59ac4b766d6787f3f3c585a08697a3",
@@ -137,7 +137,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:55:12.002217+00:00"
+    "scraped_at": "2026-11-12T07:33:09.331062+00:00"
   },
   {
     "id": "296cd4ad57d3d59a9f338540f88828bc",
@@ -151,7 +151,7 @@
     "source_name": "ICM 2026",
     "source_url": "https://www.mathunion.org/icm/icm-2026",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:55:10.997919+00:00"
+    "scraped_at": "2026-11-12T07:33:08.373883+00:00"
   },
   {
     "id": "77377557319f98ea836823b981d37c1e",
@@ -165,35 +165,7 @@
     "source_name": "Mathseon Notifications",
     "source_url": "https://mathseon.in/notifications/",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:51:38.982924+00:00"
-  },
-  {
-    "id": "491f063fa9a6797f44fe57bbe4aa9ccf",
-    "title": "What the ICML 2026 Communications Chairs Were Up To Aug 10, 2026",
-    "description": "What the ICML 2026 Communications Chairs Were Up To Aug 10, 2026 Announcing the ICML 2026 Awards Jul 05, 2026 Socials at ICML 2026 Jul 02, 2026 ICML 2026 Registration Update: Capacity Limits and What Attendees Need to Know May 24, 2026 Announcing the ICML 2026 Invited Talks May 18, 2026 ICML 2026 Lay Summaries May 08, 2026",
-    "url": "https://blog.icml.cc/2026/08/10/what-the-icml-2026-communications-chairs-were-up-to/",
-    "deadline": "2026-08-10",
-    "event_date": "2026-08-10",
-    "location": "World",
-    "category": "Fellowship / Award",
-    "source_name": "ICML",
-    "source_url": "https://icml.cc/",
-    "is_new": true,
-    "scraped_at": "2026-11-11T06:51:43.116571+00:00"
-  },
-  {
-    "id": "4b90964abc8d21d247308699d7e091da",
-    "title": "Announcing the ICML 2026 Awards Jul 05, 2026",
-    "description": "What the ICML 2026 Communications Chairs Were Up To Aug 10, 2026 Announcing the ICML 2026 Awards Jul 05, 2026 Socials at ICML 2026 Jul 02, 2026 ICML 2026 Registration Update: Capacity Limits and What Attendees Need to Know May 24, 2026 Announcing the ICML 2026 Invited Talks May 18, 2026 ICML 2026 Lay Summaries May 08, 2026",
-    "url": "https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/",
-    "deadline": "2026-08-10",
-    "event_date": "2026-08-10",
-    "location": "World",
-    "category": "Fellowship / Award",
-    "source_name": "ICML",
-    "source_url": "https://icml.cc/",
-    "is_new": true,
-    "scraped_at": "2026-11-11T06:51:43.116704+00:00"
+    "scraped_at": "2026-11-12T07:28:50.686853+00:00"
   },
   {
     "id": "567308212ab9427b3af5275861080f48",
@@ -207,7 +179,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:51:40.230310+00:00"
+    "scraped_at": "2026-11-12T07:28:51.922108+00:00"
   },
   {
     "id": "100b50cca3835b66bac5f90fb43a2e41",
@@ -221,7 +193,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:53:59.444684+00:00"
+    "scraped_at": "2026-11-12T07:31:54.574097+00:00"
   },
   {
     "id": "d3b4b50e67d0310d570dd5b96a56a225",
@@ -235,7 +207,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:53:59.444435+00:00"
+    "scraped_at": "2026-11-12T07:31:54.573786+00:00"
   },
   {
     "id": "ac3289f69975cdbf6bd4cfe0dae20a2a",
@@ -249,7 +221,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:53:59.444515+00:00"
+    "scraped_at": "2026-11-12T07:31:54.573896+00:00"
   },
   {
     "id": "6505123d9c8f9adced3e38308fad6e2c",
@@ -263,7 +235,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:53:59.444601+00:00"
+    "scraped_at": "2026-11-12T07:31:54.573992+00:00"
   },
   {
     "id": "cb128183bda3fcef627c26ccc6a39d59",
@@ -277,7 +249,7 @@
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
     "is_new": true,
-    "scraped_at": "2026-11-11T06:51:39.097785+00:00"
+    "scraped_at": "2026-11-12T07:28:50.795951+00:00"
   },
   {
     "id": "bae52ac1f333a3e256dbc869f86ee12d",
@@ -96302,7 +96274,7 @@
     "category": "Conference",
     "source_name": "MathMeetings.net",
     "source_url": "https://mathmeetings.net/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:51:47.939543+00:00"
   },
   {
@@ -96316,7 +96288,7 @@
     "category": "Conference",
     "source_name": "MathMeetings.net",
     "source_url": "https://mathmeetings.net/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:51:47.939584+00:00"
   },
   {
@@ -96330,7 +96302,7 @@
     "category": "Webinar / Lecture",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:51:50.798051+00:00"
   },
   {
@@ -96344,7 +96316,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:51:50.798359+00:00"
   },
   {
@@ -96358,7 +96330,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:51:50.798529+00:00"
   },
   {
@@ -96372,7 +96344,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:51:50.798756+00:00"
   },
   {
@@ -96386,7 +96358,7 @@
     "category": "Conference",
     "source_name": "WikiCFP Data Science",
     "source_url": "http://www.wikicfp.com/cfp/call?conference=data+science",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:51:53.255064+00:00"
   },
   {
@@ -96400,7 +96372,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:52:02.843349+00:00"
   },
   {
@@ -96414,7 +96386,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:52:02.843445+00:00"
   },
   {
@@ -96428,7 +96400,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:52:02.843544+00:00"
   },
   {
@@ -96442,7 +96414,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Alerts India Stat",
     "source_url": "https://www.conferencealerts.in/india/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:52:04.195681+00:00"
   },
   {
@@ -96456,7 +96428,7 @@
     "category": "Conference",
     "source_name": "ISI",
     "source_url": "https://www.isi-web.org",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:13.050709+00:00"
   },
   {
@@ -96470,7 +96442,7 @@
     "category": "Conference",
     "source_name": "ISI",
     "source_url": "https://www.isi-web.org",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:13.050789+00:00"
   },
   {
@@ -96484,7 +96456,7 @@
     "category": "Conference",
     "source_name": "ISI",
     "source_url": "https://www.isi-web.org",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:13.050808+00:00"
   },
   {
@@ -96498,7 +96470,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:16.427735+00:00"
   },
   {
@@ -96512,7 +96484,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:16.427886+00:00"
   },
   {
@@ -96526,7 +96498,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:16.427937+00:00"
   },
   {
@@ -96540,7 +96512,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:16.427991+00:00"
   },
   {
@@ -96554,7 +96526,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:16.428039+00:00"
   },
   {
@@ -96568,7 +96540,7 @@
     "category": "Workshop / School",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:16.428108+00:00"
   },
   {
@@ -96582,7 +96554,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:16.428129+00:00"
   },
   {
@@ -96596,7 +96568,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:16.428149+00:00"
   },
   {
@@ -96610,7 +96582,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:16.428178+00:00"
   },
   {
@@ -96624,7 +96596,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:16.428202+00:00"
   },
   {
@@ -96638,7 +96610,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:16.428226+00:00"
   },
   {
@@ -96652,7 +96624,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:16.428247+00:00"
   },
   {
@@ -96666,7 +96638,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:16.428345+00:00"
   },
   {
@@ -96680,7 +96652,357 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-11T06:55:16.428411+00:00"
+  },
+  {
+    "id": "d5af3c99b9a43a37642db7f035942b75",
+    "title": "Organize a Program",
+    "description": "Organize a Program",
+    "url": "https://register1.icts.res.in/organize-program/pc-14",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ICTS Bengaluru",
+    "source_url": "https://www.icts.res.in/current-and-upcoming-events",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:28:42.711852+00:00"
+  },
+  {
+    "id": "fdb59be6281a8b4a86b6bb663c99ef5f",
+    "title": "Contribution Types",
+    "description": "Contribution Types",
+    "url": "https://icml.cc/Conferences/2027/ContributionTypes",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "ICML",
+    "source_url": "https://icml.cc/",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:28:54.802970+00:00"
+  },
+  {
+    "id": "2ced238ae2ed536f6faad40e00d3123a",
+    "title": "Generative AI Policy for Authors",
+    "description": "Generative AI Policy for Authors",
+    "url": "https://icml.cc/Conferences/2027/UseOfGenerativeAIByAuthors",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "ICML",
+    "source_url": "https://icml.cc/",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:28:54.802999+00:00"
+  },
+  {
+    "id": "fd09869e39abc36d4da9faee0bf80f8e",
+    "title": "Submission Quotas and Reciprocal Reviewing",
+    "description": "Submission Quotas and Reciprocal Reviewing",
+    "url": "https://icml.cc/Conferences/2027/ReciprocalReviewingAndSubmissionQuotas",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "ICML",
+    "source_url": "https://icml.cc/",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:28:54.803029+00:00"
+  },
+  {
+    "id": "5a3bbe4a03780bc2a27efc056b8889c0",
+    "title": "Global ISI Events",
+    "description": "Global ISI Events",
+    "url": "https://isi-web.org/index%2Ephp/Global-ISI-Events",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ISI World Calendar",
+    "source_url": "https://isi-web.org/calendar",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:28:56.052022+00:00"
+  },
+  {
+    "id": "6a5654729208f44ac7daffe3b508bbff",
+    "title": "Capacity Development",
+    "description": "Capacity Development",
+    "url": "https://isi-web.org/index%2Ephp/capacity-development",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ISI World Calendar",
+    "source_url": "https://isi-web.org/calendar",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:28:56.052050+00:00"
+  },
+  {
+    "id": "d974a3ddf4f9bccbcf75bcda6622a075",
+    "title": "Webinars, Courses & Workshops",
+    "description": "Webinars, Courses & Workshops",
+    "url": "https://isi-web.org/index%2Ephp/webinars-courses-workshops",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "ISI World Calendar",
+    "source_url": "https://isi-web.org/calendar",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:28:56.052135+00:00"
+  },
+  {
+    "id": "1c985fceec19228b383653ac2c3ef642",
+    "title": "Awards & Prizes",
+    "description": "Awards & Prizes",
+    "url": "https://isi-web.org/index%2Ephp/awards-prizes",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "ISI World Calendar",
+    "source_url": "https://isi-web.org/calendar",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:28:56.052161+00:00"
+  },
+  {
+    "id": "cb5fba4ca57a352d398de36bee8490c2",
+    "title": "Scientific Journals",
+    "description": "Scientific Journals",
+    "url": "https://isi-web.org/index%2Ephp/scientific-journals",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ISI World Calendar",
+    "source_url": "https://isi-web.org/calendar",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:28:56.052186+00:00"
+  },
+  {
+    "id": "903553bced8a1a491f2e9c06d91d6d8c",
+    "title": "Hossein Movasati",
+    "description": "Hossein Movasati",
+    "url": "https://w3.impa.br/%7Ehossein/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:29:02.430529+00:00"
+  },
+  {
+    "id": "9d16ced4bacb165e9585aefed11e7f35",
+    "title": "Michael Friedlander (*Friday*)",
+    "description": "Michael Friedlander (*Friday*)",
+    "url": "https://friedlander.io/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:29:02.430844+00:00"
+  },
+  {
+    "id": "b07e662d375f5d5d251c461e4fcf4fbb",
+    "title": "Samuel Schapiro",
+    "description": "Samuel Schapiro",
+    "url": "https://schapiro.ai/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:29:02.431035+00:00"
+  },
+  {
+    "id": "3366d3cf59bb6d888ed42de83067cfcb",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2105397",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:29:53.963381+00:00"
+  },
+  {
+    "id": "d8b3e4f024e4babd437890544ef4a17c",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/eventdetail/2105380",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:29:53.963509+00:00"
+  },
+  {
+    "id": "c0154fffeaee1ca07f4e3361c63ebd8b",
+    "title": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "description": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "url": "https://www.conferencealerts.in/eventdetail/2137962",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Alerts India Stat",
+    "source_url": "https://www.conferencealerts.in/india/statistics",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:29:55.194559+00:00"
+  },
+  {
+    "id": "343b37dfa80fd4c85bc2af773d4d218e",
+    "title": "VLA-Medical-Theranostics1",
+    "description": "VLA-Medical-Theranostics1",
+    "url": "https://easychair.org/cfp/vlamedicaltheranostic0",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:32:46.995222+00:00"
+  },
+  {
+    "id": "d8c52acb10c1b0b74a2d9fb51f30f22e",
+    "title": "Vision-Conf 2027",
+    "description": "Vision-Conf 2027",
+    "url": "https://easychair.org/cfp/vision-conf-2027",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:32:46.995412+00:00"
+  },
+  {
+    "id": "8b700988a0a3c418524325e5c5cc516a",
+    "title": "virtual intelligence",
+    "description": "computer vision pattern recognition image processing virtual intelligence",
+    "url": "https://easychair.org/cfp/topic?tid=5132630",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:32:46.995551+00:00"
+  },
+  {
+    "id": "6b6936523d63d04d71594992aa7ea5e1",
+    "title": "applied sciences",
+    "description": "applied sciences computer science and information technology engineering and technology",
+    "url": "https://easychair.org/cfp/topic?tid=346621",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:32:46.995792+00:00"
+  },
+  {
+    "id": "6178369665f7dee957a1b1325736f4ef",
+    "title": "computer science and information technology",
+    "description": "applied sciences computer science and information technology engineering and technology",
+    "url": "https://easychair.org/cfp/topic?tid=13104989",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:32:46.995830+00:00"
+  },
+  {
+    "id": "8ee138575fd0e30d8f48ae9b5e80f825",
+    "title": "started experimenting",
+    "description": "Back in July, I started experimenting with using modern coding agents to build a number of mathematical visualization applets. With the extremely hectic events of the last few months, I had to set those projects aside; but I recently found a bit of time to work on one such project that I had started back then, which was to modernize a Javascript interactive textbook I had made back in 2018, entit…",
+    "url": "https://terrytao.wordpress.com/tag/applets/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:33:14.869967+00:00"
+  },
+  {
+    "id": "be930a5ec462eb88e01beb3df686c2e5",
+    "title": "Javascript interactive textbook I had made back in 2018",
+    "description": "Back in July, I started experimenting with using modern coding agents to build a number of mathematical visualization applets. With the extremely hectic events of the last few months, I had to set those projects aside; but I recently found a bit of time to work on one such project that I had started back then, which was to modernize a Javascript interactive textbook I had made back in 2018, entit…",
+    "url": "https://teorth.github.io/QED/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:33:14.870106+00:00"
+  },
+  {
+    "id": "e77116ed58694ddecbae063d3f7644ea",
+    "title": "announced previously on this blog",
+    "description": "Back in July, I started experimenting with using modern coding agents to build a number of mathematical visualization applets. With the extremely hectic events of the last few months, I had to set those projects aside; but I recently found a bit of time to work on one such project that I had started back then, which was to modernize a Javascript interactive textbook I had made back in 2018, entit…",
+    "url": "https://terrytao.wordpress.com/2018/08/18/qed-version-2-0-an-interactive-text-in-first-order-logic/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:33:14.870241+00:00"
+  },
+  {
+    "id": "fb2ebdc19b2ae552f0c9345537ce2461",
+    "title": "rebuilt the game",
+    "description": "With a coding agent, I rebuilt the game (which I have given the working title of “Lean Grimoire”) with a number of new features, for instance giving the option to show an in-progress Lean proof of one’s game state. Just for fun, I also added an option to play in a “fantasy mode” in which various game elements are depicted using fantasy-themed flavor text (for instance, mathematical statements bec…",
+    "url": "https://teorth.github.io/tao-web/apps/grimoire.html",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:33:14.870369+00:00"
+  },
+  {
+    "id": "b54480d0d14e12b8e386f35cb50b8307",
+    "title": "six math essentials",
+    "description": "10 November, 2026 in advertising, book, math.GM | Tags: six math essentials | by Terence Tao | 1 comment",
+    "url": "https://terrytao.wordpress.com/tag/six-math-essentials/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-11-12T07:33:14.870496+00:00"
   }
 ]
