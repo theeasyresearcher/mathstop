@@ -11,7 +11,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:10:50.313779+00:00"
+    "scraped_at": "2026-11-23T07:57:16.269571+00:00"
   },
   {
     "id": "ceda61484e2b3e073cb8a9b15c2e55f8",
@@ -25,7 +25,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:10:50.312617+00:00"
+    "scraped_at": "2026-11-23T07:57:16.268251+00:00"
   },
   {
     "id": "1cef7f99ebcd0e1950f63ec03502aa1d",
@@ -39,7 +39,7 @@
     "source_name": "IIT Bombay Maths",
     "source_url": "https://www.math.iitb.ac.in/NewsEvents/events.php",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:13:25.002050+00:00"
+    "scraped_at": "2026-11-23T07:59:50.981692+00:00"
   },
   {
     "id": "52904ed4a5ceb9e8190cf67b4a2a5adf",
@@ -53,7 +53,7 @@
     "source_name": "Ramanujan Math Society",
     "source_url": "https://www.ramanujanmathsociety.org/",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:12:20.880568+00:00"
+    "scraped_at": "2026-11-23T07:59:04.651344+00:00"
   },
   {
     "id": "45fe337cb4030ce69caa20cc0c288687",
@@ -67,7 +67,7 @@
     "source_name": "IIT Bombay Maths",
     "source_url": "https://www.math.iitb.ac.in/NewsEvents/events.php",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:13:25.001650+00:00"
+    "scraped_at": "2026-11-23T07:59:50.981310+00:00"
   },
   {
     "id": "e84b6044d31bd9547e11888b7fc4d589",
@@ -81,7 +81,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:10:50.312022+00:00"
+    "scraped_at": "2026-11-23T07:57:16.267682+00:00"
   },
   {
     "id": "37e1dd1ca28c4f4cbfa52793335fb259",
@@ -95,7 +95,7 @@
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:13:19.536319+00:00"
+    "scraped_at": "2026-11-23T07:59:46.226679+00:00"
   },
   {
     "id": "540990b5464d8763cb8354334ce03ea6",
@@ -109,7 +109,21 @@
     "source_name": "IMU",
     "source_url": "https://www.mathunion.org",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:14:08.672690+00:00"
+    "scraped_at": "2026-11-23T08:00:52.734971+00:00"
+  },
+  {
+    "id": "967b00b2c4b3c2d7c92e1a7eb4a918bc",
+    "title": "(Deadline extended: June 30, 2026) WSC 2027, Invited Paper Sessions – Open for Proposals!",
+    "description": "(Deadline extended: June 30, 2026) WSC 2027, Invited Paper Sessions – Open for Proposals!",
+    "url": "https://iasc-isi.org/2026/06/19/wsc-2027-invited-paper-sessions-open-for-proposals/",
+    "deadline": "2026-06-30",
+    "event_date": "2026-06-30",
+    "location": "India",
+    "category": "Conference",
+    "source_name": "IASC-ISI",
+    "source_url": "https://iasc-isi.org/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T07:59:36.155342+00:00"
   },
   {
     "id": "3e63c233f5b96f4a23090ffe8c7b85cf",
@@ -123,7 +137,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:14:07.737490+00:00"
+    "scraped_at": "2026-11-23T08:00:52.355993+00:00"
   },
   {
     "id": "ec59ac4b766d6787f3f3c585a08697a3",
@@ -137,7 +151,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:14:07.737629+00:00"
+    "scraped_at": "2026-11-23T08:00:52.356131+00:00"
   },
   {
     "id": "296cd4ad57d3d59a9f338540f88828bc",
@@ -151,7 +165,7 @@
     "source_name": "ICM 2026",
     "source_url": "https://www.mathunion.org/icm/icm-2026",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:14:06.529951+00:00"
+    "scraped_at": "2026-11-23T08:00:51.003392+00:00"
   },
   {
     "id": "77377557319f98ea836823b981d37c1e",
@@ -165,7 +179,7 @@
     "source_name": "Mathseon Notifications",
     "source_url": "https://mathseon.in/notifications/",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:10:48.894671+00:00"
+    "scraped_at": "2026-11-23T07:57:14.948476+00:00"
   },
   {
     "id": "567308212ab9427b3af5275861080f48",
@@ -179,7 +193,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:10:50.311729+00:00"
+    "scraped_at": "2026-11-23T07:57:16.267409+00:00"
   },
   {
     "id": "100b50cca3835b66bac5f90fb43a2e41",
@@ -193,7 +207,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:13:11.236451+00:00"
+    "scraped_at": "2026-11-23T07:59:36.714023+00:00"
   },
   {
     "id": "cb128183bda3fcef627c26ccc6a39d59",
@@ -207,7 +221,7 @@
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:10:49.058061+00:00"
+    "scraped_at": "2026-11-23T07:57:15.085688+00:00"
   },
   {
     "id": "d3b4b50e67d0310d570dd5b96a56a225",
@@ -221,7 +235,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:13:11.236073+00:00"
+    "scraped_at": "2026-11-23T07:59:36.713616+00:00"
   },
   {
     "id": "ac3289f69975cdbf6bd4cfe0dae20a2a",
@@ -235,7 +249,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:13:11.236202+00:00"
+    "scraped_at": "2026-11-23T07:59:36.713746+00:00"
   },
   {
     "id": "6505123d9c8f9adced3e38308fad6e2c",
@@ -249,7 +263,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-22T07:13:11.236322+00:00"
+    "scraped_at": "2026-11-23T07:59:36.713885+00:00"
   },
   {
     "id": "1585e70db915530f524c28992a2f6ba1",
@@ -100964,7 +100978,7 @@
     "category": "Conference",
     "source_name": "ISI World Calendar",
     "source_url": "https://isi-web.org/calendar",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:10:55.647319+00:00"
   },
   {
@@ -100978,7 +100992,7 @@
     "category": "Conference",
     "source_name": "ISI World Calendar",
     "source_url": "https://isi-web.org/calendar",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:10:55.647349+00:00"
   },
   {
@@ -100992,7 +101006,7 @@
     "category": "Workshop / School",
     "source_name": "ISI World Calendar",
     "source_url": "https://isi-web.org/calendar",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:10:55.647443+00:00"
   },
   {
@@ -101006,7 +101020,7 @@
     "category": "Fellowship / Award",
     "source_name": "ISI World Calendar",
     "source_url": "https://isi-web.org/calendar",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:10:55.647474+00:00"
   },
   {
@@ -101020,7 +101034,7 @@
     "category": "Conference",
     "source_name": "ISI World Calendar",
     "source_url": "https://isi-web.org/calendar",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:10:55.647503+00:00"
   },
   {
@@ -101034,7 +101048,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:11:32.641460+00:00"
   },
   {
@@ -101048,7 +101062,7 @@
     "category": "Conference",
     "source_name": "BigEvent",
     "source_url": "https://bigevent.io/events/category/data-science/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:13:41.997346+00:00"
   },
   {
@@ -101062,7 +101076,7 @@
     "category": "Conference",
     "source_name": "RSS",
     "source_url": "https://www.rss.org.uk",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:14:34.251580+00:00"
   },
   {
@@ -101076,7 +101090,7 @@
     "category": "Fellowship / Award",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:14:34.438983+00:00"
   },
   {
@@ -101090,7 +101104,7 @@
     "category": "Fellowship / Award",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:14:34.439206+00:00"
   },
   {
@@ -101104,7 +101118,7 @@
     "category": "Exam / Notification",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:14:34.439263+00:00"
   },
   {
@@ -101118,7 +101132,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:14:34.439311+00:00"
   },
   {
@@ -101132,7 +101146,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:14:34.439352+00:00"
   },
   {
@@ -101146,7 +101160,7 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:14:34.439393+00:00"
   },
   {
@@ -101160,7 +101174,469 @@
     "category": "Conference",
     "source_name": "Terence Tao Blog",
     "source_url": "https://terrytao.wordpress.com",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-22T07:14:34.439430+00:00"
+  },
+  {
+    "id": "fba4e9c23c4e87ab23aa45b9a6b01e08",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/event/icmpd-2026-nellore-2105805",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-11-23T07:57:38.572174+00:00"
+  },
+  {
+    "id": "9f0c4b28fc6f6714d829f28413a35d6e",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/event/icmpd-2026-roorkee-2105788",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-11-23T07:57:38.572328+00:00"
+  },
+  {
+    "id": "173a3d353ac9548f79f4865888911337",
+    "title": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "description": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "url": "https://www.conferencealerts.in/event/icasms-2026-pune-2298553",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Alerts India Stat",
+    "source_url": "https://www.conferencealerts.in/india/statistics",
+    "is_new": true,
+    "scraped_at": "2026-11-23T07:57:39.675170+00:00"
+  },
+  {
+    "id": "a1553904bc49ec87d8ba8ba6fca17386",
+    "title": "Call for Nominations for Distinguished Career and Early Career Excellence Awards",
+    "description": "Call for Nominations for Distinguished Career and Early Career Excellence Awards",
+    "url": "https://iasc-isi.org/2026/11/22/call-for-nominations-for-distinguished-career-and-early-career-excellence-awards/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Fellowship / Award",
+    "source_name": "IASC-ISI",
+    "source_url": "https://iasc-isi.org/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T07:59:36.154894+00:00"
+  },
+  {
+    "id": "c8c89acb506b7d3b80b626a9f055bcff",
+    "title": "mathematical programming",
+    "description": "algorithm engineering mathematical programming operations research",
+    "url": "https://easychair.org/cfp/topic?tid=11049",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373064+00:00"
+  },
+  {
+    "id": "99ea21bad311896c6690505d9d3c0a59",
+    "title": "operations research",
+    "description": "algorithm engineering mathematical programming operations research",
+    "url": "https://easychair.org/cfp/topic?tid=22792",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373103+00:00"
+  },
+  {
+    "id": "29c6825fd1db1199a66d526f9b46283b",
+    "title": "ACM SaT-CPS2027",
+    "description": "ACM SaT-CPS2027",
+    "url": "https://easychair.org/cfp/sat-cps27",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373134+00:00"
+  },
+  {
+    "id": "eb901fa7170b2d7193ffc36919d1c4bc",
+    "title": "security of cps/iot",
+    "description": "security of cps/iot privacy of cps/iot trustworthy cps/iot trustworthy ai in cps/iot",
+    "url": "https://easychair.org/cfp/topic?tid=44598677",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373181+00:00"
+  },
+  {
+    "id": "687f3e62455dc614bf46be9b6e163661",
+    "title": "privacy of cps/iot",
+    "description": "security of cps/iot privacy of cps/iot trustworthy cps/iot trustworthy ai in cps/iot",
+    "url": "https://easychair.org/cfp/topic?tid=44598678",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373224+00:00"
+  },
+  {
+    "id": "644048dac4bbaffefda7566ff67a8d06",
+    "title": "trustworthy cps/iot",
+    "description": "security of cps/iot privacy of cps/iot trustworthy cps/iot trustworthy ai in cps/iot",
+    "url": "https://easychair.org/cfp/topic?tid=44598679",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373273+00:00"
+  },
+  {
+    "id": "0c3de0149c2508b479180145827ed349",
+    "title": "teacher education",
+    "description": "teacher education professional development",
+    "url": "https://easychair.org/cfp/topic?tid=166041",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373354+00:00"
+  },
+  {
+    "id": "d0bd585b755cf8308b1470046d40e8a8",
+    "title": "professional development",
+    "description": "teacher education professional development",
+    "url": "https://easychair.org/cfp/topic?tid=76852",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373389+00:00"
+  },
+  {
+    "id": "782e88d5e8a734e2ac9ac37963e10ae4",
+    "title": "computational creativity",
+    "description": "computational creativity machine learning artificial intelligence creativity",
+    "url": "https://easychair.org/cfp/topic?tid=173434",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373435+00:00"
+  },
+  {
+    "id": "5dd82316c0d91cd307c80b153387cc4a",
+    "title": "BigDataService 2027",
+    "description": "BigDataService 2027",
+    "url": "https://easychair.org/cfp/bigdataservice2027",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373612+00:00"
+  },
+  {
+    "id": "3238fafcf5689a4e9b6385274eb4dd2a",
+    "title": "computer communications and networks",
+    "description": "internet of things (iot) computer communications and networks network security and privacy ai/ml for networking",
+    "url": "https://easychair.org/cfp/topic?tid=28825496",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373745+00:00"
+  },
+  {
+    "id": "389099bed2ded261450955a5b51423cb",
+    "title": "network security and privacy",
+    "description": "internet of things (iot) computer communications and networks network security and privacy ai/ml for networking",
+    "url": "https://easychair.org/cfp/topic?tid=22693056",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373804+00:00"
+  },
+  {
+    "id": "66041faa5687dcb074c2f368a0b55896",
+    "title": "ai/ml for networking",
+    "description": "internet of things (iot) computer communications and networks network security and privacy ai/ml for networking",
+    "url": "https://easychair.org/cfp/topic?tid=44582986",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373853+00:00"
+  },
+  {
+    "id": "a1ce481c0c472b77206d1ba278295b67",
+    "title": "Nordic DiGRA 2027",
+    "description": "Nordic DiGRA 2027",
+    "url": "https://easychair.org/cfp/NordicDiGRA2027",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373885+00:00"
+  },
+  {
+    "id": "397c30be37884eaa853e372365d6f09a",
+    "title": "consumer technology & smart systems",
+    "description": "consumer technology & smart systems emerging technologies & artificial intelligence communications & network infrastructure educational technology & engineering pedagogy",
+    "url": "https://easychair.org/cfp/topic?tid=44578722",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373946+00:00"
+  },
+  {
+    "id": "3da4ac0d22c5c1e2210bdafbc122f400",
+    "title": "emerging technologies & artificial intelligence",
+    "description": "consumer technology & smart systems emerging technologies & artificial intelligence communications & network infrastructure educational technology & engineering pedagogy",
+    "url": "https://easychair.org/cfp/topic?tid=44578723",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.373999+00:00"
+  },
+  {
+    "id": "cd4c1d816948b0a0c60021fedc53e000",
+    "title": "communications & network infrastructure",
+    "description": "consumer technology & smart systems emerging technologies & artificial intelligence communications & network infrastructure educational technology & engineering pedagogy",
+    "url": "https://easychair.org/cfp/topic?tid=44578724",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.374051+00:00"
+  },
+  {
+    "id": "76e4e45163561d1839e84d943cbf7f89",
+    "title": "educational technology & engineering pedagogy",
+    "description": "consumer technology & smart systems emerging technologies & artificial intelligence communications & network infrastructure educational technology & engineering pedagogy",
+    "url": "https://easychair.org/cfp/topic?tid=44578725",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Exam / Notification",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.374105+00:00"
+  },
+  {
+    "id": "555b5288d39e3458ab04d8d38627562f",
+    "title": "continuous integration",
+    "description": "continuous integration software testing industry software engineering",
+    "url": "https://easychair.org/cfp/topic?tid=145166",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.374152+00:00"
+  },
+  {
+    "id": "d137c8a11d3ae851910e76668e3b2fe3",
+    "title": "programming models compilers and runtimes",
+    "description": "programming models compilers and runtimes resource management and performance modeling distributed execution and communication optimization ai/ml and scientific workloads",
+    "url": "https://easychair.org/cfp/topic?tid=44558119",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.374443+00:00"
+  },
+  {
+    "id": "7c6614038c7a5a17aa38a4a563c40f1f",
+    "title": "resource management and performance modeling",
+    "description": "programming models compilers and runtimes resource management and performance modeling distributed execution and communication optimization ai/ml and scientific workloads",
+    "url": "https://easychair.org/cfp/topic?tid=44558120",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.374497+00:00"
+  },
+  {
+    "id": "7574e3daaa37307d06d8e30546b81f82",
+    "title": "distributed execution and communication optimization",
+    "description": "programming models compilers and runtimes resource management and performance modeling distributed execution and communication optimization ai/ml and scientific workloads",
+    "url": "https://easychair.org/cfp/topic?tid=44558121",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.374550+00:00"
+  },
+  {
+    "id": "5c2404044a5cbd70422e2956d98c229a",
+    "title": "ai/ml and scientific workloads",
+    "description": "programming models compilers and runtimes resource management and performance modeling distributed execution and communication optimization ai/ml and scientific workloads",
+    "url": "https://easychair.org/cfp/topic?tid=44558122",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.374603+00:00"
+  },
+  {
+    "id": "3744ad9e09f54eb4e488a1395abb0d45",
+    "title": "applied physics",
+    "description": "applied physics materials science and nanotechnology environmental physics and sustainable engineering sustainability",
+    "url": "https://easychair.org/cfp/topic?tid=957553",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.374788+00:00"
+  },
+  {
+    "id": "b6c92832ea5e9d2e33df0d0ab6a43f04",
+    "title": "materials science and nanotechnology",
+    "description": "applied physics materials science and nanotechnology environmental physics and sustainable engineering sustainability",
+    "url": "https://easychair.org/cfp/topic?tid=33270240",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.374839+00:00"
+  },
+  {
+    "id": "97dba43d46bb9bdccaad93f0ac697230",
+    "title": "environmental physics and sustainable engineering",
+    "description": "applied physics materials science and nanotechnology environmental physics and sustainable engineering sustainability",
+    "url": "https://easychair.org/cfp/topic?tid=38686410",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.374885+00:00"
+  },
+  {
+    "id": "81d99d020d88539edb491db57d38e9e6",
+    "title": "structural integrity",
+    "description": "structural integrity offshore wind hydrogen co2 storage",
+    "url": "https://easychair.org/cfp/topic?tid=80661",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "EasyChair CFP",
+    "source_url": "https://easychair.org/cfp/",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:00:29.375006+00:00"
+  },
+  {
+    "id": "7b1790087820a0b231927f191886be28",
+    "title": "Tenure-track position in pure mathematics at UCLA",
+    "description": "Tenure-track position in pure mathematics at UCLA",
+    "url": "https://terrytao.wordpress.com/2026/11/22/tenure-track-position-in-pure-mathematics-at-ucla/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Fellowship / Award",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:01:00.089764+00:00"
+  },
+  {
+    "id": "661c8910aa912dbe85a4ae43ae01df55",
+    "title": "invites applications",
+    "description": "The Department of Mathematics at the University of California, Los Angeles, invites applications for a tenure-track faculty position as an Assistant Professor in mathematics. A competitive candidate should have a transformative research program and show excellence in undergraduate teaching and educational innovation. We give preference to applicants in areas of pure and applied mathematics. Appli…",
+    "url": "https://recruit.apo.ucla.edu/JPF11458",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Fellowship / Award",
+    "source_name": "Terence Tao Blog",
+    "source_url": "https://terrytao.wordpress.com",
+    "is_new": true,
+    "scraped_at": "2026-11-23T08:01:00.090069+00:00"
   }
 ]
