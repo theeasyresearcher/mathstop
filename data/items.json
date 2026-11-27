@@ -11,7 +11,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:41:36.708405+00:00"
+    "scraped_at": "2026-11-27T08:52:46.918310+00:00"
   },
   {
     "id": "ceda61484e2b3e073cb8a9b15c2e55f8",
@@ -25,7 +25,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:41:36.707445+00:00"
+    "scraped_at": "2026-11-27T08:52:46.917538+00:00"
   },
   {
     "id": "1cef7f99ebcd0e1950f63ec03502aa1d",
@@ -39,7 +39,7 @@
     "source_name": "IIT Bombay Maths",
     "source_url": "https://www.math.iitb.ac.in/NewsEvents/events.php",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:43:54.813672+00:00"
+    "scraped_at": "2026-11-27T08:55:36.370689+00:00"
   },
   {
     "id": "52904ed4a5ceb9e8190cf67b4a2a5adf",
@@ -53,7 +53,7 @@
     "source_name": "Ramanujan Math Society",
     "source_url": "https://www.ramanujanmathsociety.org/",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:43:07.765584+00:00"
+    "scraped_at": "2026-11-27T08:54:38.667530+00:00"
   },
   {
     "id": "45fe337cb4030ce69caa20cc0c288687",
@@ -67,7 +67,7 @@
     "source_name": "IIT Bombay Maths",
     "source_url": "https://www.math.iitb.ac.in/NewsEvents/events.php",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:43:54.813343+00:00"
+    "scraped_at": "2026-11-27T08:55:36.370425+00:00"
   },
   {
     "id": "e84b6044d31bd9547e11888b7fc4d589",
@@ -81,7 +81,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:41:36.706981+00:00"
+    "scraped_at": "2026-11-27T08:52:46.917186+00:00"
   },
   {
     "id": "37e1dd1ca28c4f4cbfa52793335fb259",
@@ -95,21 +95,7 @@
     "source_name": "HBCSE Olympiads",
     "source_url": "https://olympiads.hbcse.tifr.res.in/mathematical-olympiad-2025-2026/",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:43:50.308985+00:00"
-  },
-  {
-    "id": "540990b5464d8763cb8354334ce03ea6",
-    "title": "Skip to main content",
-    "description": "Skip to main content User account menu Log in Site switcher IMU ICMI CDC CoP CWM ICHM InternationalMathematicalUnion IMU Main navigation Organization About Mission Statutes General Assembly IMU Executive Committee IMU Representatives IMU Secretariat IMU Circle IMU News ISC Membership IMU Archive IMU History Membership IMU Membership Members Associate Members Affiliate Members Membership Dues Cand…",
-    "url": "https://www.mathunion.org#main-content",
-    "deadline": "2026-06-01",
-    "event_date": "2026-06-01",
-    "location": "India",
-    "category": "Workshop / School",
-    "source_name": "IMU",
-    "source_url": "https://www.mathunion.org",
-    "is_new": true,
-    "scraped_at": "2026-11-26T08:44:37.880316+00:00"
+    "scraped_at": "2026-11-27T08:55:31.681971+00:00"
   },
   {
     "id": "967b00b2c4b3c2d7c92e1a7eb4a918bc",
@@ -123,7 +109,7 @@
     "source_name": "IASC-ISI",
     "source_url": "https://iasc-isi.org/",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:43:38.551698+00:00"
+    "scraped_at": "2026-11-27T08:55:22.439489+00:00"
   },
   {
     "id": "3e63c233f5b96f4a23090ffe8c7b85cf",
@@ -137,7 +123,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:44:37.550233+00:00"
+    "scraped_at": "2026-11-27T08:56:38.917587+00:00"
   },
   {
     "id": "ec59ac4b766d6787f3f3c585a08697a3",
@@ -151,21 +137,7 @@
     "source_name": "IMO Official",
     "source_url": "https://www.imo-official.org",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:44:37.550343+00:00"
-  },
-  {
-    "id": "296cd4ad57d3d59a9f338540f88828bc",
-    "title": "Skip to main content",
-    "description": "Skip to main content User account menu Log in Site switcher IMU ICMI CDC CoP CWM ICHM InternationalMathematicalUnion IMU Main navigation Organization About Mission Statutes General Assembly IMU Executive Committee IMU Representatives IMU Secretariat IMU Circle IMU News ISC Membership IMU Archive IMU History Membership IMU Membership Members Associate Members Affiliate Members Membership Dues Cand…",
-    "url": "https://www.mathunion.org/icm/icm-2026#main-content",
-    "deadline": "2026-07-30",
-    "event_date": "2026-07-30",
-    "location": "India",
-    "category": "Workshop / School",
-    "source_name": "ICM 2026",
-    "source_url": "https://www.mathunion.org/icm/icm-2026",
-    "is_new": true,
-    "scraped_at": "2026-11-26T08:44:36.533113+00:00"
+    "scraped_at": "2026-11-27T08:56:38.917677+00:00"
   },
   {
     "id": "77377557319f98ea836823b981d37c1e",
@@ -179,7 +151,7 @@
     "source_name": "Mathseon Notifications",
     "source_url": "https://mathseon.in/notifications/",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:41:34.227823+00:00"
+    "scraped_at": "2026-11-27T08:52:45.578488+00:00"
   },
   {
     "id": "567308212ab9427b3af5275861080f48",
@@ -193,7 +165,7 @@
     "source_name": "TIFR Math",
     "source_url": "https://mathweb.tifr.res.in/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:41:36.706748+00:00"
+    "scraped_at": "2026-11-27T08:52:46.916991+00:00"
   },
   {
     "id": "100b50cca3835b66bac5f90fb43a2e41",
@@ -207,7 +179,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:43:39.043660+00:00"
+    "scraped_at": "2026-11-27T08:55:22.985936+00:00"
   },
   {
     "id": "cb128183bda3fcef627c26ccc6a39d59",
@@ -221,7 +193,7 @@
     "source_name": "P Kalika",
     "source_url": "https://pkalika.in/webinars-workshop-conference/",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:41:34.411156+00:00"
+    "scraped_at": "2026-11-27T08:52:45.790832+00:00"
   },
   {
     "id": "d3b4b50e67d0310d570dd5b96a56a225",
@@ -235,7 +207,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:43:39.043362+00:00"
+    "scraped_at": "2026-11-27T08:55:22.985695+00:00"
   },
   {
     "id": "ac3289f69975cdbf6bd4cfe0dae20a2a",
@@ -249,7 +221,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:43:39.043466+00:00"
+    "scraped_at": "2026-11-27T08:55:22.985788+00:00"
   },
   {
     "id": "6505123d9c8f9adced3e38308fad6e2c",
@@ -263,7 +235,7 @@
     "source_name": "Stanford Vakil Conf List",
     "source_url": "https://math.stanford.edu/~vakil/conferences.html",
     "is_new": true,
-    "scraped_at": "2026-11-26T08:43:39.043556+00:00"
+    "scraped_at": "2026-11-27T08:55:22.985859+00:00"
   },
   {
     "id": "a52e3df5a8494c2b29b751aec49b9071",
@@ -318,7 +290,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Stat",
     "source_url": "https://www.allconferencealert.com/india/mathematics-and-statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:58.371697+00:00"
   },
   {
@@ -556,7 +528,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert Com",
     "source_url": "https://www.allconferencealert.com/applied-mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:44:08.796662+00:00"
   },
   {
@@ -598,7 +570,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Stat",
     "source_url": "https://www.allconferencealert.com/statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:13.196676+00:00"
   },
   {
@@ -612,7 +584,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Stat",
     "source_url": "https://www.allconferencealert.com/statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:13.196778+00:00"
   },
   {
@@ -626,7 +598,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert World Stat",
     "source_url": "https://www.allconferencealert.com/statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:13.196573+00:00"
   },
   {
@@ -640,7 +612,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Stat",
     "source_url": "https://www.allconferencealert.com/statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:13.196364+00:00"
   },
   {
@@ -654,7 +626,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Stat",
     "source_url": "https://www.allconferencealert.com/statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:13.196471+00:00"
   },
   {
@@ -768,6 +740,20 @@
     "source_url": "https://isi-web.org/calendar",
     "is_new": false,
     "scraped_at": "2026-11-06T07:05:52.522074+00:00"
+  },
+  {
+    "id": "570d9f972dc9b450da82f37dc4466b1c",
+    "title": "08 Sep 2027 - 10 Sep 2027 EESW27 Porto, Portugal",
+    "description": "08 Sep 2027 - 10 Sep 2027 EESW27 Porto, Portugal",
+    "url": "https://isi-web.org/event-detail/811",
+    "deadline": "2027-09-08",
+    "event_date": "2027-09-08",
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ISI World Calendar",
+    "source_url": "https://isi-web.org/calendar",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:52:51.700196+00:00"
   },
   {
     "id": "f92e03362fe8dd7fcf65178a39b119ce",
@@ -103918,7 +103904,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:48.988751+00:00"
   },
   {
@@ -103932,7 +103918,7 @@
     "category": "Conference",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:48.988806+00:00"
   },
   {
@@ -103946,7 +103932,7 @@
     "category": "Workshop / School",
     "source_name": "ResearchSeminars.org",
     "source_url": "https://researchseminars.org/",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:48.989013+00:00"
   },
   {
@@ -103960,7 +103946,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.252463+00:00"
   },
   {
@@ -103974,7 +103960,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.252672+00:00"
   },
   {
@@ -103988,7 +103974,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.252708+00:00"
   },
   {
@@ -104002,7 +103988,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.252743+00:00"
   },
   {
@@ -104016,7 +104002,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253113+00:00"
   },
   {
@@ -104030,7 +104016,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253190+00:00"
   },
   {
@@ -104044,7 +104030,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253227+00:00"
   },
   {
@@ -104058,7 +104044,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253325+00:00"
   },
   {
@@ -104072,7 +104058,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253359+00:00"
   },
   {
@@ -104086,7 +104072,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253392+00:00"
   },
   {
@@ -104100,7 +104086,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253424+00:00"
   },
   {
@@ -104114,7 +104100,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253486+00:00"
   },
   {
@@ -104128,7 +104114,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253515+00:00"
   },
   {
@@ -104142,7 +104128,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253547+00:00"
   },
   {
@@ -104156,7 +104142,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253608+00:00"
   },
   {
@@ -104170,7 +104156,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253638+00:00"
   },
   {
@@ -104184,7 +104170,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253667+00:00"
   },
   {
@@ -104198,7 +104184,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253697+00:00"
   },
   {
@@ -104212,7 +104198,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253724+00:00"
   },
   {
@@ -104226,7 +104212,7 @@
     "category": "Exam / Notification",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253758+00:00"
   },
   {
@@ -104240,7 +104226,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253788+00:00"
   },
   {
@@ -104254,7 +104240,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253817+00:00"
   },
   {
@@ -104268,7 +104254,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253883+00:00"
   },
   {
@@ -104282,7 +104268,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253912+00:00"
   },
   {
@@ -104296,7 +104282,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253943+00:00"
   },
   {
@@ -104310,7 +104296,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.253972+00:00"
   },
   {
@@ -104324,7 +104310,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.254002+00:00"
   },
   {
@@ -104338,7 +104324,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.254031+00:00"
   },
   {
@@ -104352,7 +104338,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.254058+00:00"
   },
   {
@@ -104366,7 +104352,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.254086+00:00"
   },
   {
@@ -104380,7 +104366,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.254312+00:00"
   },
   {
@@ -104394,7 +104380,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.254349+00:00"
   },
   {
@@ -104408,7 +104394,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Math",
     "source_url": "https://www.allconferencealert.com/india/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:57.254423+00:00"
   },
   {
@@ -104422,7 +104408,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Stat",
     "source_url": "https://www.allconferencealert.com/india/mathematics-and-statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:58.371163+00:00"
   },
   {
@@ -104436,7 +104422,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Stat",
     "source_url": "https://www.allconferencealert.com/india/mathematics-and-statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:58.371301+00:00"
   },
   {
@@ -104450,7 +104436,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Stat",
     "source_url": "https://www.allconferencealert.com/india/mathematics-and-statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:58.371331+00:00"
   },
   {
@@ -104464,7 +104450,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Stat",
     "source_url": "https://www.allconferencealert.com/india/mathematics-and-statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:58.371362+00:00"
   },
   {
@@ -104478,7 +104464,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert India Stat",
     "source_url": "https://www.allconferencealert.com/india/mathematics-and-statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:41:58.372334+00:00"
   },
   {
@@ -104492,7 +104478,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:42:01.992390+00:00"
   },
   {
@@ -104506,7 +104492,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:42:01.992911+00:00"
   },
   {
@@ -104520,7 +104506,7 @@
     "category": "Conference",
     "source_name": "Conference Alerts India Math",
     "source_url": "https://www.conferencealerts.in/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:42:01.993043+00:00"
   },
   {
@@ -104534,7 +104520,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Alerts India Stat",
     "source_url": "https://www.conferencealerts.in/india/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:42:03.033822+00:00"
   },
   {
@@ -104548,7 +104534,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Alerts India Stat",
     "source_url": "https://www.conferencealerts.in/india/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:42:03.033955+00:00"
   },
   {
@@ -104562,7 +104548,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.255577+00:00"
   },
   {
@@ -104576,7 +104562,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.255678+00:00"
   },
   {
@@ -104590,7 +104576,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.255746+00:00"
   },
   {
@@ -104604,7 +104590,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.255810+00:00"
   },
   {
@@ -104618,7 +104604,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.255844+00:00"
   },
   {
@@ -104632,7 +104618,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.255876+00:00"
   },
   {
@@ -104646,7 +104632,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.256485+00:00"
   },
   {
@@ -104660,7 +104646,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.256582+00:00"
   },
   {
@@ -104674,7 +104660,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.256618+00:00"
   },
   {
@@ -104688,7 +104674,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.256719+00:00"
   },
   {
@@ -104702,7 +104688,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.256752+00:00"
   },
   {
@@ -104716,7 +104702,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.257037+00:00"
   },
   {
@@ -104730,7 +104716,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.257146+00:00"
   },
   {
@@ -104744,7 +104730,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.257370+00:00"
   },
   {
@@ -104758,7 +104744,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Math",
     "source_url": "https://www.allconferencealert.com/mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:12.257554+00:00"
   },
   {
@@ -104772,7 +104758,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Stat",
     "source_url": "https://www.allconferencealert.com/statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:13.194934+00:00"
   },
   {
@@ -104786,7 +104772,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Stat",
     "source_url": "https://www.allconferencealert.com/statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:13.194978+00:00"
   },
   {
@@ -104800,7 +104786,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert World Stat",
     "source_url": "https://www.allconferencealert.com/statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:13.195452+00:00"
   },
   {
@@ -104814,7 +104800,7 @@
     "category": "Workshop / School",
     "source_name": "AllConferenceAlert World Stat",
     "source_url": "https://www.allconferencealert.com/statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:13.195562+00:00"
   },
   {
@@ -104828,7 +104814,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Stat",
     "source_url": "https://www.allconferencealert.com/statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:13.195914+00:00"
   },
   {
@@ -104842,7 +104828,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Stat",
     "source_url": "https://www.allconferencealert.com/statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:13.195953+00:00"
   },
   {
@@ -104856,7 +104842,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Stat",
     "source_url": "https://www.allconferencealert.com/statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:13.196033+00:00"
   },
   {
@@ -104870,7 +104856,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert World Stat",
     "source_url": "https://www.allconferencealert.com/statistics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:13.196118+00:00"
   },
   {
@@ -104884,7 +104870,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671002+00:00"
   },
   {
@@ -104898,7 +104884,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671044+00:00"
   },
   {
@@ -104912,7 +104898,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671085+00:00"
   },
   {
@@ -104926,7 +104912,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671123+00:00"
   },
   {
@@ -104940,7 +104926,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671163+00:00"
   },
   {
@@ -104954,7 +104940,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671256+00:00"
   },
   {
@@ -104968,7 +104954,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671301+00:00"
   },
   {
@@ -104982,7 +104968,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671344+00:00"
   },
   {
@@ -104996,7 +104982,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671428+00:00"
   },
   {
@@ -105010,7 +104996,7 @@
     "category": "Exam / Notification",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671470+00:00"
   },
   {
@@ -105024,7 +105010,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671517+00:00"
   },
   {
@@ -105038,7 +105024,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671556+00:00"
   },
   {
@@ -105052,7 +105038,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671632+00:00"
   },
   {
@@ -105066,7 +105052,7 @@
     "category": "Exam / Notification",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671667+00:00"
   },
   {
@@ -105080,7 +105066,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671700+00:00"
   },
   {
@@ -105094,7 +105080,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671736+00:00"
   },
   {
@@ -105108,7 +105094,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671776+00:00"
   },
   {
@@ -105122,7 +105108,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671821+00:00"
   },
   {
@@ -105136,7 +105122,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671853+00:00"
   },
   {
@@ -105150,7 +105136,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671896+00:00"
   },
   {
@@ -105164,7 +105150,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671939+00:00"
   },
   {
@@ -105178,7 +105164,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.671981+00:00"
   },
   {
@@ -105192,7 +105178,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.672024+00:00"
   },
   {
@@ -105206,7 +105192,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.672066+00:00"
   },
   {
@@ -105220,7 +105206,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.672197+00:00"
   },
   {
@@ -105234,7 +105220,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.672242+00:00"
   },
   {
@@ -105248,7 +105234,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.672287+00:00"
   },
   {
@@ -105262,7 +105248,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.672329+00:00"
   },
   {
@@ -105276,7 +105262,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.672372+00:00"
   },
   {
@@ -105290,7 +105276,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.672412+00:00"
   },
   {
@@ -105304,7 +105290,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.672492+00:00"
   },
   {
@@ -105318,7 +105304,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.672531+00:00"
   },
   {
@@ -105332,7 +105318,7 @@
     "category": "Conference",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.672571+00:00"
   },
   {
@@ -105346,7 +105332,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Math",
     "source_url": "https://conferenceindex.org/conferences/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:15.672612+00:00"
   },
   {
@@ -105360,7 +105346,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.907177+00:00"
   },
   {
@@ -105374,7 +105360,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.907225+00:00"
   },
   {
@@ -105388,7 +105374,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.907266+00:00"
   },
   {
@@ -105402,7 +105388,7 @@
     "category": "Conference",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.907547+00:00"
   },
   {
@@ -105416,7 +105402,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.907709+00:00"
   },
   {
@@ -105430,7 +105416,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.907751+00:00"
   },
   {
@@ -105444,7 +105430,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.907788+00:00"
   },
   {
@@ -105458,7 +105444,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.907826+00:00"
   },
   {
@@ -105472,7 +105458,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.907866+00:00"
   },
   {
@@ -105486,7 +105472,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.907905+00:00"
   },
   {
@@ -105500,7 +105486,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.907945+00:00"
   },
   {
@@ -105514,7 +105500,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.908232+00:00"
   },
   {
@@ -105528,7 +105514,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.908272+00:00"
   },
   {
@@ -105542,7 +105528,7 @@
     "category": "Conference",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.908310+00:00"
   },
   {
@@ -105556,7 +105542,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.908393+00:00"
   },
   {
@@ -105570,7 +105556,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.908432+00:00"
   },
   {
@@ -105584,7 +105570,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.908470+00:00"
   },
   {
@@ -105598,7 +105584,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.908508+00:00"
   },
   {
@@ -105612,7 +105598,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.908546+00:00"
   },
   {
@@ -105626,7 +105612,7 @@
     "category": "Workshop / School",
     "source_name": "Conference Index Stat",
     "source_url": "https://conferenceindex.org/conferences/statistics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:16.908582+00:00"
   },
   {
@@ -105640,7 +105626,7 @@
     "category": "Conference",
     "source_name": "Tryolabs AI Conf",
     "source_url": "https://tryolabs.com/blog/machine-learning-deep-learning-conferences",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:39.375667+00:00"
   },
   {
@@ -105654,7 +105640,7 @@
     "category": "Conference",
     "source_name": "Tryolabs AI Conf",
     "source_url": "https://tryolabs.com/blog/machine-learning-deep-learning-conferences",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:39.375793+00:00"
   },
   {
@@ -105668,7 +105654,7 @@
     "category": "Conference",
     "source_name": "Tryolabs AI Conf",
     "source_url": "https://tryolabs.com/blog/machine-learning-deep-learning-conferences",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:39.375907+00:00"
   },
   {
@@ -105682,7 +105668,7 @@
     "category": "Conference",
     "source_name": "Tryolabs AI Conf",
     "source_url": "https://tryolabs.com/blog/machine-learning-deep-learning-conferences",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:39.376106+00:00"
   },
   {
@@ -105696,7 +105682,7 @@
     "category": "Conference",
     "source_name": "Tryolabs AI Conf",
     "source_url": "https://tryolabs.com/blog/machine-learning-deep-learning-conferences",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:39.376149+00:00"
   },
   {
@@ -105710,7 +105696,7 @@
     "category": "Conference",
     "source_name": "Tryolabs AI Conf",
     "source_url": "https://tryolabs.com/blog/machine-learning-deep-learning-conferences",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:39.376397+00:00"
   },
   {
@@ -105724,7 +105710,7 @@
     "category": "Workshop / School",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:43.844373+00:00"
   },
   {
@@ -105738,7 +105724,7 @@
     "category": "Workshop / School",
     "source_name": "ConferenceNext",
     "source_url": "https://conferencenext.com/conferences/india/mathematics",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:43:43.844485+00:00"
   },
   {
@@ -105752,7 +105738,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert Com",
     "source_url": "https://www.allconferencealert.com/applied-mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:44:08.794363+00:00"
   },
   {
@@ -105766,7 +105752,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert Com",
     "source_url": "https://www.allconferencealert.com/applied-mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:44:08.795847+00:00"
   },
   {
@@ -105780,7 +105766,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert Com",
     "source_url": "https://www.allconferencealert.com/applied-mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:44:08.795917+00:00"
   },
   {
@@ -105794,7 +105780,7 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert Com",
     "source_url": "https://www.allconferencealert.com/applied-mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:44:08.795986+00:00"
   },
   {
@@ -105808,7 +105794,567 @@
     "category": "Conference",
     "source_name": "AllConferenceAlert Com",
     "source_url": "https://www.allconferencealert.com/applied-mathematics.html",
-    "is_new": true,
+    "is_new": false,
     "scraped_at": "2026-11-26T08:44:08.796546+00:00"
+  },
+  {
+    "id": "96faa8c50aa7b5009ebabce61266ef79",
+    "title": "[New]Knots in Washington 54",
+    "description": "[New]Knots in Washington 54",
+    "url": "https://blogs.gwu.edu/ccas-knotsinwashington/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:52:56.046283+00:00"
+  },
+  {
+    "id": "8cab7d33e69f5d0805d97ac06258f8db",
+    "title": "Google calendar",
+    "description": "Google calendar iCalendar .ics",
+    "url": "https://www.google.com/calendar/event?action=TEMPLATE&text=Knots+in+Washington+54&dates=20261204/20261207&details=https://blogs.gwu.edu/ccas-knotsinwashington/&location=Washington%2C+DC%3B+United+States",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:52:56.046305+00:00"
+  },
+  {
+    "id": "93b28c26fec744daa718e2ffae2a5457",
+    "title": "Categorification of Verma modules and surgery formulae",
+    "description": "Categorification of Verma modules and surgery formulae",
+    "url": "https://aimath.org/workshops/upcoming/catverma/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:52:56.046415+00:00"
+  },
+  {
+    "id": "a7e5c724230cd68bc3a3b4ae3cbd8a82",
+    "title": "Google calendar",
+    "description": "Google calendar iCalendar .ics",
+    "url": "https://www.google.com/calendar/event?action=TEMPLATE&text=Categorification+of+Verma+modules+and+surgery+formulae&dates=20261207/20261212&details=https://aimath.org/workshops/upcoming/catverma/&location=Pasadena%2C+CA%3B+United+States",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:52:56.046439+00:00"
+  },
+  {
+    "id": "a60832d42adecef6c854756bb903d06f",
+    "title": "Simons Foundation",
+    "description": "This workshop is sponsored by AIM, NSF, and the Simons Foundation. This activity, which is a part of the New Structures in Low-dimensional topology collaboration, will be devoted to developing an approach to q-series invariants of 3-manifolds and knots via 2-representation theory. Verma modules play a key role in the construction of an analogue for a generic parameter q of the Reshetikhin-Turaev …",
+    "url": "https://www.simonsfoundation.org/",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:52:56.046629+00:00"
+  },
+  {
+    "id": "3b8d064935f0a08532c64376c6096a69",
+    "title": "New Structures in Low-dimensional topology collaboration",
+    "description": "This workshop is sponsored by AIM, NSF, and the Simons Foundation. This activity, which is a part of the New Structures in Low-dimensional topology collaboration, will be devoted to developing an approach to q-series invariants of 3-manifolds and knots via 2-representation theory. Verma modules play a key role in the construction of an analogue for a generic parameter q of the Reshetikhin-Turaev …",
+    "url": "https://sites.google.com/view/simons-newstructures/home",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "MathMeetings.net",
+    "source_url": "https://mathmeetings.net/",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:52:56.046746+00:00"
+  },
+  {
+    "id": "0e0c8ec9d9992b3c7203df9a904fea19",
+    "title": "Bahador Bahmani",
+    "description": "Bahador Bahmani",
+    "url": "https://bahadorbahmani.github.io/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:52:59.436402+00:00"
+  },
+  {
+    "id": "2583514209e13861eef7a55063435f21",
+    "title": "Ashvin Swaminathan",
+    "description": "Ashvin Swaminathan",
+    "url": "https://ashvin-swaminathan.github.io/home/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:52:59.436423+00:00"
+  },
+  {
+    "id": "79243431d5b3c442f4224d2de5702798",
+    "title": "Owen Patashnick",
+    "description": "Owen Patashnick",
+    "url": "https://www.kcl.ac.uk/people/owen-patashnick",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:52:59.436508+00:00"
+  },
+  {
+    "id": "f4c42dc90dc1703d2fd0ca29d3db2927",
+    "title": "Alexander Goncharov",
+    "description": "Alexander Goncharov",
+    "url": "https://sasha-goncharov.github.io/",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "ResearchSeminars.org",
+    "source_url": "https://researchseminars.org/",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:52:59.436546+00:00"
+  },
+  {
+    "id": "41b0af4b3d241fd9c901d3d698e85877",
+    "title": "Browse 10 events",
+    "description": "Get free conference alerts for India Browse 10 events Invitation letter & visa",
+    "url": "https://www.allconferencealert.com/india/mathematics.html#events",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert India Math",
+    "source_url": "https://www.allconferencealert.com/india/mathematics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:10.449089+00:00"
+  },
+  {
+    "id": "f287f77804b0a1a65255db8e9868b00e",
+    "title": "Madhya Pradesh 3 events · 2 cities",
+    "description": "Madhya Pradesh 3 events · 2 cities",
+    "url": "https://www.allconferencealert.com/madhya-pradesh/mathematics",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert India Math",
+    "source_url": "https://www.allconferencealert.com/india/mathematics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:10.450018+00:00"
+  },
+  {
+    "id": "7ed74fecce067341b76b9f56f04ee554",
+    "title": "Himachal Pradesh 1 event · 1 city",
+    "description": "Himachal Pradesh 1 event · 1 city",
+    "url": "https://www.allconferencealert.com/himachal-pradesh/mathematics",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert India Math",
+    "source_url": "https://www.allconferencealert.com/india/mathematics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:10.450369+00:00"
+  },
+  {
+    "id": "f836374da0aa39e8b950c7be689bf28b",
+    "title": "International Conference on Applied Physics and Mathematics",
+    "description": "International Conference on Applied Physics and Mathematics ICAPM",
+    "url": "https://www.allconferencealert.com/conference/applied-physics-and-mathematics-delhi-india-nov-2026-2144086",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert India Math",
+    "source_url": "https://www.allconferencealert.com/india/mathematics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:10.450740+00:00"
+  },
+  {
+    "id": "37bcea778a64e4f079ba155e17e74274",
+    "title": "International Conference on Mathematical, Physics, and Dynamics",
+    "description": "International Conference on Mathematical, Physics, and Dynamics ICMPD",
+    "url": "https://www.allconferencealert.com/conference/mathematical-physics-and-dynamics-ernakulam-india-dec-2026-2531723",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert India Math",
+    "source_url": "https://www.allconferencealert.com/india/mathematics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:10.450769+00:00"
+  },
+  {
+    "id": "5a8a1bfd6ed55daeefc03d1523603377",
+    "title": "International Conference on Applied Science Mathematics and Statistics",
+    "description": "International Conference on Applied Science Mathematics and Statistics ICASMS",
+    "url": "https://www.allconferencealert.com/conference/applied-science-mathematics-and-statistics-gulbarga-india-dec-2026-2566949",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "AllConferenceAlert India Math",
+    "source_url": "https://www.allconferencealert.com/india/mathematics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:10.450798+00:00"
+  },
+  {
+    "id": "5ea7f75237962a4130089b7a990361b9",
+    "title": "International conference on Applied Science Mathematics and Statistics",
+    "description": "International conference on Applied Science Mathematics and Statistics ICASMS",
+    "url": "https://www.allconferencealert.com/conference/applied-science-mathematics-and-statistics-nashik-india-dec-2026-2555746",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "AllConferenceAlert India Math",
+    "source_url": "https://www.allconferencealert.com/india/mathematics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:10.450827+00:00"
+  },
+  {
+    "id": "27fab1632c414417720c60a62efe71cc",
+    "title": "International Conference on Astrology and Signs",
+    "description": "International Conference on Astrology and Signs",
+    "url": "https://www.allconferencealert.com/conference/astrology-and-signs-nellore-india-dec-2026-2533529",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert India Stat",
+    "source_url": "https://www.allconferencealert.com/india/mathematics-and-statistics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:11.587580+00:00"
+  },
+  {
+    "id": "e7649cf70c334e8ee26c1f1f80718bce",
+    "title": "International Conference on Signal processing, Communication and Electronics Engineering",
+    "description": "International Conference on Signal processing, Communication and Electronics Engineering",
+    "url": "https://www.allconferencealert.com/conference/signal-processing-communication-and-electronics-engineering-chennai-india-dec-2026-2554298",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert India Stat",
+    "source_url": "https://www.allconferencealert.com/india/mathematics-and-statistics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:11.587658+00:00"
+  },
+  {
+    "id": "ff379624ec1bf82ffa5b4fac7c7032ef",
+    "title": "International Conference on Social Science, Humanities and Business Management",
+    "description": "International Conference on Social Science, Humanities and Business Management",
+    "url": "https://www.allconferencealert.com/conference/social-science-humanities-and-business-management-chennai-india-dec-2026-2554299",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert India Stat",
+    "source_url": "https://www.allconferencealert.com/india/mathematics-and-statistics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:11.587686+00:00"
+  },
+  {
+    "id": "520acef8d8e8a13124ab704af70a79b0",
+    "title": "International Conference on Military Operations, International Law, and Legal Governance",
+    "description": "International Conference on Military Operations, International Law, and Legal Governance",
+    "url": "https://www.allconferencealert.com/conference/military-operations-international-law-and-legal-governance-chennai-india-dec-2026-2532613",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert India Stat",
+    "source_url": "https://www.allconferencealert.com/india/mathematics-and-statistics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:11.587717+00:00"
+  },
+  {
+    "id": "3cb24819e081e6b4f16d7c5d86246b84",
+    "title": "Tripura 94 events · 3 cities",
+    "description": "Tripura 94 events · 3 cities",
+    "url": "https://www.allconferencealert.com/tripura",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert India Stat",
+    "source_url": "https://www.allconferencealert.com/india/mathematics-and-statistics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:11.589295+00:00"
+  },
+  {
+    "id": "fbb57803bef707d6de46ad26ebe78b3c",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/event/icmpd-2026-roorkee-2263872",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:13.437924+00:00"
+  },
+  {
+    "id": "0eee6638f7efa3a26909593a31da78d3",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/event/icmpd-2026-rourkela-2263944",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:13.438209+00:00"
+  },
+  {
+    "id": "8fdeea2308e160765bc7d3ea778c7d3a",
+    "title": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "description": "International Conference on Mathematical, Physics, and Dynamics (ICMPD)",
+    "url": "https://www.conferencealerts.in/event/icmpd-2026-goa-2263926",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Conference",
+    "source_name": "Conference Alerts India Math",
+    "source_url": "https://www.conferencealerts.in/india/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:13.438303+00:00"
+  },
+  {
+    "id": "a319917c64758e3bc768c712d1946243",
+    "title": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "description": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "url": "https://www.conferencealerts.in/event/icasms-2026-jodhpur-2298609",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Alerts India Stat",
+    "source_url": "https://www.conferencealerts.in/india/statistics",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:14.298202+00:00"
+  },
+  {
+    "id": "77f0b13777c27d76bbb24eeebc652503",
+    "title": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "description": "International Conference on Applied Science Mathematics and Statistics (ICASMS)",
+    "url": "https://www.conferencealerts.in/event/icasms-2026-jaipur-2298625",
+    "deadline": null,
+    "event_date": null,
+    "location": "India",
+    "category": "Workshop / School",
+    "source_name": "Conference Alerts India Stat",
+    "source_url": "https://www.conferencealerts.in/india/statistics",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:53:14.298298+00:00"
+  },
+  {
+    "id": "7322b337067f86003bb8e957768f59c0",
+    "title": "International Conference on Mathematics, Statistics and Applied Science",
+    "description": "International Conference on Mathematics, Statistics and Applied Science ICMSA",
+    "url": "https://www.allconferencealert.com/conference/mathematics-statistics-and-applied-science-yogyakarta-indonesia-nov-2026-2395109",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "AllConferenceAlert World Math",
+    "source_url": "https://www.allconferencealert.com/mathematics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:54:42.915892+00:00"
+  },
+  {
+    "id": "f1e1ecf83fbe35633bba0fd6edc75767",
+    "title": "International conference on Applied Science Mathematics and Statistics",
+    "description": "International conference on Applied Science Mathematics and Statistics ICASMS",
+    "url": "https://www.allconferencealert.com/conference/applied-science-mathematics-and-statistics-kagoshima-japan-nov-2026-2195104",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "AllConferenceAlert World Math",
+    "source_url": "https://www.allconferencealert.com/mathematics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:54:42.915952+00:00"
+  },
+  {
+    "id": "40c7516cf66d21ebf0b8fca5cf741fd7",
+    "title": "International Conference on the Theory and Application of Diagrams",
+    "description": "International Conference on the Theory and Application of Diagrams ICTAD",
+    "url": "https://www.allconferencealert.com/conference/the-theory-and-application-of-diagrams-chiang-mai-thailand-dec-2026-2891564",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert World Math",
+    "source_url": "https://www.allconferencealert.com/mathematics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:54:42.916200+00:00"
+  },
+  {
+    "id": "25df544f554443b833b3e2909e22f4d3",
+    "title": "International Conference on Combinatorial Algorithms",
+    "description": "International Conference on Combinatorial Algorithms ICCA",
+    "url": "https://www.allconferencealert.com/conference/combinatorial-algorithms-phuket-thailand-dec-2026-2890189",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert World Math",
+    "source_url": "https://www.allconferencealert.com/mathematics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:54:42.916227+00:00"
+  },
+  {
+    "id": "129131ca2f61b4a815b6b17243518a1b",
+    "title": "International Conference on Quantum Control Engineering, Statistics and Analysis",
+    "description": "International Conference on Quantum Control Engineering, Statistics and Analysis ICQCESA",
+    "url": "https://www.allconferencealert.com/conference/quantum-control-engineering-statistics-and-analysis-burlington-canada-nov-2026-2710726",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "AllConferenceAlert World Stat",
+    "source_url": "https://www.allconferencealert.com/statistics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:54:44.849443+00:00"
+  },
+  {
+    "id": "f8f49de8af3a4d8b802d317e010ceed3",
+    "title": "International Conference on Probability and Statistics",
+    "description": "International Conference on Probability and Statistics ICPS",
+    "url": "https://www.allconferencealert.com/conference/probability-and-statistics-kano-nigeria-dec-2026-2986641",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "AllConferenceAlert World Stat",
+    "source_url": "https://www.allconferencealert.com/statistics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:54:44.849526+00:00"
+  },
+  {
+    "id": "e9844f4c0a658103bef9b556ea8843f0",
+    "title": "International Conference on Mathematical Education (ICME)",
+    "description": "Dec 03 International Conference on Mathematical Education (ICME) - Tokyo, Japan",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematical-education-icme-2026-december-tokyo-jp",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Conference Index Math",
+    "source_url": "https://conferenceindex.org/conferences/mathematics",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:54:47.234633+00:00"
+  },
+  {
+    "id": "a37129c7453fdb419ebb432c070abaf9",
+    "title": "International Conference on Mathematical, Statistical and Computational Sciences (ICMSCS)",
+    "description": "Dec 17 International Conference on Mathematical, Statistical and Computational Sciences (ICMSCS) - Rome, Italy",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematical-statistical-and-computational-sciences-icmscs-2026-december-rome-it",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:54:48.000928+00:00"
+  },
+  {
+    "id": "9737e65b7ed5481213de3391f198dd06",
+    "title": "International Conference on Mathematics, Statistics and Biostatistics (ICMSB)",
+    "description": "Dec 17 International Conference on Mathematics, Statistics and Biostatistics (ICMSB) - Rome, Italy",
+    "url": "https://conferenceindex.org/event/international-conference-on-mathematics-statistics-and-biostatistics-icmsb-2026-december-rome-it",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Workshop / School",
+    "source_name": "Conference Index Stat",
+    "source_url": "https://conferenceindex.org/conferences/statistics",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:54:48.001147+00:00"
+  },
+  {
+    "id": "5cc8336281f3880d8a1cb8f50d5fab63",
+    "title": "Generative AI Summit AustinFeb 24Austin, TX",
+    "description": "Generative AI Summit AustinFeb 24Austin, TX",
+    "url": "https://world.aiacceleratorinstitute.com/location/austin",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "Tryolabs AI Conf",
+    "source_url": "https://tryolabs.com/blog/machine-learning-deep-learning-conferences",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:55:23.463986+00:00"
+  },
+  {
+    "id": "38c48bea2d5e6c0b5a3ceb1071ac7207",
+    "title": "International Annual Conference on Complex Systems and Intelligent Science",
+    "description": "International Annual Conference on Complex Systems and Intelligent Science",
+    "url": "https://www.allconferencealert.com/conference/complex-systems-and-intelligent-science-dubai-uae-dec-2026-2987782",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert Com",
+    "source_url": "https://www.allconferencealert.com/applied-mathematics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:55:49.697756+00:00"
+  },
+  {
+    "id": "3be551cc70b24aaa152e51beaecd48a4",
+    "title": "Submission open 61",
+    "description": "All 67 Submission open 61 Submission closed 11 This week 5 Next week 0",
+    "url": "https://www.allconferencealert.com/applied-mathematics?submission=open",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert Com",
+    "source_url": "https://www.allconferencealert.com/applied-mathematics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:55:49.698299+00:00"
+  },
+  {
+    "id": "d6e2d7f939c4d782c462432ce29cd78f",
+    "title": "Submission closed 11",
+    "description": "All 67 Submission open 61 Submission closed 11 This week 5 Next week 0",
+    "url": "https://www.allconferencealert.com/applied-mathematics?submission=closed",
+    "deadline": null,
+    "event_date": null,
+    "location": "World",
+    "category": "Conference",
+    "source_name": "AllConferenceAlert Com",
+    "source_url": "https://www.allconferencealert.com/applied-mathematics.html",
+    "is_new": true,
+    "scraped_at": "2026-11-27T08:55:49.698335+00:00"
   }
 ]
